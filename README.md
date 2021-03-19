@@ -1,1 +1,1 @@
-![Metrics](https://github.com/ProFireDev/ProFireDev/blob/master/github-metrics.svg)
+![Metrics](https://github.com/ProFireDev/ProFireDev/blob/main/github-metrics.svg)
