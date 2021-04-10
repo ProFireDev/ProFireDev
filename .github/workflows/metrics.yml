@@ -34,7 +34,7 @@ jobs:
           plugin_wakatime_limit: 4   
           plugin_habits: yes
           plugin_habits_from: 200
-          lugin_habits_facts: yes
+          plugin_habits_facts: yes
           plugin_habits_charts: yes
           #they look dumb, commented them out incase they get better and should be re-enabled
           #plugin_achievements: yes
@@ -42,8 +42,6 @@ jobs:
           #plugin_achievements_limit: 0
           #plugin_achievements_ignored: octonaut
           plugin_habits_days: 14
-          plugin_habits_facts: yes
-          lugin_habits_charts: yes
           plugin_topics: yes
           plugin_people_limit: 28
           plugin_people_size: 28
