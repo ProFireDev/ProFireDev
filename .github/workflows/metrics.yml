@@ -22,7 +22,7 @@ jobs:
           plugin_introduction: yes
           plugin_lines: yes
           # add c#, java, when it gets to be too much
-          plugin_languages_ignored: HLSL, ShaderLab
+          #plugin_languages_ignored: HLSL, ShaderLab not currently workinfg as intended, for noew jusr use %
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           #plugin_languages_skipped: ryjinux, geyser #might be repos skipped, and thats why this broke, oops
