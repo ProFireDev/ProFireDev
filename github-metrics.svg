@@ -1516,10 +1516,8 @@ check out the featured project in the link below:
                         04
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            1
-                        </span>
-                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         05
                     </div>
                     <div class="entry">
@@ -1644,10 +1642,8 @@ check out the featured project in the link below:
                             Tue
                         </div>
                         <div class="entry">
-                            <span class="value">
-                                1
-                            </span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -1676,29 +1672,11 @@ check out the featured project in the link below:
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">
-                                C#
-                            </span>
-                            <div class="bar" style="width: 70.89600000000002%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">
-                                89%
-                            </span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">
                                 Java
                             </span>
-                            <div class="bar" style="width: 7.368000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
-                                9%
-                            </span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">
-                                Smalltalk
-                            </span>
-                            <div class="bar" style="width: 1.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">
-                                2%
+                                100%
                             </span>
                         </div>
                     </div>
@@ -3412,7 +3390,7 @@ Bump ssri from 6.0.1 to 6.0.2 in /frontend
                     These metrics include private contributions, timezone America/Edmonton
                 </span>
                 <span>
-                    Last updated Wed, 28 Apr 2021 05:10:05 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 28 Apr 2021 06:08:14 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
