@@ -1473,10 +1473,10 @@ check out the featured project in the link below:
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 21:00
+                            Mostly push code around 00:00
                         </li>
                         <li>
-                            Mostly active on friday
+                            Mostly active on tuesday
                         </li>
                     </ul>
                 </div>
@@ -1490,7 +1490,7 @@ check out the featured project in the link below:
                         <span class="value">
                             1
                         </span>
-                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         00
                     </div>
                     <div class="entry">
@@ -1512,7 +1512,7 @@ check out the featured project in the link below:
                         <span class="value">
                             1
                         </span>
-                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         04
                     </div>
                     <div class="entry">
@@ -1569,7 +1569,7 @@ check out the featured project in the link below:
                         <span class="value">
                             1
                         </span>
-                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         15
                     </div>
                     <div class="entry">
@@ -1598,10 +1598,8 @@ check out the featured project in the link below:
                         20
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            3
-                        </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         21
                     </div>
                     <div class="entry">
@@ -1631,14 +1629,14 @@ check out the featured project in the link below:
                             <span class="value">
                                 1
                             </span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
                             <span class="value">
                                 2
                             </span>
-                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -1652,10 +1650,8 @@ check out the featured project in the link below:
                             Thu
                         </div>
                         <div class="entry">
-                            <span class="value">
-                                3
-                            </span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -2725,7 +2721,7 @@ check out the featured project in the link below:
                                             VukkyLtd/PowerShell-Tools
                                         </span>
                                         <span>
-                                            starred 15 hours ago
+                                            starred 16 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2777,7 +2773,7 @@ check out the featured project in the link below:
                                             ArchiveTeam/ArchiveBot
                                         </span>
                                         <span>
-                                            starred 17 hours ago
+                                            starred 18 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2835,7 +2831,7 @@ check out the featured project in the link below:
                                             ArchiveTeam/seesaw-kit
                                         </span>
                                         <span>
-                                            starred 17 hours ago
+                                            starred 18 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -3292,7 +3288,7 @@ check out the featured project in the link below:
                     These metrics include private contributions, timezone America/Edmonton
                 </span>
                 <span>
-                    Last updated Fri, 30 Apr 2021 20:24:16 GMT with lowlighter/metrics@3.7.0
+                    Last updated Fri, 30 Apr 2021 21:21:55 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
