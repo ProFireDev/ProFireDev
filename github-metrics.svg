@@ -2678,7 +2678,7 @@ check out the featured project in the link below:
                                     </svg>
                                     <div class="name">
                                         <span>FoldingAtHome/containers</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3626,7 +3626,7 @@ Also updated the debug Config.json
             </section>
             <footer>
                 <span>These metrics include private contributions, timezone America/Edmonton</span>
-                <span>Last updated Tue, 04 May 2021 10:23:43 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Tue, 04 May 2021 11:18:55 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
