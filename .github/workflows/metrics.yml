@@ -27,11 +27,15 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           #plugin_languages_skipped: ryjinux, geyser #might be repos skipped, and thats why this broke, oops
           #walkatime
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{secrets.WAKATIME_TOKEN}}
-          plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs
-          plugin_wakatime_limit: 4   
+          
+          #temp removed/ disabled wakatime because it was broken and causing crash issues in vs code
+          #stats were very inaccurate 
+          
+          #plugin_wakatime: yes
+          #plugin_wakatime_token: ${{secrets.WAKATIME_TOKEN}}
+          #plugin_wakatime_days: 7
+          #plugin_wakatime_sections: time, projects, projects-graphs
+          #plugin_wakatime_limit: 4   
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: yes
