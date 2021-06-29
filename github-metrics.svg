@@ -2824,7 +2824,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dguo/make-a-readme</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2866,7 +2866,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>saadpasta/developerFolio</span>
-                                            <span>starred 8 days ago</span>
+                                            <span>starred 9 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -3266,23 +3266,18 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                             <div class="chart-bars horizontal">
                                 <div class="entry">
                                     <span class="name">learning</span>
-                                    <div class="bar" style="width: 50.896%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                    <span class="value">64%</span>
-                                </div>
-                                <div class="entry">
-                                    <span class="name">intro to react native</span>
-                                    <div class="bar" style="width: 14.136000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">18%</span>
+                                    <div class="bar" style="width: 53.704%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                    <span class="value">67%</span>
                                 </div>
                                 <div class="entry">
                                     <span class="name">Desktop</span>
-                                    <div class="bar" style="width: 10.671999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">13%</span>
+                                    <div class="bar" style="width: 19.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <span class="value">24%</span>
                                 </div>
                                 <div class="entry">
-                                    <span class="name">simple-projects</span>
-                                    <div class="bar" style="width: 4.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                    <span class="value">5%</span>
+                                    <span class="name">intro to react native</span>
+                                    <div class="bar" style="width: 6.751999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                    <span class="value">8%</span>
                                 </div>
                             </div>
                         </section>
@@ -3290,7 +3285,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated Tue, 29 Jun 2021 06:26:24 (timezone America/Edmonton) with lowlighter/metrics@3.10.0</span>
+                    <span>Last updated Tue, 29 Jun 2021 07:18:05 (timezone America/Edmonton) with lowlighter/metrics@3.10.0</span>
                 </footer>
                 <div id="metrics-end"></div>
             </section>
