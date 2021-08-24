@@ -1803,13 +1803,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 51.75309158774179%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">65%</span>
+                            <div class="bar" style="width: 50.522480184575045%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">63%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 28.246908412258207%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">35%</span>
+                            <div class="bar" style="width: 29.477519815424955%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">37%</span>
                         </div>
                     </div>
                 </section>
@@ -2944,7 +2944,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Gictorbit/photoshopCClinux</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3543,7 +3543,7 @@ Co-authored-by: Colin Delahunty &lt;colindelahunty@Colins-MacBook-Air.local&gt;<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24/08/2021, 00:23 (timezone America/Edmonton) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 24/08/2021, 01:19 (timezone America/Edmonton) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
