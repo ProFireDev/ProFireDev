@@ -1803,13 +1803,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 54.88083898234549%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">69%</span>
+                            <div class="bar" style="width: 56.3852307926192%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">70%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 25.11916101765451%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">31%</span>
+                            <div class="bar" style="width: 23.614769207380803%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">30%</span>
                         </div>
                     </div>
                 </section>
@@ -3692,7 +3692,7 @@ Co-authored-by: didier &lt;dro.lopes@campus.fct.unl.pt&gt;</span>
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 01/09/2021, 02:23 (timezone America/Edmonton) with lowlighter/metrics@3.13.0</span>
+                        <span>Last updated 01/09/2021, 03:19 (timezone America/Edmonton) with lowlighter/metrics@3.13.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
