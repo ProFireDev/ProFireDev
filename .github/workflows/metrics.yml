@@ -55,11 +55,11 @@ jobs:
           plugin_topics_limit: 0  
           plugin_stars_limit: 4 
           plugin_stargazers: yes
-        #lugin_activity: yes
+        #plugin_activity: yes
           #plugin_activity_limit: 5
           #plugin_activity_days: 14
           plugin_people: yes
-          #plugin_activity_filter: all
+          #plugin_activity_filter: all ## look at docs to figure this out
           config_timezone: America/Edmonton
           template: classic
           base: header, activity, community, repositories, metadata
