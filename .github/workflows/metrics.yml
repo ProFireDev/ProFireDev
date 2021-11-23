@@ -51,7 +51,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
-          plugin_people: yes
           
           #plugin_activity_filter: all ## look at docs to figure this out
           
@@ -59,7 +58,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_twemoji: yes
-          #plugin_achievements_threshold: C
           plugin_activity_visibility: all
           plugin_followup: yes
           plugin_gists: yes
@@ -69,4 +67,3 @@ jobs:
           plugin_languages_colors: github
           repositories_forks: yes
           plugin_languages_threshold: 2%
-          
