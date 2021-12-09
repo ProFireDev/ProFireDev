@@ -3045,7 +3045,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>louislam/uptime-kuma</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3470,7 +3470,7 @@ This reverts commit 0d066402eb9b40fa36041c6f43df4b1f84fa67d7.</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2021, 19:26:07 (timezone America/Edmonton) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 8 Dec 2021, 20:07:23 (timezone America/Edmonton) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
