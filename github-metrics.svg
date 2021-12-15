@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2303" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2376" class="">
     <defs>
         <style/>
     </defs>
@@ -1481,7 +1481,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            65 issue comments
+            67 issue comments
           </div>
                     </section>
                     <section>
@@ -3246,6 +3246,177 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#61 BUG REPORT: When deployed to Netlify icons don't show up</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ProFireDev in <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span></div>
+                                    <div class="comment">```sh
+7:58:10 AM: Build ready to start
+7:58:13 AM: build-image version: a6bb34428a07e7de82f4df5dfe1843fbde91f670 (focal)
+7:58:13 AM: build-image tag: v4.5.1
+7:58:13 AM: buildbot version: 5284b4d1b8b4cf691b29019968d8e4eb3089acdd
+7:58:13 AM: Building without cache
+7:58:13 AM: Starting to prepare the repo for build
+7:58:13 AM: No cached dependencies found. Cloning fresh repo
+7:58:13 AM: git clone https://github.com/JCS-Computer-Science/project-module-1-project-flip
+7:58:15 AM: Preparing Git Reference refs/heads/Deploy
+7:58:16 AM: Parsing package.json dependencies
+7:58:16 AM: Different publish path detected, going to use the one specified in the Netlify configuration file: 'Vue/project-flip/dist' versus 'dist/' in the Netlify UI
+7:58:17 AM: Starting build script
+7:58:17 AM: Installing dependencies
+7:58:17 AM: Python version set to 2.7
+7:58:18 AM: v16.13.1 is already installed.
+7:58:18 AM: Now using node v16.13.1 (npm v8.1.2)
+7:58:18 AM: Started restoring cached build plugins
+7:58:18 AM: Finished restoring cached build plugins
+7:58:18 AM: Attempting ruby version 2.7.2, read from environment
+7:58:20 AM: Using ruby version 2.7.2
+7:58:20 AM: Using PHP version 8.0
+7:58:20 AM: Started restoring cached node modules
+7:58:20 AM: Finished restoring cached node modules
+7:58:21 AM: Installing NPM modules using NPM version 8.1.2
+7:58:23 AM: npm WARN old lockfile
+7:58:23 AM: npm WARN old lockfile The package-lock.json file was created with an old version of npm,
+7:58:23 AM: npm WARN old lockfile so supplemental metadata must be fetched from the registry.
+7:58:23 AM: npm WARN old lockfile
+7:58:23 AM: npm WARN old lockfile This is a one-time fix-up, please be patient...
+7:58:23 AM: npm WARN old lockfile
+7:58:26 AM: npm WARN old lockfile vue-loader-v16: No matching version found for vue-loader-v16@16.8.3.
+7:58:26 AM: npm WARN old lockfile     at module.exports (/opt/buildhome/.nvm/versions/node/v16.13.1/lib/node_modules/npm/node_modules/npm-pick-manifest/index.js:209:23)
+7:58:26 AM: npm WARN old lockfile     at /opt/buildhome/.nvm/versions/node/v16.13.1/lib/node_modules/npm/node_modules/pacote/lib/registry.js:118:26
+7:58:26 AM: npm WARN old lockfile     at async Array. (/opt/buildhome/.nvm/versions/node/v16.13.1/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:741:9)
+7:58:26 AM: npm WARN old lockfile  Could not fetch metadata for vue-loader-v16@16.8.3 vue-loader-v16: No matching version found for vue-loader-v16@16.8.3.
+7:58:26 AM: npm WARN old lockfile     at module.exports (/opt/buildhome/.nvm/versions/node/v16.13.1/lib/node_modules/npm/node_modules/npm-pick-manifest/index.js:209:23)
+7:58:26 AM: npm WARN old lockfile     at /opt/buildhome/.nvm/versions/node/v16.13.1/lib/node_modules/npm/node_modules/pacote/lib/registry.js:118:26
+7:58:26 AM: npm WARN old lockfile     at async Array. (/opt/buildhome/.nvm/versions/node/v16.13.1/lib/node_modules/npm/node_modules/@npmcli/arborist/lib/arborist/build-ideal-tree.js:741:9) {
+7:58:26 AM: npm WARN old lockfile   code: 'ETARGET',
+7:58:26 AM: npm WARN old lockfile   type: 'version',
+7:58:26 AM: npm WARN old lockfile   wanted: '16.8.3',
+7:58:26 AM: npm WARN old lockfile   versions: [
+7:58:26 AM: npm WARN old lockfile     '16.0.0-beta.5',
+7:58:26 AM: npm WARN old lockfile     '16.0.0-beta.5.1',
+7:58:26 AM: npm WARN old lockfile     '16.0.0-beta.5.2',
+7:58:26 AM: npm WARN old lockfile     '16.0.0-beta.5.3',
+7:58:26 AM: npm WARN old lockfile     '16.0.0-beta.5.4'
+7:58:26 AM: npm WARN old lockfile   ],
+7:58:26 AM: npm WARN old lockfile   distTags: { latest: '16.0.0-beta.5.4' },
+7:58:26 AM: npm WARN old lockfile   defaultTag: 'latest'
+7:58:26 AM: npm WARN old lockfile }
+7:58:52 AM: npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+7:58:52 AM: npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+7:58:52 AM: npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+7:58:53 AM: npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+7:58:54 AM: npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+7:58:55 AM: npm WARN deprecated request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+7:58:55 AM: npm WARN deprecated request-promise@4.2.6: request-promise has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142
+7:58:57 AM: npm WARN deprecated sane@4.1.0: some dependency vulnerabilities fixed, support for node &lt; 10 dropped, and newer ECMAScript syntax/features added
+7:58:58 AM: npm WARN deprecated querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+7:58:59 AM: npm WARN deprecated left-pad@1.3.0: use String.prototype.padStart()
+7:59:01 AM: npm WARN deprecated eslint-loader@2.2.1: This loader has been deprecated. Please use eslint-webpack-plugin
+7:59:03 AM: npm WARN deprecated html-webpack-plugin@3.2.0: 3.x is no longer supported
+7:59:05 AM: npm WARN deprecated babel-eslint@10.1.0: babel-eslint is now @babel/eslint-parser. This package will no longer receive updates.
+7:59:07 AM: npm WARN deprecated @hapi/bourne@1.3.2: This version has been deprecated and is no longer supported or maintained
+7:59:07 AM: npm WARN deprecated @hapi/topo@3.1.6: This version has been deprecated and is no longer supported or maintained
+7:59:08 AM: npm WARN deprecated svgo@1.3.2: This SVGO version is no longer supported. Upgrade to v2.x.x.
+7:59:08 AM: npm WARN deprecated @hapi/address@2.1.4: Moved to 'npm install @sideway/address'
+7:59:10 AM: npm WARN deprecated @hapi/hoek@8.5.1: This version has been deprecated and is no longer supported or maintained
+7:59:10 AM: npm WARN deprecated mkdirp@0.5.4: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)
+7:59:11 AM: npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+7:59:11 AM: npm WARN deprecated chokidar@2.1.8: Chokidar 2 will break on node v14+. Upgrade to chokidar 3 with 15x less dependencies.
+7:59:12 AM: npm WARN deprecated debug@3.2.6: Debug versions &gt;=3.2.0 &lt;3.2.7 || &gt;=4 &lt;4.3.1 have a low-severity ReDos regression when used in a Node.js environment. It is recommended you upgrade to 3.2.7 or 4.3.1. (https://github.com/visionmedia/debug/issues/797)
+7:59:13 AM: npm WARN deprecated @hapi/joi@15.1.1: Switch to 'npm install joi'
+7:59:20 AM: npm WARN deprecated core-js@2.6.12: core-js@&lt;3.3 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Please, upgrade your dependencies to the actual version of core-js.
+7:59:24 AM: added 1910 packages, and audited 1911 packages in 1m
+7:59:24 AM: 109 packages are looking for funding
+7:59:24 AM:   run <code>npm fund</code> for details
+7:59:24 AM: 65 vulnerabilities (54 moderate, 11 high)
+7:59:24 AM: To address issues that do not require attention, run:
+7:59:24 AM:   npm audit fix
+7:59:24 AM: To address all issues possible (including breaking changes), run:
+7:59:24 AM:   npm audit fix --force
+7:59:24 AM: Some issues need review, and may require choosing
+7:59:24 AM: a different dependency.
+7:59:24 AM: Run <code>npm audit</code> for details.
+7:59:24 AM: NPM modules installed
+7:59:25 AM: Started restoring cached go cache
+7:59:25 AM: Finished restoring cached go cache
+7:59:25 AM: go version go1.16.5 linux/amd64
+7:59:25 AM: go version go1.16.5 linux/amd64
+7:59:25 AM: Installing missing commands
+7:59:25 AM: Verify run directory
+7:59:26 AM: ​
+7:59:26 AM: ────────────────────────────────────────────────────────────────
+7:59:26 AM:   Netlify Build<br />7:59:26 AM: ────────────────────────────────────────────────────────────────
+7:59:26 AM: ​
+7:59:26 AM: ❯ Version
+7:59:26 AM:   @netlify/build 20.3.1
+7:59:26 AM: ​
+7:59:26 AM: ❯ Flags
+7:59:26 AM:   baseRelDir: true
+7:59:26 AM:   buildId: 61ba02822b5e4c212993af41
+7:59:26 AM:   deployId: 61ba02822b5e4c212993af43
+7:59:26 AM: ​
+7:59:26 AM: ❯ Current directory
+7:59:26 AM:   /opt/build/repo/Vue/project-flip
+7:59:26 AM: ​
+7:59:26 AM: ❯ Config file
+7:59:26 AM:   /opt/build/repo/Vue/project-flip/netlify.toml
+7:59:26 AM: ​
+7:59:26 AM: ❯ Context
+7:59:26 AM:   production
+7:59:26 AM: ​
+7:59:26 AM: ────────────────────────────────────────────────────────────────
+7:59:26 AM:   1. Build command from Netlify app<br />7:59:26 AM: ────────────────────────────────────────────────────────────────
+7:59:26 AM: ​
+7:59:26 AM: $ npm run build
+7:59:27 AM: &gt; project-flip@0.1.0 build
+7:59:27 AM: &gt; vue-cli-service build
+7:59:28 AM: -  Building for production...
+7:59:43 AM:  WARNING  Compiled with 13 warnings2:59:43 PM
+7:59:43 AM: Module Warning (from ./node_modules/eslint-loader/index.js):
+7:59:43 AM: 
+7:59:43 AM: /opt/build/repo/Vue/project-flip/src/App.vue
+7:59:43 AM:    1:11  warning  Insert <code>␍</code>                                                                                                                                    prettier/prettier
+7:59:43 AM:    2:1   warning  Replace <code>··</code> with <code>····␍</code>                                                                                         prettier/prettier
+7:59:43 AM:    3:1   warning  Replace <code>······</code> with <code>········␍</code>                                                   prettier/prettier
+7:59:43 AM:    4:1   warning  Replace <code>····Home·|</code> with <code>········Home·|␍</code>                               prettier/prettier
+7:59:43 AM:    5:1   warning  Replace <code>····About·|</code> with <code>········About·|␍</code>                   prettier/prettier
+7:59:43 AM:    6:1   warning  Replace <code>····Build·|</code> with <code>········Build·|␍</code>                   prettier/prettier
+7:59:43 AM:    7:1   warning  Replace <code>····Contact·|</code> with <code>········Contact·|␍</code>           prettier/prettier
+7:59:43 AM:    8:1   warning  Replace <code>····Login·|</code> with <code>········Login·|␍</code>                   prettier/prettier
+7:59:43 AM:    9:5   warning  Replace <code>Shop·|</code> with <code>····Shop·|␍</code>                               prettier/prettier
+7:59:43 AM:   10:1   warning  Replace <code>····Signup</code> with <code>········Signup␍</code>                   prettier/prettier
+7:59:43 AM:   11:1   warning  Replace <code>··</code> with <code>····␍</code>                                                                                                         prettier/prettier
+7:59:43 AM:   12:1   warning  Replace `···
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#61 BUG REPORT: When deployed to Netlify icons don't show up</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ProFireDev in <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span></div>
+                                    <div class="comment">Fixed the netlify deployment, icons show up on Android mobile currently, checking desktop now.
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
@@ -3295,36 +3466,6 @@ This reverts commit a2c959741f673bac0f5aca2b22d2a19520994fd4.</span>
                                         <span class="sha">#a2c9597</span>
                                         <span class="message">try removing this to see what happens</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#60 Deploy dev version of site</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ProFireDev in <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span></div>
-                                    <div class="comment">See commit c9f716e for more details
-</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Deleted
-                      branch  <span class="code">deploy-patch-1</span> in  <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
-                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3384,7 +3525,7 @@ This reverts commit a2c959741f673bac0f5aca2b22d2a19520994fd4.</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2021, 07:06:47 (timezone America/Edmonton) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 15 Dec 2021, 08:07:22 (timezone America/Edmonton) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
