@@ -1743,7 +1743,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grokbeer/rickroll-fm</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rickroll FM: build your own Raspberry Pi powered FM radio station that plays the infamous Rickrolling song 24/7 - no extra hardware required!</div>
@@ -3052,7 +3052,7 @@ Co-authored-by: Danglewood &lt;85772166+deeleeramone@users.noreply.github.com&gt
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 13:07:46 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 5 Jan 2022, 14:07:05 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
