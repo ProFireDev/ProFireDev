@@ -1716,7 +1716,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dessant/buster</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Captcha solver extension for humans</div>
@@ -2764,7 +2764,7 @@ This reverts commit bb6b4d89bfb0c9d682930199e075af02a7885296.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2022, 12:04:45 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 7 Jan 2022, 13:08:08 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
