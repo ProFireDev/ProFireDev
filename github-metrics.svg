@@ -2781,7 +2781,7 @@ This reverts commit bb6b4d89bfb0c9d682930199e075af02a7885296.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2022, 17:26:14 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 18:57:21 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
