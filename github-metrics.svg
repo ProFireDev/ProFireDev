@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2919" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2554" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex:1 1 0;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:7px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.symbol{color:#b44418}.space{margin-left:7px}.blue{color:#58a6ff}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex:1 1 0;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:7px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid#777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -112,7 +112,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            82 issue comments
+                            84 issue comments
                         </div>
                     </section>
                     <section>
@@ -133,7 +133,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 16 users
+                            Following 17 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -151,7 +151,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 9 repositories
+                            Watching 10 repositories
                         </div>
                     </section>
                 </div>
@@ -189,7 +189,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    838 MB used
+                                    839 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -345,12 +345,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.75339802884605" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="248.75339802884605" y="0" width="68.56935366116066" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="317.3227516900067" y="0" width="49.50033853770641" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="366.8230902277132" y="0" width="46.049815334464526" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="412.8729055621777" y="0" width="34.43079639339028" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.303701955568" y="0" width="12.696298044432048" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.82310142912908" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="250.82310142912908" y="0" width="68.97508510347936" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="319.79818653260844" y="0" width="49.79323678856951" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="369.591423321178" y="0" width="43.00236975819377" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="412.5937930793718" y="0" width="34.63452671801756" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.22831979738936" y="0" width="12.771680202610707" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -363,7 +363,7 @@
                             </div>
                             <small>
                                 <div>21.4 MB</div>
-                                <div>54.08%</div>
+                                <div>54.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -375,7 +375,7 @@
                             </div>
                             <small>
                                 <div>4.26 MB</div>
-                                <div>10.76%</div>
+                                <div>10.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -387,7 +387,7 @@
                             </div>
                             <small>
                                 <div>2.97 MB</div>
-                                <div>7.48%</div>
+                                <div>7.53%</div>
                             </small>
                         </div>
                     </section>
@@ -401,7 +401,7 @@
                             </div>
                             <small>
                                 <div>5.91 MB</div>
-                                <div>14.91%</div>
+                                <div>14.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -412,8 +412,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>3.97 MB</div>
-                                <div>10.01%</div>
+                                <div>3.68 MB</div>
+                                <div>9.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -425,7 +425,7 @@
                             </div>
                             <small>
                                 <div>1.09 MB</div>
-                                <div>2.76%</div>
+                                <div>2.78%</div>
                             </small>
                         </div>
                     </section>
@@ -475,13 +475,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 16 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 51.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 16:00</li>
+                        <li>Has approximately 48.9 characters per line of code written</li>
+                        <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
@@ -571,7 +571,7 @@
                     </div>
                     <div class="entry">
                         <span class="value">6</span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         16
                     </div>
                     <div class="entry">
@@ -601,12 +601,12 @@
                     </div>
                     <div class="entry">
                         <span class="value">1</span>
-                        <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         22
                     </div>
                     <div class="entry">
-                        <span class="value">5</span>
-                        <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <span class="value">9</span>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         23
                     </div>
                 </div>
@@ -616,8 +616,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 41.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
@@ -1860,7 +1860,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        1.57k
+                                        1.58k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1886,7 +1886,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Revadike/epicgames-freebies-claimer</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Claim available free game promotions from the Epic Games Store.</div>
@@ -1913,7 +1913,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        279
+                                        280
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1947,12 +1947,34 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">dessant/buster</span>
+                                        Commented on
+                                        <span class="issue">#65 Migrate to Vite on Vue 3 with tailwind css 2.0</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ProFireDev in <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span></div>
+                                    <div class="comment">Also this branch is worth checking out, I tried to incorporate PWA but had a hard time getting it fully working 
+https://github.com/JCS-Computer-Science/project-module-1-project-flip/tree/Vite-migration</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#65 Migrate to Vite on Vue 3 with tailwind css 2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ProFireDev in <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span></div>
+                                    <div class="comment">merge vite-base into vite migration branch - see #73 for the original attempt at this</div>
                                 </div>
                             </section>
                         </div>
@@ -1963,91 +1985,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 321 commits in
-                                        <span class="repo">ProFireDev/Vukkybox</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">ProFireDev/Ghost</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a43005d</span>
-                                        <span class="message">mlfao</span>
+                                        <span class="sha">#bae53c8</span>
+                                        <span class="message">v4.32.1</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#62fb32a</span>
-                                        <span class="message">funy</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a651bda</span>
-                                        <span class="message">lol</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#720645a</span>
-                                        <span class="message">ddeps</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#245d582</span>
-                                        <span class="message">i'm blue</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#275d0b8</span>
-                                        <span class="message">farding atm... lol</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3b080f8</span>
-                                        <span class="message">bye reddit...</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fc248e2</span>
-                                        <span class="message">lol.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d6ac407</span>
-                                        <span class="message">lol</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e4c924a</span>
-                                        <span class="message">please</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1388fd7</span>
-                                        <span class="message">credits music.mp3</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d9ef679</span>
-                                        <span class="message">funi</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#35f5d3d</span>
-                                        <span class="message">improve homepage</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#63ecfd4</span>
-                                        <span class="message">attrib</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7346118</span>
-                                        <span class="message">Merge branch 'main' of https://github.com/litdevs/vukkybox into main</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2b7583a</span>
-                                        <span class="message">oops</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9d496e7</span>
-                                        <span class="message">unify stuff</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3086717</span>
-                                        <span class="message">carp</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3785285</span>
-                                        <span class="message"> vomit</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#db05313</span>
-                                        <span class="message">vukky fucked up</span>
+                                        <span class="sha">#2e36284</span>
+                                        <span class="message">Updated Admin to v4.32.1</span>
                                     </div>
                                 </div>
                             </section>
@@ -2059,683 +2009,399 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">ProFireDev/Geyser</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#bf73e50</span>
-                                        <span class="message">Merge branch 'GeyserMC:master' into master</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 35 commits in
-                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#31dad61</span>
-                                        <span class="message">added new hr feature (#1128)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f9ac2e8</span>
-                                        <span class="message">Improve hugo docs (#1113)
-
-* added gitignore to website, fix portfolio toggle and website path
-
-* updating styles and homepage
-
-* added index page, removed dark mode, updated styling
-
-* fixed colors
-
-* updated urls (removed /GamestonkTerminal after url)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#abf79a5</span>
-                                        <span class="message">Handle KeyboardInterrupt on user input read (#1124)
-
-Co-authored-by: David Khouya &lt;david.khouya@leddartech.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e437f29</span>
-                                        <span class="message">Mutual funds (#1106)
-
-* Add mutual fund menu based primarily on investpy (investment.com)
-
-* Add start/end date for loading + some bug fixes
-
-* hugo
-
-* poetry add investpy rich dnspython  then poetry update
-
-* fix reset (need to load country) and dim yfinance commands when country not US
-
-* Fix search and add better error handling
-
-* Catch yfinance commands when country not US.  Improve loading to change country if symbol found but not in matching country.  Changed main menu printing.
-
-* Fix poetry / reqs merge conflict
-
-* review comments
-
-* Once again update poetry
-
-* Clean up poetry to match conda (numpy was culprit)
-
-* cvxpy down
-
-* Think i goofed on generating reqs full
-
-* update poetry metadata
-
-* cleanup after review 2
-
-* move space
-
-* another deps try
-
-* bump pygmnets in yaml
-
-* try something different
-
-* rename console -&gt; t_console (terminal_console) for mypy</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c961fcb</span>
-                                        <span class="message">Add whatif scenario feature (#1122)
-
-* Add whatif scenario feature
-
-* fix tests</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#445ec32</span>
-                                        <span class="message">Discordbot/expiry reactions (#1114)
-
-* added load extension for options menu
-
-* options menu: oi, iv, unusual options
-
-* Update opt_menu.py
-
-* Update unu.py
-
-if no num requested set default to 10
-
-* Update opt_menu.py
-
-+ !oi ticker expiry request added without inputting date format. accepts 0-9 up to 10 weeks
-+ added option volume plot (works same as oi)
-
-* Create vol.py
-
-* Create reaction_helper.py
-
-* Cleaned up, added historical options
-
-Cleaned up
-+ added historical options data
-+ added expiry reaction helper function
-
-* Create hist.py
-
-* cleanup
-
-* added min/max strike price
-
-* cleanup
-
-* cleanup, added min/max strike price
-
-* Update opt_menu.py
-
-* added yfinance if no tradier token
-
-* Update vol.py
-
-* Update opt_menu.py
-
-* Create oi_tradier.py
-
-* Update oi.py
-
-* Update opt_menu.py
-
-* Update oi.py
-
-* Update opt_menu.py
-
-* Update oi.py
-
-* Update iv.py
-
-* Update unu.py
-
-* Update oi_tradier.py
-
-* Update hist.py
-
-* Update opt_menu.py
-
-* Update reaction_helper.py
-
-* Create options_menu.py
-
-* Update run_discordbot.py
-
-* Update vol.py
-
-* Rename discordbot/options_menu.py to discordbot/stocks/options/options_menu.py
-
-* Delete opt_menu.py
-
-* Update oi.py
-
-+ min strike/max strike
-
-* Delete oi_tradier.py
-
-* Update options_menu.py
-
-* Update hist.py
-
-* Update vol.py
-
-* Update oi.py
-
-* Update options_menu.py
-
-* Update options_menu.py
-
-* Update options_menu.py
-
-* Linting/Pre-Commit Fixes
-
-* linting
-
-* Linting
-
-* linting
-
-* pylint fixes
-
-* Update iv.py
-
-* Update options_menu.py
-
-* Update reaction_helper.py
-
-* Improved Code
-
-- removed 148 lines same function
-
-* Update run_discordbot.py
-
-* Update reaction_helper.py
-
-* Updated Options Menu
-
-+ reaction expiry lookup
-+ added unu, iv, oi, vol ,hist
-
-* mypy fix
-
-* msg delete delay
-
-* Update options_menu.py
-
-* fix
-
-seems bot doesn't like when last emoji is empty.
-added an X when strike c/p empty
-
-* Update opt_cmd.py
-
-* Update options_menu.py
-
-* better handling
-
-* Update options_menu.py
-
-* Update opt_cmd.py
-
-* fix stocks.opt indention
-
-* hist.py token/error handling
-
-* Update hist.py
-
-* Update options_menu.py
-
-* Update hist.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c0b83a2</span>
-                                        <span class="message">revert DD report with pickle dataframe being stored (#1120)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#18180c2</span>
-                                        <span class="message">Fix to dcf command (#1115)
-
-* Fix to dcf command
-
-* Forgot to take out a comment
-
-* Dider change
-
-* user data patch for now</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#041a6cd</span>
-                                        <span class="message">reset different coin from dd controller on crypto (#1118)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#caa2c88</span>
-                                        <span class="message">Stock Dashboard (#1018)
-
-* Added notebook
-
-* Massive refactoring
-
-* Significant enhancements
-
-* Error handling, variable renaming, refacotring
-
-* Reformatted widgets
-
-* Made rolling adjustable
-
-* Fixed date bug
-
-* Began transition to plotly
-
-* Expanding dict
-
-* Expanded analysis, formatted with black
-
-* Added
-
-* Replaced matplotlib with Plotly
-
-* Slight updates
-
-* Enhanced ability to format dashboard
-
-* Fixed duplicate graph errors
-
-* Fixed duplicate graph errors
-
-* Found out which renderers work where
-
-* removed unused code
-
-* Final enhancements
-
-* Updated requirements
-
-* Added conda dependencies
-
-* removing unneeded changes
-
-* removing unneeded changes
-
-* removing unneeded changes
-
-* Updated git ignore
-
-* Added notes
-
-* removed unused code, added comma warning
-
-* Allowed multi select
-
-* Updated dependencies
-
-* Simplified dependencies
-
-* Fixed dependencies again...
-
-* Added line endings
-
-* Improved widgets and title
-
-* Dider improvements
-
-* Removed DS Store (sorry Nintendo)
-
-* Updated requirements files
-
-* Updated yml
-
-* Updated yml
-
-* Updated yaml
-
-* Fixing change
-
-* Allow for lab or Voila
-
-* Updated toml
-
-* Updated requirements.txt
-
-* Update conda-3-8-env.yaml
-
-* Update conda-3-8-env-full.yaml
-
-* Updated
-
-* A tragic forgetting
-
-* Dependency reset (not ready to merge
-
-* removed high entropy
-
-* Another dependency update
-
-* Added in my dependencies</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c901bb9</span>
-                                        <span class="message">NFT feature opensea collection statistics (#1109)
-
-* added statistics for opensea collection feature
-
-* trying to fix json error
-
-* trying to fix json error
-
-* fixing vcr tests
-
-* print to include 2 decimal cases
-
-* fixing tests
-
-* added to script, date format and require
-
-* fix: linting</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1cd7d26</span>
-                                        <span class="message">Feature: Adds new nonzero command (#1110)
-
-* adds new nonzero command
-
-* fix: removed wild print</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#78f110b</span>
-                                        <span class="message">ETF context new and improved (#1103)
-
-* Add lookup commands
-
-* main ETF commands
-
-* Add technical analysis to ETF
-
-* add prediction techniques to ETF
-
-* add comparison analysis to etf
-
-* allow to select nr of holdings on load
-
-* add shold and summary commands to ETF
-
-* minor improvs
-
-* screener on ETF menu
-
-* add etf/scr wsj commands
-
-* readd compare command
-
-* add sbc to etf/screener
-
-* rename chold and shold
-
-* fix rogue etf and reset
-
-* minor corrections
-
-* minor menu print improv
-
-* legend of weights and title of plot
-
-* refactor screener to screener and disc on ETF
-
-* add ETF scripts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f83ee10</span>
-                                        <span class="message">Discordbot/expiryreactions++ (#1102)
-
-* added load extension for options menu
-
-* options menu: oi, iv, unusual options
-
-* Update opt_menu.py
-
-* Update unu.py
-
-if no num requested set default to 10
-
-* Update opt_menu.py
-
-+ !oi ticker expiry request added without inputting date format. accepts 0-9 up to 10 weeks
-+ added option volume plot (works same as oi)
-
-* Create vol.py
-
-* Create reaction_helper.py
-
-* Cleaned up, added historical options
-
-Cleaned up
-+ added historical options data
-+ added expiry reaction helper function
-
-* Create hist.py
-
-* cleanup
-
-* added min/max strike price
-
-* cleanup
-
-* cleanup, added min/max strike price
-
-* Update opt_menu.py
-
-* added yfinance if no tradier token
-
-* Update vol.py
-
-* Update opt_menu.py
-
-* Create oi_tradier.py
-
-* Update oi.py
-
-* Update opt_menu.py
-
-* Update oi.py
-
-* Update opt_menu.py
-
-* Update oi.py
-
-* Update iv.py
-
-* Update unu.py
-
-* Update oi_tradier.py
-
-* Update hist.py
-
-* Update opt_menu.py
-
-* Update reaction_helper.py
-
-* Create options_menu.py
-
-* Update run_discordbot.py
-
-* Update vol.py
-
-* Rename discordbot/options_menu.py to discordbot/stocks/options/options_menu.py
-
-* Delete opt_menu.py
-
-* Update oi.py
-
-+ min strike/max strike
-
-* Delete oi_tradier.py
-
-* Update options_menu.py
-
-* Update hist.py
-
-* Update vol.py
-
-* Update oi.py
-
-* Update options_menu.py
-
-* Linting/Pre-Commit Fixes
-
-* linting
-
-* Linting
-
-* linting
-
-* pylint fixes
-
-* Update iv.py
-
-* Update options_menu.py
-
-* Update reaction_helper.py
-
-* Improved Code
-
-- removed 148 lines same function
-
-* Update run_discordbot.py
-
-* Update reaction_helper.py</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#af62b22</span>
-                                        <span class="message">have an empty default export (#1112)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2e4d224</span>
-                                        <span class="message">fix infinite loop (#1111)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d59d6b4</span>
-                                        <span class="message">minor fix to hcorr (#1107)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5797549</span>
-                                        <span class="message">fix gh docs (#1108)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#37d87c3</span>
-                                        <span class="message">Bump dependencies and resolve dependabot warnings (#1092)
-
-* Add pre-commit to dev dependencies
-
-* Bump requirements
-
-* Update charset-normalizer in conda env files
-
-* Bump poetry and numpy in conda environments
-
-* Explicitly add scipy to solve windows test error
-
-* Revert "Explicitly add scipy to solve windows test error"
-
-This reverts commit bb6b4d89bfb0c9d682930199e075af02a7885296.
-
-* Explicitly add a windows supported version of numpy
-
-* Explicitly specify numpy version in the lock file
-
-* Specify supported numpy version in build files</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#05889b9</span>
-                                        <span class="message">Updated Hugo Server for Portfolio Menu Refactor (#1104)
-
-* Updated menu tree for refactored portfolio menu
-
-* updated for refactor
-
-* no longer exists
-
-* added menu screenshot
-
-* updated description
-
-* updated description
-
-* added image
-
-* added image
-
-* added image
-
-* added image
-
-* added screenshot
-
-* updated description
-
-* added image
-
-* updated description/added image
-
-* added image/updated description
-
-* added image/updated description
-
-* added image</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 18 commits in
+                                        Pushed 4 commits in
                                         <span class="repo">ProFireDev/Ryujinx</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e6af668</span>
+                                        <span class="sha">#0fad22b</span>
                                         <span class="message">Merge branch 'Ryujinx:master' into master</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#f77ad02</span>
+                                        <span class="message">Step towards portfolio allocation analysis (#1134)
+
+* Making pa active + pa minor features
+
+Makes pa actice and adds country to the df. The groupby command also gets percents of holding allocation. It also fixes warnings and prepares for a later pr that I'm currently working on.
+
+* Fix linting
+
+* black linter
+
+* Fixes
+
+Should fix everything
+
+* Linting
+
+* Making pa controller to base class standard
+
+* Fix linting
+
+Co-authored-by: DidierRLopes &lt;dro.lopes@campus.fct.unl.pt&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b8d6a51</span>
+                                        <span class="message">Added installation docs section (WSL) (#1166)
+
+* added wsl docs
+
+* fixed linting
+
+* fixed linting</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5ea65fc</span>
+                                        <span class="message">improve log plot (#1163)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#006b357</span>
+                                        <span class="message">Baseclass (#1141)
+
+* A working decorator
+
+* Basic intro
+
+* Added more
+
+* Refactor
+
+* Refactor
+
+* Cleaned code
+
+* Simplified function (thanks Chavi)
+
+* Small change
+
+* Updating tests : fix issue with mock
+
+* Updating tests : fix remaining mocks after merging
+
+* Updating tests : black
+
+* Cleaned up
+
+* Finished base cases
+
+* Notes
+
+* Slight changes
+
+* Added dynamic options handling, error persists
+
+* Fixed pylint issues
+
+* Fixed mock
+
+* fix decorator with dynamic dictionary of args
+
+* move choices from dynamic to const in crypto/ov
+
+* Updated var names
+
+* Check
+
+* Moved decorators
+
+* Fixed import issues
+
+* Fixed tests, update payoff controller
+
+* Fixed tests
+
+* Fixed pylint
+
+* Updated files
+
+* Added base class
+
+* Added reset
+
+* Improved base class
+
+* For James
+
+* More menues converted
+
+* Added contexts
+
+* 24 controllers left
+
+* 18 Controllers left
+
+* Changes choices
+
+* 9 controllers left
+
+* Added all controllers
+
+* Fixed glitch
+
+* Replaced all improper callings of class
+
+* Removed menu decorator
+
+* refactored try_except
+
+* Last commit
+
+* Black fix
+
+* Bug fix
+
+* Added James' new menus
+
+* Fixed tests
+
+* Fixed 8 tests
+
+* Fixing mypy issue
+
+* Updating tests : stocks/options
+
+* Fixed options
+
+* Fixed tests
+
+* Updating tests : stocks/options
+
+* Fixed tests
+
+* More test fixes
+
+* Updating tests : stocks/ba
+
+* Fixed options test
+
+* More bug fixes
+
+* Fixed tests
+
+* fixed pylint
+
+* Skipped test_call_load
+
+* Add typings to base class
+
+* Fix issue with appending auto completer options + bugfixes
+
+* Add typings to base class
+
+* Terminal throws error for bad path
+
+* sexy solution to auto completer in runtime
+
+* more sexy reset with reset_level stored
+
+* no so sexy jump between indirect menus
+
+* Removing choices argument
+
+* refactor custom_reset
+
+* Fixed tests
+
+* Theo fixes
+
+* Added back function
+
+* Fixed tests
+
+Co-authored-by: Chavithra PARANA &lt;chavithra@gmail.com&gt;
+Co-authored-by: DidierRLopes &lt;dro.lopes@campus.fct.unl.pt&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#14b1fe1</span>
+                                        <span class="message">testing for pygments fix (#1162)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#18c3a4e</span>
+                                        <span class="message">Feature (crypto): Altcoin season index (#1155)
+
+* adding blockchaincenter model
+
+* added altindex feature
+
+* fix tests name
+
+* added autocompletion and fixed chart
+
+* fixed help strings and chart issue
+
+* refactor for subplot
+
+* changed dates to more readable format</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7af43c4</span>
+                                        <span class="message">Refactor common/ta for easier report usage (#1157)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f40ba0d</span>
+                                        <span class="message">Bot logging fix (#1105)
+
+* Write bot logs to stdout instead of a file
+Heroku's logging uses the stdout and has problems with files
+
+* Send "you snooze you lose" only if debug flag is enabled
+
+* Replace print statements with logger entries in the economy menu
+
+* Add logging to bot menu command calls
+
+* Silence bandit warnings about the REPLACE_ME token
+
+* Organize imports and update logging in economy menu
+
+* Organize imports and update logging in dps menu
+
+* Organize imports and update logging in dd menu
+
+* Organize imports and update logging in gov menu
+
+* Organize imports and update logging in options menu
+
+* Organize imports and update logging in screener menu
+
+* Organize imports and update logging in ta menu
+
+* Revert automatic import sorting
+
+* Add logging to the options reaction helper</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f2df70d</span>
+                                        <span class="message">Update README (#1154)
+
+* Update README.md
+
+* fix md lint in README
+
+* remove line length
+
+* remove line length
+
+* increase md line length
+
+* scrap new and improved</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#453ea23</span>
+                                        <span class="message">introduce routines concept (#1152)
+
+* introduce routines concept
+
+* James review</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c388d9a</span>
+                                        <span class="message">Fixes issue with loading from qa + improve line log plot (#1151)
+
+* fix issue with loading on qa
+
+* improve log plot
+
+* fix date to YYYY-mm-dd
+
+* fix dd tests w new date format
+
+* fix tests
+
+* grid for major lines</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#efab61a</span>
+                                        <span class="message">Crypto Tool: Calculate potential returns (#1146)
+
+* enabled some crypto commands in dd to be called independent of source loaded
+
+* support for coin_map_df in all dd functions + load ta and plot chart refactor
+
+* updated tests and removed coingecko scrapping where possible
+
+* removed ref of command from hugo
+
+* updated pycoingecko version
+
+* refactoring load
+
+* refactored load to fetch prices; pred can run independent of source now
+
+* load by default usd on cp/cg and usdt on cb/bin
+
+* updated to rich for formatting and updated dependencies
+
+* fixed changes requested
+
+* created prt controller
+
+* creating model
+
+* removed unused print
+
+* restaged
+
+* adds current market cap
+
+* added reports to gitignore</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ea96410</span>
+                                        <span class="message">Crypto menu refactor (#1119)
+
+* enabled some crypto commands in dd to be called independent of source loaded
+
+* support for coin_map_df in all dd functions + load ta and plot chart refactor
+
+* updated tests and removed coingecko scrapping where possible
+
+* removed ref of command from hugo
+
+* updated pycoingecko version
+
+* refactoring load
+
+* refactored load to fetch prices; pred can run independent of source now
+
+* load by default usd on cp/cg and usdt on cb/bin
+
+* updated to rich for formatting and updated dependencies
+
+* fixed changes requested
+
+* update docs
+
+* revert discord requirements
+
+* removed absolute from calculate change for price
+
+* fixing pr issues
+
+* fix loading issue when similar coins exist, move coins to home, fill n/a
+
+* update docs for coins
+
+* adds load to ta and pred menu</span>
                                     </div>
                                 </div>
                             </section>
@@ -2781,7 +2447,7 @@ This reverts commit bb6b4d89bfb0c9d682930199e075af02a7885296.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2022, 22:09:53 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 10 Jan 2022, 00:07:56 (timezone America/Edmonton) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
