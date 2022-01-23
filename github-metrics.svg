@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2646" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2330" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    837 MB used
+                                    838 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -476,12 +476,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 68 commits)</small>
+                    <small class="h-details">(computed from last 70 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.2 characters per line of code written</li>
+                        <li>Has approximately 36.5 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -556,8 +556,8 @@
                         12
                     </div>
                     <div class="entry">
-                        <span class="value">8</span>
-                        <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">7</span>
+                        <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         13
                     </div>
                     <div class="entry">
@@ -601,13 +601,13 @@
                         21
                     </div>
                     <div class="entry">
-                        <span class="value">1</span>
-                        <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         22
                     </div>
                     <div class="entry">
-                        <span class="value">7</span>
-                        <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">8</span>
+                        <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         23
                     </div>
                 </div>
@@ -627,8 +627,8 @@
                             Mon
                         </div>
                         <div class="entry">
-                            <span class="value">15</span>
-                            <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">14</span>
+                            <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -647,8 +647,8 @@
                             Fri
                         </div>
                         <div class="entry">
-                            <span class="value">15</span>
-                            <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">18</span>
+                            <div class="bar" style="height: 45px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -1769,7 +1769,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        724
+                                        725
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1972,6 +1972,66 @@
                                 <div class="details">
                                     <div>on branch <span class="code">PFD-Dev</span></div>
                                     <div class="commit">
+                                        <div class="sha">#ba6d82f</div>
+                                        <div class="message">Update Flipping backend diagram</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">PFD-Dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#57d3f6b</div>
+                                        <div class="message">Delete TO DO - temp.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">PFD-Dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#266c6d5</div>
+                                        <div class="message">Added Flipping backend diagram</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">PFD-Dev</span></div>
+                                    <div class="commit">
                                         <div class="sha">#74f9055</div>
                                         <div class="message">fix 404 when loading root url '/'</div>
                                     </div>
@@ -1998,157 +2058,6 @@
 Fix more messed up files on the import
 
 Co-Authored-By: Aakansh-C &lt;81188187+Aakansh-C@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">PFD-Dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#61e83a7</div>
-                                        <div class="message">Patch moderate Dependency security vulnerabilities</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">PFD-Dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d062c0</div>
-                                        <div class="message">fix missing files that didnt carry over</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 21 commits in
-                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">PFD-Dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5edd5ca</div>
-                                        <div class="message">Jan 22 8:10
-
-Fixed Invisible Submit Button on
-Login and sign-up pages
-Using custom colour, #666fc4 in code directly
-Or
-48017c Also looks very vibrant
-Not added as a custom pre-set
-Sign up page is practical copy of login with edited messages</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb1bafc</div>
-                                        <div class="message">latest Jan 22 8:00
-
-Sign up still hasn't been created
-Its is currently a copy of login page</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a52dd4</div>
-                                        <div class="message">Jan 21 9:06</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c82dd4</div>
-                                        <div class="message">Jan 21 6:11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dacfba3</div>
-                                        <div class="message">Merge pull request #108 from JCS-Computer-Science/STAGING
-
-Updating my dev branch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec422c0</div>
-                                        <div class="message">Merge branch 'Aakansh-C-Dev' of https://github.com/JCS-Computer-Science/project-module-1-project-flip into Aakansh-C-Dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58589f6</div>
-                                        <div class="message">remove dual shop bar element</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a35b2c9</div>
-                                        <div class="message">Merge branch 'Aakansh-C-Dev' of https://github.com/JCS-Computer-Science/project-module-1-project-flip into Aakansh-C-Dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6fb182</div>
-                                        <div class="message">remove last issue with backend</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f5ad41</div>
-                                        <div class="message">remove backend for now</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1137527</div>
-                                        <div class="message">fixed errors, made dev branch compile</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#755e381</div>
-                                        <div class="message">Jan 17 1:52pm</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#815fae5</div>
-                                        <div class="message">Merge branch 'PFD-Dev' into Aakansh-C-Dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#571e21a</div>
-                                        <div class="message">Jan 16 8:32</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#024fc63</div>
-                                        <div class="message">Jan 16 6:22</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27e2b7a</div>
-                                        <div class="message">auth updated with proper path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b76c000</div>
-                                        <div class="message">a very broken auth system has been implimented</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3d46b9</div>
-                                        <div class="message">update icons, fix scaling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8acaf0c</div>
-                                        <div class="message">Merge pull request #91 from JCS-Computer-Science/STAGING
-
-move dev to latest</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#695473d</div>
-                                        <div class="message">Jan 15 12:35am</div>
                                     </div>
                                 </div>
                             </section>
@@ -2217,7 +2126,7 @@ move dev to latest</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 22:06:57 (timezone America/Edmonton) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 23:08:25 (timezone America/Edmonton) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
