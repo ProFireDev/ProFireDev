@@ -658,22 +658,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 45.78343814405749%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 45.27791929213031%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">57%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 32.541351794112984%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 33.0221209277383%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">41%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 1.5568355968926704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.5798364392009654%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.11837446493684933%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.12012334093041963%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2394,7 +2394,7 @@ Aakansh c dev</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 13:07:04 (timezone America/Edmonton) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 14:06:24 (timezone America/Edmonton) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
