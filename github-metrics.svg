@@ -2598,7 +2598,7 @@ error to throw if we attempted to read from them. This bumps the members
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 21:09:00 (timezone America/Edmonton) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 22:08:54 (timezone America/Edmonton) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
