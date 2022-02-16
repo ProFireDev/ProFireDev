@@ -1757,7 +1757,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spotDL/spotify-downloader</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).</div>
@@ -1810,7 +1810,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenMW/openmw</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/</div>
@@ -2217,7 +2217,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2022, 23:09:20 (timezone America/Edmonton) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 16 Feb 2022, 00:06:52 (timezone America/Edmonton) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
