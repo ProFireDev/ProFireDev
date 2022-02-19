@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3276" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2873" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .twemoji{margin-top:.25em;margin-left:0}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.string{color:#2777aa}.token.property{color:#48428a}.space{margin-left:7px}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -346,13 +346,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.78733763522587" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="189.78733763522587" y="0" width="108.74348327179301" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="298.5308209070189" y="0" width="48.69914420117194" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="347.2299651081908" y="0" width="40.35612277511165" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="387.58608788330247" y="0" width="36.251138630039314" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="423.8372265133418" y="0" width="26.350058565759724" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.1872850791015" y="0" width="9.812714920898484" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.7584675684504" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="198.7584675684504" y="0" width="109.08136214689497" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="307.8398297153454" y="0" width="48.882949732958416" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="356.7227794483038" y="0" width="40.4815140257547" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.20429347405855" y="0" width="36.36377520901361" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.56806868307217" y="0" width="26.431931316927876" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -364,8 +363,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>21.5 MB</div>
-                                <div>41.26%</div>
+                                <div>22.5 MB</div>
+                                <div>43.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -377,7 +376,7 @@
                             </div>
                             <small>
                                 <div>5.54 MB</div>
-                                <div>10.59%</div>
+                                <div>10.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -389,19 +388,7 @@
                             </div>
                             <small>
                                 <div>4.12 MB</div>
-                                <div>7.88%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                HTML
-                            </div>
-                            <small>
-                                <div>1.12 MB</div>
-                                <div>2.13%</div>
+                                <div>7.91%</div>
                             </small>
                         </div>
                     </section>
@@ -415,7 +402,7 @@
                             </div>
                             <small>
                                 <div>12.3 MB</div>
-                                <div>23.64%</div>
+                                <div>23.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -427,7 +414,7 @@
                             </div>
                             <small>
                                 <div>4.59 MB</div>
-                                <div>8.77%</div>
+                                <div>8.8%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -439,7 +426,7 @@
                             </div>
                             <small>
                                 <div>3 MB</div>
-                                <div>5.73%</div>
+                                <div>5.75%</div>
                             </small>
                         </div>
                     </section>
@@ -489,12 +476,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 19 commits)</small>
+                    <small class="h-details">(computed from last 21 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 52.0 characters per line of code written</li>
+                        <li>Has approximately 43.7 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -594,8 +581,8 @@
                         17
                     </div>
                     <div class="entry">
-                        <span class="value">1</span>
-                        <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         18
                     </div>
                     <div class="entry">
@@ -655,8 +642,8 @@
                             Thu
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -1949,6 +1936,146 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">ProFireDev/Ryujinx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8fc93d3</div>
+                                        <div class="message">Merge branch 'Ryujinx:master' into master</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 16 commits in
+                                        <span class="repo">ProFireDev/Ghost</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c09a81a</div>
+                                        <div class="message">Added some event assertions to the members e2e tests
+
+refs https://github.com/TryGhost/Team/issues/1355
+
+- Uses the models to query the database for testing the event presence.
+- Prototyped an util to help with event assertion and correct error messages and lower lines of codes.
+- Given there are side-effects between tests (adding or removing members), the event count depends on the previous tests, this isn't optimal.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ccbfea</div>
+                                        <div class="message">v4.36.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e9d15d</div>
+                                        <div class="message">Updated Admin to v4.36.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5a44f3</div>
+                                        <div class="message">Added more members e2e test snapshots
+
+no issue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34fbed1</div>
+                                        <div class="message">Update dependency @tryghost/validator to v0.1.13</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72fe844</div>
+                                        <div class="message">Update dependency @tryghost/nodemailer to v0.3.12</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a84bae</div>
+                                        <div class="message">Update dependency @tryghost/errors to v1.2.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a064067</div>
+                                        <div class="message">Fixed logic error in labs mock
+
+- the previous logic only allowed one flag to be mocked at a time because it kept recalling sinon.stub
+- now it's possible to mock multiple flags with different settings as we always just add to the same stub</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ad871b</div>
+                                        <div class="message">Added handler for unhandled rejections
+
+refs https://github.com/TryGhost/Toolbox/issues/163
+
+- as of Node 15, unhandled rejections will exit the process so if
+  Ghost is running on Node 15+ and encounters one, it will kill Ghost
+- if Sentry is enabled, it will add a handler for the event that will
+  send it to Sentry but the logging is sent to stdout/stderr, which means
+  we lose it in Ghost logs
+- this commit adds a process handler for the `unhandledRejection` event
+  which will log the reason to Ghost logs and prevent Ghost from
+  exiting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#32884fa</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            Fixed StripeAPI disconnection
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- After calling `DELETE /settings/stripe/connect/` Admin API endpoint, stripe did not fully disconnect causing other Member API endpoints to behave as if Stripe was still configured
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8105ea</div>
+                                        <div class="message">Update dependency @tryghost/html-to-mobiledoc to v1.8.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39ab0ba</div>
+                                        <div class="message">Update dependency @tryghost/magic-link to v1.0.19</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1557212</div>
+                                        <div class="message">Update dependency @tryghost/request to v0.1.15</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e7885f</div>
+                                        <div class="message">Update dependency @tryghost/bookshelf-plugins to v0.3.9</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f488920</div>
+                                        <div class="message">Fixed failing snapshot match in members
+
+no issue
+
+- The test was failing because the match for a the data has changed, which was returned in a short format YYYY-MM-DD.
+- Added a new matcher for short date format -anyShortDate. Can be used for match dynamic dates in short format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d54c1ef</div>
+                                        <div class="message">Fixed typos</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2205,852 +2332,6 @@ refs https://github.com/TryGhost/Toolbox/issues/202
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b3a379e</div>
-                                        <div class="message">Sort Stocks/DD/Arktrades by most recent (#1375)
-
-* Sort trades from the most recent
-
-* Update tests
-
-* Update test
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f5c596</div>
-                                        <div class="message">fixes stuff related to hugo server (#1374)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fedb8e</div>
-                                        <div class="message">Fix More Bugs (#1364)
-
-* Fixed crypto/disc bug
-
-* Fixed econ_fred
-
-* Fixed forex_oanda
-
-* More bug fixes
-
-* Removed print
-
-* Delete tags
-
-* Changes
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a66ff41</div>
-                                        <div class="message">Add Luna cir supply command from Smartstake (#1289)
-
-* Add supported and trending endpoint
-
-* Allow valid hour to be 0
-
-* Update Hugo server
-
-* Update Hugo optional arguemnts
-
-* Update documents for start data type
-
-* Adding terminal images
-
-* Update _index.md
-
-* Fix header error
-
-* Update tests for api token sentiment investor
-
-* Add test for Sentiment Investor View &amp; Model
-
-* Mock the token
-
-* Changed color for trend command
-
-* Mock test view and add document for Test README
-
-* Add luna cir.supply from smartstake
-
-* Add tests and instructions to get token
-
-* Add tests
-
-* Add Hugo server
-
-* Mock key and token
-
-* Add Smartstake to key controller
-
-* Mock key and skip test module
-
-* Skipp model test
-
-Co-authored-by: Minh Hoang &lt;minh@Minhs-MBP.Home&gt;
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53945dd</div>
-                                        <div class="message">Fix stocks asthetic style (#1355)
-
-* Fix Theo's comment
-
-* Fix tests failing
-
-* Fix tests
-
-* Make plot lines thinner
-
-* Make ticks thinner globally by default
-
-* Apply global style when any controller is initialized
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c9999a</div>
-                                        <div class="message">Improve StockAnalysis functions (#1349)
-
-* Improve StockAnalysis functions
-
-* Add the denomination to the table data as well
-
-* Just gotta make precommit run
-
-* There we go
-
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1b6022</div>
-                                        <div class="message">Global plot styles (#1228)
-
-* Add default stylesheets
-
-* Add terminal style helper class and global style initialization in cfg
-
-* Style comments and docstrings
-
-* Load rich terminal theme from config file
-
-* Add application chart styles to candle charts
-
-* Add todos
-
-* Remove explicit color setting for some ta charts
-
-* Add user styles folder to gitignore
-
-* Update default stylesheets
-
-* Add matplotlib font manager support
-
-* Add matplotlib font manager support
-
-* Update docstrings and default style
-
-* Update stocks candle chart formatting (return fig to style title)
-
-* Style common ta overlap view
-
-* Make up and down market colors a part of the style helper
-
-* Update stylesheets
-
-* Style common ta volume view
-
-* Style common ta momentum view
-
-* Style common ta trend indicators view
-
-* Style common ta volatility view
-
-* Style common ta volume view
-
-* Style common ta custom indicators view
-
-* Fix styling bugs and remove the obvious time x lablel
-
-* Style charts in the covid menu
-
-* Set legend position to upper left in the mpl stylesheet
-
-* Add mpl_rcparams configs for parameters not covered by stylesheets
-
-* Remove font configuration files
-
-* Update style class utility functions
-
-* Implement passing external axes and style utility usage in ema &amp; stoch
-
-* Add theme watermark and output helpers
-
-* Rename style to theme
-
-* Update helper usage in ta/ma and ta/stoch
-
-* Update style to theme in sample menus
-
-* Style forex (#1305)
-
-* Make tight layout optional 'cause mplfinance doesn't support it
-
-* Apply global style to the forex menu
-
-* Update code layout in oanda view and black
-
-* Style common TA (#1315)
-
-* Make tight layout optional 'cause mplfinance doesn't support it
-
-* Apply global style to the forex menu
-
-* Add linewidth to theme for use in mpf's addplots
-
-* Add vwap to the stocks notebook api
-
-* Update common/ta overlap to follow charting style
-
-* Apply style on TerminalStyle init
-
-* Enable infrastructure for excluding non-trading days from plots
-
-* Update notebook api to include there and resolve bandit warning
-
-* Update ta/common/overlap to exclude non-trading days
-
-* Enable external ax, style and non-trading days in common/ta/momentum
-
-* Enable external ax, style and non-trading days in common/ta/trend
-
-* Update vwap to the argument naming convention
-
-* Enable external ax, style and non-trading days in common/ta/volatility
-
-* Enable external ax, style and non-trading days in common/ta/volume
-
-* Enable external ax, style and non-trading days in common/ta/custom
-
-* Fix controller tests
-
-* Forgot to disable rewriting of the cassettes ...
-
-* Fix controller errors that came up because a merge conflict
-
-* Fix price label position on fib
-
-* Fix line having wrong x values in fib
-
-Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
-
-* Style economy (#1308)
-
-* Began converting
-
-* Added alphavan_view
-
-* Added CNN View
-
-* Updated nasdaq view, fixed glitch
-
-* Added fred
-
-* Refactored URL
-
-* Theo's requested changes
-
-* Updated docstrings
-
-* Updated tests
-
-* Fixed pylint
-
-* Fixed tests
-
-* Theo changes
-
-* Econ Fix
-
-* Refactor chart style for Crypto context (#1306)
-
-* Remove mock for gff
-
-* Mock visualize_output helper function
-
-* Refactor
-
-* Fix plot helper
-
-* Update legend loc
-
-* Refactor mplfinance candle plot
-
-* Fix errors in the helper function
-
-* Fix binbook having the wrong call_ function name
-
-* Remove hardcoded style params
-
-* Resolve kwargs future warning from pandas
-
-* Remove warnings import
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-
-* funds + custom (#1311)
-
-* funds + custom
-
-* cleanup cleanup everybody everywhere
-
-* Fix external axes conditional and a typo
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-
-* Add external axes mode to covid charts (#1328)
-
-* Add portfolio menu plots (#1318)
-
-* Portfolio view plots (commenting out report stuff)
-
-* PA Menu broken.  Commenting out and fix tests
-
-* portfolio optimization
-
-* comment out commented api line
-
-* Add notes on disabling the pa submenu
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-
-* Plot updates in common BA (#1335)
-
-* Add external axes support to common/ba/finbrain
-
-* Add external axes support to common/ba/twitter
-
-* Add external axes support to common/ba/google
-
-* Add external axes support to common/ba/sentimentinvestor
-
-* Add sentimentinvestor to the notebooks API
-
-* Fix tests
-
-* Etf refactor (#1323)
-
-* Refactored no ETF
-
-* Fixed gtff import
-
-* Fixed tests
-
-* Fix pie chart style
-
-* Refactored etf/candle
-
-* Added pylint fix
-
-* Fixed tests
-
-* Update candle chart layout
-
-* Update etf controller test
-
-* Remove strange binary file
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-
-* Expose ETF candle function in the notebooks API
-
-* Common BA and Common QA charts update (#1342)
-
-* Add external axes support to common/ba/finbrain
-
-* Add external axes support to common/ba/twitter
-
-* Add external axes support to common/ba/google
-
-* Add external axes support to common/ba/sentimentinvestor
-
-* Add sentimentinvestor to the notebooks API
-
-* Fix tests
-
-* Update stylesheet files
-
-* Refactor charts for common/qa
-
-* Update the forgotten line plot
-
-* Update tests
-
-* Add missing arg to a docstring
-
-* Remove scientific notation
-
-* Black imports
-
-Co-authored-by: Minh Hoang &lt;nminh.hoang1023@gmail.com&gt;
-
-* Options refactor (#1324)
-
-* Fixed alphaquery_view
-
-* finished options
-
-* Fixed pylint
-
-* Fixed tests
-
-* Fixed tests
-
-* Fixed tests
-
-* update yfinance
-
-* Tradier + Chartexchange
-
-* change mocks from gtff to theme.visualize output
-
-* tests
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-Co-authored-by: james &lt;jmaslek11@gmail.com&gt;
-
-* Refactor Stocks menu (#1325)
-
-* Fix backtesting menu
-
-* Refactor comparison analysis
-
-* Refactor Dark pool shorts
-
-* Refactor rest of menu
-
-* Fix test
-
-* Fix tests failing
-
-* Fix tests fail
-
-* Fix test failing
-
-* Remove record mode=none to record new output
-
-* Rewrite test output
-
-* Rewrite test outputs
-
-* Adding more rewritten test output
-
-* Mock plt.show
-
-* Mock missing plt.show
-
-* Missing @pytest.mark.vcr
-
-* Updating tests : common/behavioural_analysis/finbrain
-
-* Improve notebooks API coverage for CA and DPS
-
-* Silence annoying flake8 warning
-
-Co-authored-by: Chavithra PARANA &lt;chavithra@gmail.com&gt;
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-
-* Charts update for common/pred (#1344)
-
-* Add external axes support to common/ba/finbrain
-
-* Add external axes support to common/ba/twitter
-
-* Add external axes support to common/ba/google
-
-* Add external axes support to common/ba/sentimentinvestor
-
-* Add sentimentinvestor to the notebooks API
-
-* Fix tests
-
-* Update stylesheet files
-
-* Refactor charts for common/qa
-
-* Update the forgotten line plot
-
-* Update tests
-
-* Add missing arg to a docstring
-
-* Style pred helper and controllers
-
-* Update ETS plot
-
-* Update plots in KNN and pred helper
-
-* Update plot and pretty table for arima
-
-* Update plot for common/pred/regression
-
-* Refactor mc_view
-
-* Fix linting
-
-* Fix mypy
-
-* Move plot title to the axis level to make more vertical space
-
-Co-authored-by: Minh Hoang &lt;nminh.hoang1023@gmail.com&gt;
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
-
-* linter
-
-* Update common/ba test data
-
-* Change etf candle to match stock candle
-
-* try updating sia test
-
-Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
-Co-authored-by: minhhoang1023 &lt;40023817+minhhoang1023@users.noreply.github.com&gt;
-Co-authored-by: Minh Hoang &lt;nminh.hoang1023@gmail.com&gt;
-Co-authored-by: Chavithra PARANA &lt;chavithra@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c0ef39</div>
-                                        <div class="message">i missed some print s earlier (#1348)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41df272</div>
-                                        <div class="message">bugs (#1347)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd15207</div>
-                                        <div class="message">fix bug (shortterm) and refine error message if ticker missing (#1327)
-
-* fix bug (shortterm) and refine error message if ticker missing
-
-* fixing bugs
-
-* pass tests
-
-* similar analysis
-
-* similar analysis clear outputs
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d9930f9</div>
-                                        <div class="message">Fix bug SI (#1346)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af4d09e</div>
-                                        <div class="message">readme links fix (#1339)
-
-config_discordbot.py link fix
-CONTRIBUTING.md link fix
-
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ead0f4</div>
-                                        <div class="message">stocks/fa Tables were not showing the indices... (#1338)
-
-* Indexed in print table
-
-* tests
-
-* fix tests ?
-
-* delete a bunch of shit then rerun with record mode
-
-* change test_info from gme to aapl
-
-* delete files + change from gme to aapl + record-mode=once
-
-* rewrite expcted
-
-* Updating tests : stocks/fundamental_analysis/test_yahoo_finance_model
-
-* Updating tests : stocks/fundamental_analysis/test_yahoo_finance_model
-
-* format black
-
-Co-authored-by: Chavithra PARANA &lt;chavithra@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf37111</div>
-                                        <div class="message">Website fix sia (#1345)
-
-* Adjust SIA commands accordingly
-
-* Remove old pages
-
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ab915f</div>
-                                        <div class="message">Replaced missing word (#1343)
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8625ad3</div>
-                                        <div class="message">Add StockAnalysis (multi-year) to the Sector &amp; Industry Analysis menu (#1341)
-
-* Add StockAnalysis menu with visualise and help functions
-
-* Add StockAnalysis view and model
-
-* Update documentation for the SIA section
-
-* Add Nano, Micro and Mega Market Cap options
-
-* Make the StockAnalysis modules more robust for errors
-
-* Update Docstring
-
-* Ensure the DataFrames aren't modified by limiting the period
-
-* Add tests for StockAnalysis view and model
-
-* Refresh tests
-
-* Make the model and view more robust
-
-* Update the script
-
-* Details
-
-* Move sa_keys to _model
-
-* Clean up functions
-
-* Rename sa_keys to sa_dict
-
-* Improve satma function
-
-* Fix tests
-
-* Optimise satma functionality</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e22c48a</div>
-                                        <div class="message">Refactored terminal.py (#1312)
-
-* Seperated run_scripts function from main
-
-* Added scripts ability
-
-* Converted to endswith
-
-* Count success and failure
-
-* Fixed commands without -h
-
-* Handled edge case
-
-* Replaced prints with console.print
-
-* Fixed main function issue
-
-* Tried more things for output
-
-* Showed reason for error
-
-* Scripts runs successfully
-
-* Formatting updates
-
-* Made integrated printout look better
-
-* Added capturing of stderr
-
-* Fixed reset issue
-
-* Updated flags
-
-* off fix
-
-* Added Didier fix
-
-* Squashed bugs
-
-* Added tests
-
-* Allowed for script file to be sent to tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f8fcf4</div>
-                                        <div class="message">Updating dev-dep : pytest-cov (#1337)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68d9cc1</div>
-                                        <div class="message">Adds Discord Bot to Hugo Server Documentation (#1336)
-
-* Updated Copy
-
-* added discord bot to hugo menu
-
-* fixed indentation
-
-* Added bot branch to main
-
-* added discord to tree
-
-* added discord bot to hugo documentation
-
-* Spelling
-
-* Spelling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8fc7d0</div>
-                                        <div class="message">Updated uninstall brotli wording (#1333)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 96 commits in
-                                        <span class="repo">ProFireDev/openmw</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8505394</div>
-                                        <div class="message">Properly postprocess NiSortAdjustNode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#079bbff</div>
-                                        <div class="message">Merge branch 'ptmikheev-master-patch-64954' into 'master'
-
-Copy scripts/omw/ai.lua to vfs (was added in !1604, but I forgot to modify CMakeLists.txt)
-
-See merge request OpenMW/openmw!1641</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9183fa8</div>
-                                        <div class="message">Merge branch 'particle_vertex_palooza' into 'master'
-
-Support vertex emitters (#6592)
-
-Closes #6592
-
-See merge request OpenMW/openmw!1638</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3904e35</div>
-                                        <div class="message">Merge branch 'correct_stencil_search' into 'master'
-
-Search for stencil enabled flag correctly
-
-See merge request OpenMW/openmw!1640</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee2235c</div>
-                                        <div class="message">Copy scripts/omw/ai.lua to vfs (was added in !1604, but I forgot to modify CMakeLists.txt)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27d2daa</div>
-                                        <div class="message">move depth define to header, missing on mac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a05e029</div>
-                                        <div class="message">search for stencil enabled flag correctly</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ce338b</div>
-                                        <div class="message">Merge branch 'rain_ripple_default' into 'master'
-
-Set rain ripples default to sparse
-
-Closes #6422
-
-See merge request OpenMW/openmw!1631</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01e8ae8</div>
-                                        <div class="message">Merge branch 'peace_love_and_stencils' into 'master'
-
-Support morrowind stenciling (#6443)
-
-Closes #6443
-
-See merge request OpenMW/openmw!1635</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88f0291</div>
-                                        <div class="message">use vertex emitters on array particle controllers when appropriate</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c2c322</div>
-                                        <div class="message">add stencil to water RTTs, reword some comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbc9c53</div>
-                                        <div class="message">support morrowind stenciling</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ebaee9d</div>
-                                        <div class="message">Update settings-default.cfg</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60aa57c</div>
-                                        <div class="message">Update water.rst</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4657060</div>
-                                        <div class="message">Extend swish and strength changes to all random attacks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#020e0b2</div>
-                                        <div class="message">Don't allow non-bipedal actors to play hand-to-hand animations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ebcd37</div>
-                                        <div class="message">Rename method and restore swish sounds</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8752f78</div>
-                                        <div class="message">Remove weaponless, non-biped distinction</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8113620</div>
-                                        <div class="message">handle a few wearnings raised as errors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba3ae44</div>
-                                        <div class="message">Initial import of esm4 by cc9cii</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3092,7 +2373,7 @@ See merge request OpenMW/openmw!1635</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2022, 17:31:00 (timezone America/Edmonton) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 18 Feb 2022, 18:53:17 (timezone America/Edmonton) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
