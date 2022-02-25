@@ -1804,7 +1804,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spotDL/spotify-downloader</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).</div>
@@ -1857,7 +1857,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenMW/openmw</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/</div>
@@ -2192,7 +2192,7 @@ of collision objects beyond what they should.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2022, 23:09:36 (timezone America/Edmonton) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 25 Feb 2022, 00:07:40 (timezone America/Edmonton) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
