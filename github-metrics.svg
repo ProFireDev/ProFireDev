@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2589" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3209" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .infos{flex-grow:1}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -48,7 +48,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            59 Pull requests reviewed
+                            62 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    941 MB used
+                                    942 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,12 +346,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.68700471700825" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="198.68700471700825" y="0" width="109.19730346086385" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="307.88430817787213" y="0" width="48.869979340814474" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="356.75428751868657" y="0" width="40.47298689822122" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="397.22727441690785" y="0" width="36.350304062896505" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.57757847980434" y="0" width="26.422421520195684" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.05418852638155" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="199.05418852638155" y="0" width="109.11442037153016" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="308.1686088979117" y="0" width="48.94635563432072" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="357.1149645322324" y="0" width="39.79878685771521" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="396.9137513899476" y="0" width="36.308971277321746" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="433.22272266726935" y="0" width="26.777277332730634" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -363,8 +363,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>22.5 MB</div>
-                                <div>43.19%</div>
+                                <div>22.6 MB</div>
+                                <div>43.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -375,8 +375,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.54 MB</div>
-                                <div>10.62%</div>
+                                <div>5.56 MB</div>
+                                <div>10.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -388,7 +388,7 @@
                             </div>
                             <small>
                                 <div>4.12 MB</div>
-                                <div>7.9%</div>
+                                <div>7.89%</div>
                             </small>
                         </div>
                     </section>
@@ -402,7 +402,7 @@
                             </div>
                             <small>
                                 <div>12.3 MB</div>
-                                <div>23.74%</div>
+                                <div>23.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -413,8 +413,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>4.59 MB</div>
-                                <div>8.8%</div>
+                                <div>4.52 MB</div>
+                                <div>8.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -425,8 +425,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>3 MB</div>
-                                <div>5.74%</div>
+                                <div>3.04 MB</div>
+                                <div>5.82%</div>
                             </small>
                         </div>
                     </section>
@@ -476,12 +476,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 37 commits)</small>
+                    <small class="h-details">(computed from last 44 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.2 characters per line of code written</li>
+                        <li>Has approximately 42.4 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -601,8 +601,8 @@
                         21
                     </div>
                     <div class="entry">
-                        <span class="value">6</span>
-                        <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">13</span>
+                        <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         22
                     </div>
                     <div class="entry">
@@ -622,8 +622,8 @@
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -704,6 +704,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 2 days
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 20 days
@@ -724,7 +730,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.12
+                            Average per day at ~3.14
                         </div>
                     </section>
                 </div>
@@ -1712,10 +1718,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1176470588235294 0,1.1176470588235294 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1176470588235294 1.7,2.1176470588235294 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 6.823529411764706)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.176470588235294 0,1.1764705882352942 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1764705882352942 1.7,2.176470588235294 z"/>
                             </g>
                         </g>
                     </g>
@@ -1943,8 +1949,8 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
+                                        Pushed 8 commits in
+                                        <span class="repo">JCS-computer-science-colabrative-inc/project-module-1-project-flip</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -1973,6 +1979,77 @@ updated-dependencies:
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d1f1e3</div>
+                                        <div class="message">Merge pull request #156 from JCS-Computer-Science/dependabot/npm_and_yarn/Project_Flip-Vite/tailwindcss-3.0.19
+
+Bump tailwindcss from 3.0.18 to 3.0.19 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dd1a2a</div>
+                                        <div class="message">Bump tailwindcss from 3.0.18 to 3.0.19 in /Project_Flip-Vite
+
+Bumps [tailwindcss](https://github.com/tailwindlabs/tailwindcss) from 3.0.18 to 3.0.19.
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/compare/v3.0.18...v3.0.19)
+
+---
+updated-dependencies:
+- dependency-name: tailwindcss
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#913b104</div>
+                                        <div class="message">Merge pull request #157 from JCS-Computer-Science/dependabot/npm_and_yarn/Project_Flip-Vite/vue-3.2.30
+
+Bump vue from 3.2.29 to 3.2.30 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5eb1f76</div>
+                                        <div class="message">Bump vue from 3.2.29 to 3.2.30 in /Project_Flip-Vite
+
+Bumps [vue](https://github.com/vuejs/core) from 3.2.29 to 3.2.30.
+- [Release notes](https://github.com/vuejs/core/releases)
+- [Changelog](https://github.com/vuejs/core/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/vuejs/core/compare/v3.2.29...v3.2.30)
+
+---
+updated-dependencies:
+- dependency-name: vue
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12b04e2</div>
+                                        <div class="message">Merge pull request #155 from JCS-Computer-Science/dependabot/npm_and_yarn/Project_Flip-Vite/eslint-plugin-vue-8.4.1
+
+Bump eslint-plugin-vue from 8.4.0 to 8.4.1 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e6969e4</div>
+                                        <div class="message">Bump eslint-plugin-vue from 8.4.0 to 8.4.1 in /Project_Flip-Vite
+
+Bumps [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) from 8.4.0 to 8.4.1.
+- [Release notes](https://github.com/vuejs/eslint-plugin-vue/releases)
+- [Commits](https://github.com/vuejs/eslint-plugin-vue/compare/v8.4.0...v8.4.1)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-vue
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1983,149 +2060,264 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">ProFireDev/openmw</span>
+                                        Pushed 49 commits in
+                                        <span class="repo">ProFireDev/Ghost</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8b8144a</div>
+                                        <div class="message">v4.36.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7a9c80a</div>
+                                        <div class="message">Updated Admin to v4.36.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb7e6e8</div>
+                                        <div class="message">Added note about installing the E2E browsers
+
+refs https://github.com/TryGhost/Toolbox/issues/207
+
+- we need to suggest to install the supported browsers so Playwright can run tests
+  against them</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4757158</div>
+                                        <div class="message">Removed leftover @tryghost/jest-snapshot usage
+
+refs https://github.com/TryGhost/Ghost/commit/fd0a3e80ae3f772cffd435fa662c5313ea2d482d
+refs https://github.com/TryGhost/Toolbox/issues/215
+
+- This changes got lost and should have landed with referenced commit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd0a3e8</div>
+                                        <div class="message">Removed @tryghost/jest-snapshot dependency
+
+refs https://github.com/TryGhost/Toolbox/issues/215
+
+- Ghost tests had difficulty running sometimes when the versions for jest-snapshot package did not match in Ghost and @tryghost/express-test
+- This is the error that was showing up: `IncorrectUsageError: Unable to run snapshot tests, current test was not configured`
+- The reason why snapshot tests were misconfigured was multiple instances of SnapshotManager, which broke the singleton pattern
+- Having jest-snapshot embeded within express-test makes sure the versions stay the same across the clients
+- The version bump also introduces passing "queryParams" parameter into the Agent constructor - enables configuring query parameters that would appear in each agent's request. Example usecase - Content API authentication parameter "key" would be nice to "remember" and add to every request URL</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63762af</div>
+                                        <div class="message">Update dependency express-jwt to v6.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c56436</div>
+                                        <div class="message">Added the "selectablePortalLinks" feature flag
+
+refs https://github.com/TryGhost/Team/issues/1096</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b19bb35</div>
+                                        <div class="message">Update dependency mocha to v9.2.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bf1293</div>
+                                        <div class="message">Updated eslint-plugin-ghost &amp; fixed resulting failures
+
+- I recently added a bunch of strict rules to our eslint plugin around returns: https://github.com/TryGhost/eslint-plugin-ghost/commit/ca9af37866bde8f9b55160fee039e9af13e60048
+- These mostly are issues that occur whilst writing code, that you spot and fix as you're developing, but they're annoying to notice/find and eslint can be used to flag them quickly
+- There are of course, edge cases where you don't need to return from array fns, but this rule also suggests better patterns might be available
+- For our excert helper and new assertEvent helper, I've updated the code to use simpler patterns that are easier to read, so as to avoid the warnings
+- For our old API I've simply disabled the rule as we're about to delete this code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2f74567</div>
+                                        <div class="message">Added `membersLastSeenFilter` labs flag
+
+refs https://github.com/TryGhost/Team/issues/1307
+
+- flag for gating `members.last_seen_at` API property and associated filtering in Admin</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ddaa4ee</div>
+                                        <div class="message">Removed unnecessary checks during initial DB init
+
+refs https://github.com/TryGhost/Toolbox/issues/202
+
+- during DB init, we have to create all the tables
+- right now we loop over all tables and call the `createTable` command
+  - this command checks if the table exists and if not, creates the table
+  - this works fine but it means we query the database for every table
+  - in MySQL, we query the information_schema table, which we've seen
+    issues with before because it doesn't have indexes
+- the smarter thing to do here is to get all the tables that already exist,
+  remove them from the list, and just straight up create them without
+  further checks
+- this entire thing should be protected by the migration lock so we
+  shouldn't encounter issues from multiple processes initializing the DB
+  and tables existing after the initial check
+- this commit also removes the check from `createTable` because this isn't
+  really needed. We should be using the migration utils, which do
+  check for existing tables. I've added a note to the function and
+  audited anywhere we still call the function
+- this commit removes (- 49 tables + 1 initial check) 48 queries from
+  the initial DB init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c31141</div>
+                                        <div class="message">Cleaned up JSDocs referencing TestAgent
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- Previous docs were out of date</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#027d6a8</div>
+                                        <div class="message">Fixed disconnected Stripe test
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- Disconnected Stripe state is now a special case after the defaul test configuration was changed to have fake Stripe keys included mimicing configured Stripe
+- The disconnected state is now achieved through an API call instead of mocking internal services from the test level. This seems like a cleaner approach, although still a bit cumbersome</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a974f6</div>
+                                        <div class="message">Added default values for Stripe config in tests
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- These variables need to be present in the configuration during the Ghost's boot time initialization, which caused a need to remember to mock settings cache before agent initialization.
+- By moving the values into default settings config it removes the need to do any work during test environment setup. Yey!
+- We should put default values in to test-specific settings-defaults.json In similar situations. Specifically, when we find a need to mock settings cache to be able to start Ghost instance in a certain state</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f17c16</div>
+                                        <div class="message">Added test-specific default-settings.json configuration
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- Having this config for test environment allows to pre-populate default settings values in the settings table
+- Right now the default-settings.json is an exact copy of the original "/data/schema/default-settings/default-settings.json". Having a starter file as an exact copy, allows to track the differences between environments as they are introduced easier</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4700b14</div>
+                                        <div class="message">Made default settings file location configurable
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- The values configuration for the settings table need to become configurable to be able to run our test environment with a pre-defined set of configurations (e.g Stripe-related values).
+- This change makes it possible to define the default settings file location (currently a JSON)
+- A new key is now exposed through the "paths.defaultSettings" key in settings, which can be overloaded for the needs of the environment</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f0bf62</div>
+                                        <div class="message">Renamed defaultSettings to  defaultRouteSettings
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- The `defaultSettings` path name in the config (one pointing to routes yaml file) creates confusion with the `defaultSettings` which populate defaults for  in the database settings table.
+- Furthermore, the name collision creates a problem when trying to make database default settings dynamic - being able to load them from configurable file path.
+- Rename makes "routing" explicit to avoid ambiguity and free up the name for the database defaults
+- The value seems to be safe to be renamed as all keys used in `overrides.json` are taking priority - the name "defaultRouteSettings" hasn't surfaced at any point in the git history</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#178e7db</div>
+                                        <div class="message">Extracted TestAgent class for test utils
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- The constructor logic was duplicated across test agents, so made sence to extract the logic into a common class</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b5852f</div>
+                                        <div class="message">Extracted separate member agent test util
+
+refs https://github.com/TryGhost/Toolbox/issues/214
+
+- TestAgent was used to initialize both Admin &amp; Member API agents, which is somewhat confusing because Member API does not have the same "loginAs" functionality like Admin API does
+- Having distinct agents for each API makes the class API cleaner with possibility to extract common functionality even further</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c5c41b</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            Fixed welcome pages not working for "subscribe" links (#14176)
+
+
+- Fixed test fixtures so that members with subscriptions also have products/tiers
+- Fixed test fixtures so that default&amp;free tiers can be updated for tests
+- Added tests for the signin functionality and welcome page redirects
+- Extended `setupStripe` to setup other Members settings - this needs some more
+  thought around how we proceed
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">ProFireDev/Vukkybox</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f54282d</div>
+                                        <div class="message">enable experimental AI powered security alerts, and quality alerts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50bb2f3</div>
+                                        <div class="message">move</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b47d8b</div>
+                                        <div class="message">git pushMerge branch 'main' of https://github.com/litdevs/vukkybox into main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2dc23c</div>
+                                        <div class="message">Stuff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#855baa9</div>
+                                        <div class="message">beep bop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93201c5</div>
+                                        <div class="message">doodoo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d36a76d</div>
+                                        <div class="message">disallow guestgallery</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">ProFireDev/Ryujinx</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c0f095a</div>
-                                        <div class="message">Fix typos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c66a92</div>
-                                        <div class="message">Fix coverity issue about uninitialized members of LevelledListBase
-
-* Remove explicit constructor.
-* Use static constexpr where possible.
-* Use CRTP to get RecName.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdd9e6a</div>
-                                        <div class="message">Always reduce weapon condition by the raw damage (bug #6559)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34be932</div>
-                                        <div class="message">Merge branch 'ascivilaspossible' into 'master'
-
-Increase the base actor angular velocity to 900°/sec (#5192)
-
-Closes #5192
-
-See merge request OpenMW/openmw!1690</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15613c5</div>
-                                        <div class="message">Merge branch 'osg_stats_regexp' into 'master'
-
-Support regexp_match for hist_threshold and hist
-
-See merge request OpenMW/openmw!1692</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd281e1</div>
-                                        <div class="message">Merge branch 'fix_collision_boxes' into 'master'
-
-Fix #6616: Fix incorrect collision box calculations
-
-Closes #6616
-
-See merge request OpenMW/openmw!1687</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb2a7d7</div>
-                                        <div class="message">Merge branch 'coverage' into 'master'
-
-Provide unit tests and coverage reports from CI
-
-See merge request OpenMW/openmw!1675</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#38a0659</div>
-                                        <div class="message">Merge branch 'weak_ptr' into 'master'
-
-Store std::weak_ptr into mUpdateAabb.
-
-See merge request OpenMW/openmw!1578</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a3d7a1</div>
-                                        <div class="message">Merge branch 'esm3_ai_package' into 'master'
-
-Use unique_ptr to manage AiPackage lifetime
-
-See merge request OpenMW/openmw!1691</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#087084a</div>
-                                        <div class="message">Merge branch 'projectilefix' into 'master'
-
-Fix for projectile movement simulation (#6526 and probably #6434)
-
-See merge request OpenMW/openmw!1518</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f71afa</div>
-                                        <div class="message">Fix matlab deprecation warning
-
-scripts/osg_stats.py:163: MatplotlibDeprecationWarning:
-The set_window_title function was deprecated in Matplotlib 3.4 and will be removed two minor releases later. Use manager.set_window_title or GUI-specific methods instead.
-  fig.canvas.set_window_title('timeseries')</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6bddbf</div>
-                                        <div class="message">Support regexp_match for hist_threshold and hist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#595c2e0</div>
-                                        <div class="message">Use unique_ptr to manage AiPackage lifetime</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a15ad2</div>
-                                        <div class="message">Increase the base angular velocity to 900°/sec (#5192)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09b1aca</div>
-                                        <div class="message">Merge branch 'fix_esm4_init_coverity_issues' into 'master'
-
-Remove used-defined constructors from ESM4 types
-
-See merge request OpenMW/openmw!1688</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f516e34</div>
-                                        <div class="message">Remove used-defined constructors from ESM4 types
-
-To avoid explicit initialization. It should happen in the load functions anyway.
-
-* Move all non-zero initializations to corresponding class definition.
-* Replace std::vector by std::array when it has constant size.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de3092f</div>
-                                        <div class="message">Revert "Merge branch 'offset_the_deads' into 'master'"
-
-This reverts commit 7dd02076f5a05528d0df308bf68e6bd733bd1b43</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56b9e29</div>
-                                        <div class="message">Provide unit tests reports and coverage from CI
-
-Use https://docs.gitlab.com/ee/ci/unit_test_reports.html#googletest for unit tests reports.
-Use https://docs.gitlab.com/ee/user/project/merge_requests/test_coverage_visualization.html#cc-example
-for coverage reports.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#26bdba8</div>
-                                        <div class="message">Store std::weak_ptr into mUpdateAabb. This avoid extending the lifetime
-of collision objects beyond what they should.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63bf4bf</div>
-                                        <div class="message">Solve 2 bugs in projectile movement simulation:
-- properly initialize mSimulationPosition in the constructor. Unlucky thread scheduling can cause processHits to be called before the first simulation run, causing the projectile to vanish to whatever value the variable happens to contains.
-- don't continue moving the projectile after a hit. The position would continue to be updated to some senseless value.</div>
+                                        <div class="sha">#ce70158</div>
+                                        <div class="message">Merge branch 'Ryujinx:master' into master</div>
                                     </div>
                                 </div>
                             </section>
@@ -2134,42 +2326,1358 @@ of collision objects beyond what they should.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">imsiddhant/MY-CCNA-Prep-1</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">chromium/chromium</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#7 Use this to migrate and merge repository's together</span>
+                                        Pushed 24 commits in
+                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">ProFireDev/ProFireDev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#0f61f0b</div>
+                                        <div class="message">Log exceptions (#1393)
+
+* log user settings, errors and exceptions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#884bb82</div>
+                                        <div class="message">Adding risk metrics to portfolio and qa (#1394)
+
+* Adding es to qa and var to portfolio
+
+* Fixing mathematics
+
+* Adding es command to portfolio menu
+
+* Linting
+
+* Fixing tests
+
+* Lint fixes
+
+* lint fixes
+
+* Adding hugo, tests and small fixes
+
+* Fixes
+
+* Fix mypy + portfolio model
+
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5848af</div>
+                                        <div class="message">Crypto heatmaps (#1416)
+
+* added hm feature
+
+* updated requirements
+
+* updated tests
+
+* updated tests
+
+* updated charts convention and removed duplicated autocompletion
+
+* added percentage
+
+* lint
+
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24670c3</div>
+                                        <div class="message">Improve integrated tests (#1415)
+
+* Added verbosity and check for file
+
+* Fixed
+
+* Added tests
+
+* Added tests
+
+* Updated .gitignore
+
+* Improved handling
+
+* Fixed tests
+
+* Updated record
+
+* Fixed nested folder
+
+* Standardized path output for windows
+
+* fixed black issues
+
+* Fixed pylint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#512f37b</div>
+                                        <div class="message">Fixed QA exit bug (#1417)
+
+* Fixed QA exit bug
+
+* Fix
+
+* Fixed pred</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7aad74</div>
+                                        <div class="message">Stock table (#1296)
+
+* Added table
+
+* Table changes
+
+* Formatted table
+
+* Added a table
+
+* Got table working
+
+* Fixed multiple tables
+
+* Fixed James glitch
+
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#576b847</div>
+                                        <div class="message">Fix pipo &amp; fipo limit arguments (#1411)
+
+* Fix beautiful soup class
+
+* Add --limit, and --start arguement for pipo
+
+* Reverse commits from the other PR
+
+* Make same changes for pipo for consistency
+
+* Update tests
+
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9842ba</div>
+                                        <div class="message">Fix header messages command (#1412)
+
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dfcd515</div>
+                                        <div class="message">Refactored menu (#1354)
+
+* Refactored menu
+
+* Updated test
+
+* Changes
+
+* Added Lucas change
+
+* Refactored
+
+* Test fixes
+
+* Fixed tests
+
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d2e025</div>
+                                        <div class="message">Fix bug crypto whales (#1409)
+
+* Fix beautiful soup class
+
+* Fix whales bug
+
+* Fix whales model and error missing API keys
+
+* Undo changes in dcf model
+
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a189774</div>
+                                        <div class="message">Fix hashrate chart legend position (#1406)
+
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f82a7e0</div>
+                                        <div class="message">Fix visualise sia metric  (#1392)
+
+* Fix beautiful soup class
+
+* Update test cassettes
+
+* Update test cassettes for dcf
+
+* Update test cassettes for all failing tests
+
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d036af6</div>
+                                        <div class="message">Updating tests : cryptocurrency/onchain/ethplorer (#1414)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c60ae9</div>
+                                        <div class="message">Bump all deps following breaking changes in multiple libraries (#1413)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af785d2</div>
+                                        <div class="message">Bump tensorflow version to mitigate vulnerabilities (#1408)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7792c24</div>
+                                        <div class="message">Fix bugs Stocks Candle moving average (#1369)
+
+* Fix bugs moving average
+
+* Update tests
+
+* Remove second y axis &amp; add MA to legend
+
+* Update stocks_controller.py
+
+spelling
+
+* Fix test
+
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88ff92a</div>
+                                        <div class="message">extra ref in main (#1401)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#135eedb</div>
+                                        <div class="message">
+                                            Fix main.yml (#1400)
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* This is not a function on CA
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* This command does not exist on CA
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Type in dcf help text
+
+* Missing the index on dividends function
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Missing index
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Fix missing index
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Fix missing index
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* doesn't exists
+
+The command 'disp' doesn't exist on the /stocks/options/ menu.
+
+2022 Feb 16, 08:49 (
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            ) /stocks/options/ $ disp
+usage: options {calc,yf,tr,info,pcr,load,exp,vol,voi,oi,hist,chains,grhist,unu,plot,parity,binom,vsurf,greeks,payoff,pricing,screen,cls,home,h,?,help,q,quit,..,exit,r,reset}
+options: error: argument cmd: invalid choice: 'disp' (choose from 'calc', 'yf', 'tr', 'info', 'pcr', 'load', 'exp', 'vol', 'voi', 'oi', 'hist', 'chains', 'grhist', 'unu', 'plot', 'parity', 'binom', 'vsurf', 'greeks', 'payoff', 'pricing', 'screen', 'cls', 'home', 'h', '?', 'help', 'q', 'quit', '..', 'exit', 'r', 'reset')
+
+The command 'disp' doesn't exist on the /stocks/options/ menu.
+
+2022 Feb 16, 08:49 (
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            ) /stocks/options/ $
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Create _index.md
+
+* Create _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update and rename website/content/common/quantitative_analysis/data/_index.md to website/content/common/quantitative_analysis/raw/_index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Black formatting
+
+* Update _index.md
+
+* Update _index.md
+
+* small ba edits
+
+* black formatting code
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* black formatting code + mc axes
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* regression
+
+* regression
+
+* Update _index.md
+
+* codespell
+
+* codespell
+
+* flake8 fix
+
+* Fix main.yml
+
+* Add sia commands
+
+Co-authored-by: Jeroen Bouma &lt;jeroenbouma@MacBook-Pro-van-Jeroen.local&gt;
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fae93c6</div>
+                                        <div class="message">Refactor Bot (#1326)
+
+* First commit
+
+* Renamed to bot
+
+* change from discordbot to bots imports
+
+* refractor cmds
+
++ autocomplete helpers
++ updated dps plots/candle
++ quote cmd
+
+* isort fix
+
+* Update helpers.py
+
+* Added first refactor
+
+* Added commands and refactor
+
+* Added description handler
+
+* Through grains
+
+* ta + image border helper
+
+* Added indices
+
+* merged
+
+* Finished econ
+
+* options refactor
+
+* dark_pool_shorts, candle, quote done
+
+* pagination/dropdown logic to helpers + fixes
+
+* dd/disc/insider done + add image logic to helpers
+
+* linting
+
+* removed plt style
+
+* Almost done with Gov
+
+* fixing conflicts
+
+* Finished gov (excpect ones mentioned)
+
+* screener done
+
+* Test bug refactor
+
+* Store changes to switch
+
+* Finished refactor
+
+* Fixed error
+
+* Delete ::40
+
+* Fixed issue
+
+* Fixed black
+
+* finished
+
+* fixes
+
+Co-authored-by: teh_coderer &lt;me@tehcoderer.com&gt;
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c9c2b9</div>
+                                        <div class="message">
+                                            Complete check on Hugo Documentation (#1358)
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* This is not a function on CA
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* This command does not exist on CA
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Type in dcf help text
+
+* Missing the index on dividends function
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Missing index
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Fix missing index
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Fix missing index
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* doesn't exists
+
+The command 'disp' doesn't exist on the /stocks/options/ menu.
+
+2022 Feb 16, 08:49 (
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            ) /stocks/options/ $ disp
+usage: options {calc,yf,tr,info,pcr,load,exp,vol,voi,oi,hist,chains,grhist,unu,plot,parity,binom,vsurf,greeks,payoff,pricing,screen,cls,home,h,?,help,q,quit,..,exit,r,reset}
+options: error: argument cmd: invalid choice: 'disp' (choose from 'calc', 'yf', 'tr', 'info', 'pcr', 'load', 'exp', 'vol', 'voi', 'oi', 'hist', 'chains', 'grhist', 'unu', 'plot', 'parity', 'binom', 'vsurf', 'greeks', 'payoff', 'pricing', 'screen', 'cls', 'home', 'h', '?', 'help', 'q', 'quit', '..', 'exit', 'r', 'reset')
+
+The command 'disp' doesn't exist on the /stocks/options/ menu.
+
+2022 Feb 16, 08:49 (
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
+                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
+                                            </svg>
+                                            ) /stocks/options/ $
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Create _index.md
+
+* Create _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update and rename website/content/common/quantitative_analysis/data/_index.md to website/content/common/quantitative_analysis/raw/_index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Black formatting
+
+* Update _index.md
+
+* Update _index.md
+
+* small ba edits
+
+* black formatting code
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* black formatting code + mc axes
+
+* Update _index.md
+
+* Update _index.md
+
+* Update _index.md
+
+* regression
+
+* regression
+
+* Update _index.md
+
+* codespell
+
+* codespell
+
+* flake8 fix
+
+Co-authored-by: Jeroen Bouma &lt;jeroenbouma@MacBook-Pro-van-Jeroen.local&gt;
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
+                                        </div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2214,7 +3722,7 @@ of collision objects beyond what they should.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2022, 22:08:44 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 28 Feb 2022, 23:09:42 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
