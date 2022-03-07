@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2846" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2596" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -47,9 +47,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            690 Commits
+                            692 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -476,7 +476,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 51 commits)</small>
+                    <small class="h-details">(computed from last 53 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
@@ -541,8 +541,8 @@
                         09
                     </div>
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">2</span>
+                        <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         10
                     </div>
                     <div class="entry">
@@ -622,8 +622,8 @@
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 21.052631578947366px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -706,7 +706,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 1 day
+                            Current streak 2 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -730,7 +730,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.17
+                            Average per day at ~3.18
                         </div>
                     </section>
                 </div>
@@ -1706,10 +1706,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 11.882352941176471)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1176470588235294 0,1.1176470588235294 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1176470588235294 1.7,2.1176470588235294 z"/>
                             </g>
                         </g>
                         <g transform="translate(44.199999999999996, 26)">
@@ -1739,7 +1739,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juharris/train-pytorch-in-js</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert a PyTorch model to train it in JavaScript using ONNX Runtime Web</div>
@@ -1959,6 +1959,46 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Flipping-Industries/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ffd1508</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Flipping-Industries/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b659da7</div>
+                                        <div class="message">Create README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -2140,1169 +2180,6 @@ See merge request OpenMW/openmw!1704</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">ProFireDev/Geyser</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#75893bd</div>
-                                        <div class="message">Merge branch 'GeyserMC:master' into master</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 16 commits in
-                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7090d06</div>
-                                        <div class="message">Implement market cap command (#1437)
-
-* add gst letters only
-
-* implement market cap command
-
-* add tests
-
-* update hugo with mktcap cmd
-
-* add mktcap to integrated tests
-
-* Update _index.md
-
-* update test fa data</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb1f304</div>
-                                        <div class="message">Documentation (#1436)
-
-* add gst letters only
-
-* fix silly mistake with typo on Finnhub
-
-* improve README</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#401e4c7</div>
-                                        <div class="message">Output Missing API Key Message to Console (#1357)
-
-* Decorator to output error msg to console of missing API Key
-
-* Refactor FMP &amp; alpha advantage
-
-* Refactor FRED &amp; QUANDL
-
-* Refactor Polygon
-
-* Refactor FRED
-
-* Refactor FRED
-
-* Refactor Finnhub &amp; coinmarketcap &amp; Newsapi
-
-* Allow disabling of check api
-
-* Updating tests : disable check api for tests
-
-* Refactor Finnhub &amp; SI &amp; Binance
-
-* Fix linting
-
-* Fix test &amp; add black formatting
-
-* Fix test failing
-
-* Fix test failing
-
-* Refactor CryptoPanic &amp; Whales alert &amp; Glassnode &amp; Coinglass
-
-* Refactor ETHexplorer &amp; Smartstake &amp; Alpha Advanage &amp; Coinbase
-
-* Add decorators to controllers
-
-* Fix test &amp; Refactor Coinbase, RH, Reddit
-
-* Add contributing guideline
-
-* Update CONTRIBUTING.md
-
-* Update CONTRIBUTING.md
-
-* fix tests
-
-* add decorator to snews cmd
-
-Co-authored-by: Chavithra PARANA &lt;chavithra@gmail.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2ca215</div>
-                                        <div class="message">Econometrics Menu (#1403)
-
-* Add Statistics Menu
-
-* Add Granger Causality test
-
-* Apply Black formatting
-
-* Add Cointegration Tests
-
-* Adjust plotting for Cointegration test
-
-* Add Significant parameter to Cointegration tests
-
-* Move regression functions to seperate .py files
-
-* Progress on Panel Data
-
-* A lot of progress for Panel Data
-
-* Make functions robust and improve documentation
-
-* Re-enable Breusch-Godfrey
-
-* Add modify functionality
-
-* Improve modify functionality
-
-* Add Breusch-Pagan heteroscedasticity test
-
-* Capitalize a word
-
-* Include documentatin for the Statistics Menu
-
-* Update _index.md
-
-* Update _index.md
-
-* Update _index.md
-
-* Fix export statements and add Example datasets
-
-* Update example with Longley's dataset
-
-* Update documentation with a legit source
-
-* Compare the results from each regression models based on the wage_panel dataset
-
-* Updated with all relevant types of regression tables
-
-* Update with all relevant regression types for Panel data
-
-* Update _index.md
-
-* Add change column type, improve OLS, add time and entity effects for FE
-
-* Update documentation and fix a small bug
-
-* Add in Statistics menu, replacing Custom menu
-
-* Remove custom menu
-
-* Add in documentation
-
-* Add in gst files
-
-* Cointegration can be used on any amount of columns
-
-* Add Tests
-
-* Make tests time invariant
-
-* Update Poetry and Requirements
-
-* Change name of Statistics menu to Econometrics menu
-
-* Rename scripts
-
-* Add type in Documentation
-
-* Change names from Statistics to Econometrics
-
-* Add graph
-
-* Update tests with rounding and naming
-
-* Make minor adjustments to fix the tests
-
-* Updating tests : allow extra args for capture
-
-* Apply recorder formatting
-
-* Adding some minor formatting
-
-* Fix error with MyPy
-
-* Attempt to fix MyPy annoyance
-
-* super small style things
-
-* Fix small bugs and add plot command to dwat
-
-* Small description mistake
-
-* Update documentation with missing argument
-
-* Update styling
-
-* Add error handling and add improve show functionality
-
-* Fix merge issue
-
-* Allow import from custom_imports
-
-Co-authored-by: Jeroen Bouma &lt;jeroenbouma@MacBook-Pro-van-Jeroen.local&gt;
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
-Co-authored-by: Chavithra PARANA &lt;chavithra@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8b3b49</div>
-                                        <div class="message">Groupme Bot (#1418)
-
-* Added groupme helpers
-
-* Began handling of user input
-
-* Expanded commands, improved bot
-
-* Completed dictionary
-
-* Eliminated redundancies
-
-* Added more
-
-* Added debuggers for server
-
-* Fixed bugs
-
-* Improved input handling and image sending
-
-* Fixed dd-est
-
-* Fixed dd commands
-
-* Added dps fix
-
-* Fixed feargreed
-
-* Fixed econ commands
-
-* Fixed gov commands
-
-* Fixed ta
-
-* Added docstrings
-
-* Added docstrings
-
-* black
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb0de1e</div>
-                                        <div class="message">Fix the cramer function (#1435)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b839f6</div>
-                                        <div class="message">Add demo and remove roadmap (#1434)
-
-* add gst letters only
-
-* this roadmap was very misleading
-
-* Update README.md
-
-* Update README.md
-
-* have bot toc closed by default</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33de5e2</div>
-                                        <div class="message">Discord Bot Hugo Server Documentation (#1410)
-
-* Directory Structures for Discord Bot Hugo Server
-
-Directory Structures for Discord Bot Commands Built:
-
-```
-  - name: "bot"
-    ref: "/bot"
-    sub:
-      - name: "Discord"
-        ref: "/bot/discord"
-        sub:
-          - name: "Introduction"
-            ref: "/bot/discord/introduction"
-          - name: "Installation Instructions"
-            ref: "/bot/discord/installation"
-          - name: "Support"
-            ref: "/bot/discord/support"
-          - name: "Commands List"
-            ref: "/bot/discord/commands"
-          - name: "Price Commands"
-            ref: "/bot/discord/price"
-              sub:
-                - name: "quote"
-                  ref: "/bot/discord/price/quoute"
-                - name: "candle"
-                  ref: "/bot/discord/price/candle"
-                - name: "btc"
-                  ref: "/bot/discord/price/btc"
-                - name: "eth"
-                  ref: "/bot/discord/price/eth"
-                - name: "sol"
-                  ref: "/bot/discord/price/sol"
-          - name: "Options Commands"
-            ref: "/bot/discord/options"
-            sub:
-              - name: "opt unu"
-                ref: "/bot/discord/options/unu"
-              - name: "opt info"
-                ref: "/bot/discord/options/info"
-              - name: "opt vsurf"
-                ref: "/bot/discord/options/vsurf"
-              - name: "opt oi"
-                ref: "/bot/discord/options/oi"
-              - name: "opt vol"
-                ref: "/bot/discord/options/vol"
-              - name: "opt overview"
-                ref: "/bot/discord/options/overview"
-              - name: "opt hist"
-                ref: "/bot/discord/options/hist"
-              - name: "opt grhist"
-                ref: "/bot/discord/options/grhist"
-              - name: "opt chain"
-                ref: "/bot/discord/options/chain"
-          - name: "Technical Analysis Commands"
-            ref: "/bot/discord/ta"
-            sub:
-              - name: "ta summary"
-                ref: "/bot/discord/ta/summary"
-              - name: "ta view"
-                ref: "/bot/discord/ta/view"
-              - name: "ta recom"
-                ref: "/bot/discord/ta/recom"
-              - name: "ta obv"
-                ref: "/bot/discord/ta/obv"
-              - name: "ta fib"
-                ref: "/bot/discord/ta/fib"
-              - name: "ta ad"
-                ref: "/bot/discord/ta/ad"
-              - name: "ta cg"
-                ref: "/bot/discord/ta/cg"
-              - name: "ta fisher"
-                ref: "/bot/discord/ta/fisher"
-              - name: "ta cci"
-                ref: "/bot/discord/ta/cci"
-              - name: "ta ema"
-                ref: "/bot/discord/ta/ema"
-              - name: "ta sma"
-                ref: "/bot/discord/ta/sma"
-              - name: "ta wma"
-                ref: "/bot/discord/ta/wma"
-              - name: "ta hma"
-                ref: "/bot/discord/ta/hma"
-              - name: "ta zlma"
-                ref: "/bot/discord/ta/zlma"
-              - name: "ta aroon"
-                ref: "/bot/discord/ta/aroon"
-              - name: "ta adosc"
-                ref: "/bot/discord/ta/adosc"
-              - name: "ta macd"
-                ref: "/bot/discord/ta/macd"
-              - name: "ta kc"
-                ref: "/bot/discord/ta/kc"
-              - name: "ta adx"
-                ref: "/bot/discord/ta/adx"
-              - name: "ta rsi"
-                ref: "/bot/discord/ta/rsi"
-              - name: "ta stoch"
-                ref: "/bot/discord/ta/stoch"
-              - name: "ta bbands"
-                ref: "/bot/discord/ta/bbands"
-              - name: "ta donchian"
-                ref: "/bot/discord/ta/donchian"
-          - name: "Stock Screener Commands"
-            ref: "/bot/discord/screener"
-            sub:
-              - name: "scr presets_default"
-                ref: "/bot/discord/screener/presets_default"
-              - name: "scr presets_custom"
-                ref: "/bot/discord/screener/custom"
-              - name: "scr historical"
-                ref: "/bot/discord/screener/historical"
-              - name: "scr overview"
-                ref: "/bot/discord/screener/overview"
-              - name: "scr technical"
-                ref: "/bot/discord/screener/technical"
-              - name: "scr valuation"
-                ref: "/bot/discord/screener/valuation"
-              - name: "scr financial"
-                ref: "/bot/discord/screener/financial"
-              - name: "scr ownership"
-                ref: "/bot/discord/screener/ownership"
-              - name: "scr performance"
-                ref: "/bot/discord/screener/performance"
-          - name: "Due Diligence Commands"
-            ref: "/bot/discord/dd"
-            sub:
-              - name: "dd est"
-                ref: "/bot/discord/dd/est"
-              - name: "dd sec"
-                ref: "/bot/discord/dd/sec"
-              - name: "dd analyst"
-                ref: "/bot/discord/dd/analyst"
-              - name: "dd supplier"
-                ref: "/bot/discord/dd/supplier"
-              - name: "dd customer"
-                ref: "/bot/discord/dd/customer"
-              - name: "dd arktrades"
-                ref: "/bot/discord/dd/arktrades"
-              - name: "dd pt"
-                ref: "/bot/discord/dd/pt"
-          - name: "Dark Pool Shorts Commands"
-            ref: "/bot/discord/dps"
-            sub:
-              - name: "dps hsi"
-                ref: "/bot/discord/dps/hsi"
-              - name: "dps shorted"
-                ref: "/bot/discord/dps/shorted"
-              - name: "dps psi"
-                ref: "/bot/discord/dps/psi"
-              - name: "dps spos"
-                ref: "/bot/discord/dps/spos"
-              - name: "dps dpotc"
-                ref: "/bot/discord/dps/dpotc"
-              - name: "dps pos"
-                ref: "/bot/discord/dps/pos"
-              - name: "dps sidtc"
-                ref: "/bot/discord/dps/sidtc"
-              - name: "dps ftd"
-                ref: "/bot/discord/dps/ftd"
-          - name: "Government (USA) Commands"
-            ref: "/bot/discord/gov"
-            sub:
-              - name: "gov histcont"
-                ref: "/bot/discord/gov/histcont"
-              - name: "gov lobbying"
-                ref: "/bot/discord/gov/lobbying"
-              - name: "gov toplobbying"
-                ref: "/bot/discord/gov/toplobbying"
-              - name: "gov lastcontracts"
-                ref: "/bot/discord/gov/lastcontracts"
-              - name: "gov contracts"
-                ref: "/bot/discord/gov/contracts"
-              - name: "gov qtrcontracts"
-                ref: "/bot/discord/gov/qtrcontracts"
-              - name: "gov lasttrades"
-                ref: "/bot/discord/gov/lasttrades"
-              - name: "gov gtrades"
-                ref: "/bot/discord/gov/gtrades"
-              - name: "gov topbuys"
-                ref: "/bot/discord/gov/topbuys"
-              - name: "gov topsells"
-                ref: "/bot/discord/gov/topsells"
-          - name: "Economy Commands"
-            ref: "/bot/discord/econ"
-            sub:
-              - name: "econ softs"
-                ref: "/bot/discord/econ/softs"
-              - name: "econ meats"
-                ref: "/bot/discord/econ/meats"
-              - name: "econ energy"
-                ref: "/bot/discord/econ/energy"
-              - name: "econ metals"
-                ref: "/bot/discord/econ/metals"
-              - name: "econ grains"
-                ref: "/bot/discord/econ/grains"
-              - name: "econ futures"
-                ref: "/bot/discord/econ/futures"
-              - name: "econ usbonds"
-                ref: "/bot/discord/econ/usbonds"
-              - name: "econ glbonds"
-                ref: "/bot/discord/econ/glbonds"
-              - name: "econ indices"
-                ref: "/bot/discord/econ/indices"
-              - name: "econ overview"
-                ref: "/bot/discord/econ/overview"
-              - name: "econ feargree"
-                ref: "/bot/discord/econ/feargreed"
-              - name: "econ currencies"
-                ref: "/bot/discord/econ/currencies"
-              - name: "econ valuation"
-                ref: "/bot/discord/econ/valuation"
-              - name: "econ performance"
-                ref: "/bot/discord/econ/performance"
-          - name: "ETF Commands"
-            ref: "/bot/discord/etf"
-            sub:
-              - name: "etf disc"
-                ref: "/bot/discord/etf/disc"
-              - name: "etf holdings by-ticker"
-                ref: "/bot/discord/etf/tiker"
-              - name: "etf holdings by-etf"
-                ref: "/bot/discord/etf/holdings"
-          - name: "Miscellaneous Commands"
-            ref: "/bot/discord/misc"
-            sub:
-              - name: "sia cps"
-                ref: "/bot/discord/misc/cps"
-              - name: "sia cpis"
-                ref: "/bot/discord/misc/cpis"
-              - name: "disc fidelity"
-                ref: "/bot/discord/misc/fidelity"
-              - name: "futures"
-                ref: "/bot/discord/misc/futures"
-              - name: "earnings"
-                ref: "/bot/discord/misc/earnings"
-              - name: "ins last"
-                ref: "/bot/discord/misc/ins_last"
-              - name: "moon"
-                ref: "/bot/discord/misc/moon"
-              - name: "megashill"
-                ref: "/bot/discord/misc/megashill"
-```
-
-* updated to reflect changes - 2022-02-22
-
-added new features and rearranged the directory structure.
-
-* Updated 2022-02-22
-
-* updated 2022-02-22
-
-Updated the description and changed the images.
-
-* /bot/discord/installation/_index.md - 2022-02-22
-
-Creates the path and file for installation instructions.
-
-* created /bot/discord/support/_index.md
-
-Created 2022-02-22
-
-* created /bot/discord/commands/_index.md
-
-created path and file - 2022-02-24
-
-* created /bot/discord/price/_index.md
-
-created path and files. 2022-02-24
-
-* created /bot/discord/price/quote/_index.md
-
-created path and file for quote. 2022-02-24
-
-* fixed typo - 2022-02-24
-
-* Create _index.md
-
-* created /bot/discord/price/candle/_index.md
-
-created path and files for candle - 2022-02-24
-
-* created /bot/discord/price/btc/_index.md
-
-created path and file for BTC - 2022-02-24
-
-* created /bot/discord/price/eth/_index.md
-
-created path and file for eth. 2022-02-24
-
-* created /bot/discord/price/sol/_index.md
-
-created path and file for sol. 2022-02-24
-
-* created /bot/discord/options/_index.md
-
-created path and file for options commands folder.
-
-* created /bot/discord/options/unu/_index.md
-
-created path and file for opt unu. 2022-02-24
-
-* created /bot/discord/options/info/_index.md
-
-created path and file for opt info. 2022-02-24
-
-* created /bot/discord/options/vsurf/_index.md
-
-created path and file for opt vsurf. 2022-02-24
-
-* created /bot/discord/options/oi/_index.md
-
-created path and file for opt oi. 2022-02-24
-
-* created bot/discord/options/vol/_index.md
-
-created path and file for opt vol. 2022-02-24
-
-* created /bot/discord/options/overview/_index.md
-
-created path and file for opt overview. 2022-02-24
-
-* created /bot/discord/options/hist/_index.md
-
-created path and file for opt hist - 2022-02-24
-
-* created /bot/discord/options/grhist/_index.md
-
-created path and file for opt grhist. 2022-02-24
-
-* created /bot/discord/options/chain/_index.md
-
-created path and file for opt opt_chain. 2022-02-24
-
-* corrected a name - opt_chain
-
-2022-02-24
-
-* created /bot/discord/ta/_index.md
-
-created directory for TA features and created _index.md. 2022-02-24
-
-* created /bot/discord/ta/summary/_index.md
-
-added path and file for ta summary. 2022-02-24
-
-* created /bot/discord/ta/view/_index.md
-
-created path and file for ta view. 2022-02-24
-
-* created /bot/discord/ta/recom/_index.md
-
-created path and file for ta recom. 2022-02-24
-
-* created /bot/discord/ta/obv/_index.md
-
-created path and file for ta obv. 2022-02-24
-
-* created bot/discord/ta/fib/_index.md
-
-created path and file for ta fib. 2022-02-24
-
-* created bot/discord/ta/ad/_index.md
-
-created directory and file for ta ad. 2022-02-24
-
-* created /bot/discord/ta/cg/_index.md
-
-created path and file for ta cg. 2022-02-24
-
-* created bot/discord/ta/fisher/_index.md
-
-created path and file for ta fisher. 2022-02-24
-
-* created /bot/discord/ta/cci/_index.md
-
-created path and file for ta cci. 2022-02-24
-
-* created /bot/discord/ta/ema/_index.md
-
-created path and file for ta ema. 2022-02-24
-
-* created bot/discord/ta/sma/_index.md
-
-created path and file for ta sma. 2022-02-24
-
-* created /bot/discord/ta/wma/_index.md
-
-created path and file for ta wma. 2022-02-24
-
-* created /bot/discord/ta/hma/_index.md
-
-created path and file for ta hma. 2022-02-24
-
-* created /bot/discord/ta/zlma/_index.md
-
-created path and file for ta zlma. 2022-02-24
-
-* created /bot/discord/ta/aroon/_index.md
-
-created path and file for ta aroon. 2022-02-24
-
-* created /bot/discord/ta/adosc/_index.md
-
-created path and file for ta adosc. 2022-02-24
-
-* created /bot/discord/ta/macd/_index.md
-
-created path and file for ta macd. 2022-02-24
-
-* created /bot/discord/ta/kc/_index.md
-
-created path and file for ta kc. 2022-02-24
-
-* created /bot/discord/ta/adx/_index.md
-
-created path and file for ta adx. 2022-02-24
-
-* created /bot/discord/ta/rsi/_index.md
-
-created path and file for ta rsi. 2022-02-24
-
-* created /bot/discord/ta/stoch/_index.md
-
-created path and file for ta stoch. 2022-02-24
-
-* created /bot/discord/ta/bbands/_index.md
-
-created path and file for ta bbands. 2022-02-24
-
-* created /bot/discord/ta/donchian/_index.md
-
-created path and file for ta donchian. 2022-02-25
-
-* created /bot/discord/screener/_index.md
-
-created folder for screener and _index.md. 2022-02-25
-
-* created ..screener/default_presets/_index.md
-
-created path and file for scr default_presets. 2022-02-25
-
-* changed screener/custom to screener/presets_custom
-
-* created /bot/discord/screener/presets_custom/_index.md
-
-Created path and file for scr presets_custom. 2022-02-25
-
-* created /bot/discord/screener/overview/_index.md
-
-created path and file for scr overview. 2022-02-25
-
-* created /bot/discord/screener/technical/_index.md
-
-created path and file for scr technical. 2022-02-25
-
-* created /bot/discord/screener/valuation/_index.md
-
-created path and file for scr valuation. 2022-02-25
-
-* created /bot/discord/screener/financial/_index.md
-
-created path and file for scr financial. 2022-02-25
-
-* created /bot/discord/screener/performance/_index.md
-
-created path and file for scr performance
-
-* created /bot/discord/dd/_index.md
-
-created path for DD features and created _index.md for folder root.
-
-* created /bot/discord/dd/est/_index.md
-
-created path and file for dd est. 2022-02-26
-
-* created /bot/discord/dd/sec/_index.md
-
-created path and file for dd sec. 2022-02-26
-
-* created /bot/discord/dd/analyst/_index.md
-
-created path and file for dd analyst. 2022-02-26
-
-* created /bot/discord/dd/supplier/_index.md
-
-created path and file for dd supplier
-
-* created /bot/discord/dd/customer/_index.md
-
-created path and file for dd customer. 2022-02-26
-
-* created /bot/discord/dd/arktrades/_index.md
-
-created path and file for dd arktrades. 2022-02-26
-
-* created /bot/discord/dd/pt/_index.md
-
-created path and file for dd pt. 2022-02-26
-
-* created /bot/discord/dps/_index.md
-
-created folder for Dark Pool Shorts commands and created _index.md file.
-
-* created /bot/discord/dps/hsi/_index.md
-
-created path and file for dps hsi. 2022-02-26
-
-* created /bot/discord/dps/shorted/_index.md
-
-created path and file for dps shorted. 2022-02-26
-
-* created /bot/discord/dps/psi/_index.md
-
-created path and file for dsp psi. 2022-02-26
-
-* created /bot/discord/dps/spos/_index.md
-
-created path and file for dps spos. 2022-02-26
-
-* created /bot/discord/dps/dpotc/_index.md
-
-created path and file for dps dpotc. 2022-02-27
-
-* created /bot/discord/dps/pos/_index.md
-
-created path and file for dps pos. 2022-02-27
-
-* created /bot/discord/dps/sidtc/_index.md
-
-created path and file for dps sidtc. 2022-02-27
-
-* created /bot/discord/dps/ftd/_index.md
-
-created path and file for dps ftd. 2022-02-27
-
-* created /bot/discord/gov/_index.md
-
-created folder for government commands and created _index.md file.
-
-* created /bot/discord/gov/histcont/_index.md
-
-created path and file for gov histcont. 2022-02-27
-
-* created /bot/discord/gov/lobbying/_index.md
-
-created path and file for gov lobbying. 2022-02-27
-
-* created /bot/discord/gov/toplobbying/_index.md
-
-created path and file for gov toplobbying. 2022-02-27
-
-* created /bot/discord/gov/contracts/_index.md
-
-created path and file for gov contracts. 2022-02-27
-
-* created /bot/discord/gov/lastcontracts/_index.md
-
-created path and file for gov lastcontracts. 2022-02-27
-
-* created /bot/discord/gov/qtrcontracts/_index.md
-
-created path and file for gov qtrcontracts. 2022-02-27
-
-* created /bot/discord/gov/lasttrades/_index.md
-
-created path and file for gov lasttrades
-
-* created /bot/discord/gov/gtrades/_index.md
-
-created path and file for gov gtrades. 2022-02-27
-
-* created /bot/discord/gov/topsells/_index.md
-
-created path and file for gov topsells
-
-* created /bot/discord/econ/_index.md
-
-created folder for econ commands, and root _index.md file
-
-* created /bot/discord/econ/softs/_index.md
-
-created path and file for econ softs.
-
-* created /bot/discord/econ/meats/_index.md
-
-created path and file for econ meats
-
-* created /bot/discord/econ/energy/_index.md
-
-created path and file for econ energy. 2022-02-27
-
-* updated description. 2022-02-27
-
-* created /bot/discord/econ/metals/_index.md
-
-created path and file for econ metals. 2022-02-27
-
-* created /bot/discord/econ/grains/_index.md
-
-created path and file for econ grains. 2022-02-27
-
-* created /bot/discord/econ/futures/_index.md
-
-created path and file for econ futures. 2022-02-27
-
-* created /bot/discord/econ/usbonds/_index.md
-
-created path and file for econ usbonds
-
-* created /bot/discord/econ/glbonds/_index.md
-
-created path and file for econ glbonds. 2022-02-27
-
-* created /bot/discord/econ/indices/_index.md
-
-created path and file for econ indices. 2022-02-27
-
-* added a missing letter to "feargreed"
-
-* created /bot/discord/econ/overview/_index.md
-
-created path and file for econ overview. 2022-02-27
-
-* created /bot/discord/econ/feargreed/_index.md
-
-created path and file for econ feargreed. 2022-02-27
-
-* added screenshot. 2022-02-27
-
-* created /bot/discord/econ/currencies/_index.md
-
-created path and file for econ currencies. 2022-02-27
-
-* added econ cpi
-
-2022-02-27
-
-* created /bot/discord/econ/cpi/_index.md
-
-created path and file for econ cpi. 2022-02-27
-
-* created /bot/discord/econ/performance/_index.md
-
-created path and file for econ performance. 2022-02-27
-
-* created /bot/discord/econ/valuation/_index.md
-
-created path and file for econ valuation. 2022-02-27
-
-* created /bot/discord/etf/_index.md
-
-created folder for ETF features and rool _index.md file. 2022-02-28
-
-* created /bot/discord/etf/holdings_by-ticker/_index.md
-
-created path and file for etf holdings by-ticker. 2022-02-28
-
-* created /bot/discord/etf/holdings_by-etf/_index.md
-
-created path and file for etf holdings by-etf. 2022-02-28
-
-* created /bot/discord/etf/disc-tops/_index.md
-
-created path and file for etf disc-tops. 2022-02-28
-
-* created /bot/discord/sia/_index.md
-
-created folder for sia commands, and _index.md file. 2022-02-28
-
-* created /bot/discord/disc/_index.md
-
-created folder for disc features, and _index.md file. 2022-02-28
-
-* created /bot/discord/disc/tops/_index.md
-
-created path and file for disc tops. 2022-02-28
-
-* created /bot/discord/disc/fidelity/_index.md
-
-created path and file for disc fidelity. 2022-02-28
-
-* created /bot/discord/disc/ugs/_index.md
-
-created path and file for disc ugs. 2022-02-28
-
-* created /bot/discord/sia/metrics/_index.md
-
-created path and file for sia metrics. 2022-02-28
-
-* created /bot/discord/sia/cps/_index.md
-
-created path and file for sia cps. 2022-02-28
-
-* created /bot/discord/sia/cpic/_index.md
-
-created path and file for sia cpic. 2022-02-28
-
-* created /bot/discord/misc/_index.md
-
-created folded and _index.md for misc commands. 2022-02-28
-
-* created /bot/discord/earnings/_index.md
-
-created path and file for earnings. 2022-02-28
-
-* created /bot/discord/misc/futures/_index.md
-
-created path and file for futures. 2022-02-28
-
-* created /bot/discord/ins-last/_index.md
-
-created path and file for ins-last. 2022-02-28
-
-* created /bot/discord/misc/moon/_index.md
-
-created path and file for moon. 2022-02-28
-
-* created /bot/discord/misc/megashill/_index.md
-
-created path and file for megashill. 02-28-2022
-
-* updated for latest changes - 2022-03-01
-
-added options: extended_hours &amp; heiken_candles
-
-* created /bot/discord/scr/ownership/_index.md
-
-created path and file for scr ownership. 2022-03-01
-
-* created /bot/discord/gov/topbuys/_index.md
-
-created path and file for gov topbuys. 2022-03-01
-
-* created /bot/fdiscord/introduction/_index.md
-
-created path and file for introduction section.
-
-* Spelling
-
-* spelling
-
-* spelling
-
-* spelling
-
-* Spelling
-
-* Spelling
-
-* Spelling
-
-* Update styling
-
-* Comment out broken bot function
-
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b28e387</div>
-                                        <div class="message">Sentiment News correlation with Stock price (#1421)
-
-* news api refactored in model and view
-
-* fix apis
-
-* allow news to be displayed as vertical bar in candle
-
-* add gst letters only
-
-* small fix
-
-* minor fixes
-
-* redo normal candle without news
-
-* add a new funtion for sentiment of headlines and stock price
-
-* add finnhub python to requirements
-
-* fix FRED granularity
-
-* fix grhist plot coloring
-
-* remove unused arg
-
-* improve defi menu
-
-* stocks/ba/snews API
-
-* add tests for stocks/ba/snews
-
-* update hugo
-
-* Update _index.md
-
-* ensure error is catch when wrong API key
-
-* fix tests
-
-* fix economy tests
-
-* remove stats because that finnhub data is now premium
-
-* improve plot snews</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#517e89c</div>
-                                        <div class="message">Create CODE_OF_CONDUCT.md (#1433)
-
-* Create CODE_OF_CONDUCT.md
-
-Closes #1097
-
-* Fixed linting
-
-* Final linting fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee82ff0</div>
-                                        <div class="message">Fix Bugs (#1432)
-
-* Fixed stocks/ca bugs
-
-* Fixed stocks/fa
-
-* Fixed stocks/ins
-
-* Fixed stocks/screener bugs
-
-* removed http file and added http files to gitignore
-
-* Fixed small issues
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3045792</div>
-                                        <div class="message">Fix bug cmc key not set under keys menu (#1431)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfcf187</div>
-                                        <div class="message">Remove controller import in __init__.py (#1430)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee7551c</div>
-                                        <div class="message">Fix bug stocks candle (#1429)
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb6d3ff</div>
-                                        <div class="message">Add cramer recommendations (+ inverse :) ) (#1427)
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c78188c</div>
-                                        <div class="message">Fix plot buf for grhist (#1428)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3362,7 +2239,7 @@ Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2022, 09:09:43 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 7 Mar 2022, 10:11:46 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
