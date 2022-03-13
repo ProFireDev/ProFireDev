@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2678" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2282" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .infos{flex-grow:1}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits{margin:0;list-style-type:none;padding-left:37px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .infos{flex-grow:1}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -38,18 +38,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            709 Commits
+                            718 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,13 +190,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    1.05 GB used
+                                    1.07 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.82m added, 429k removed
+                                    2.82m added, 428k removed
                                 </div>
                             </section>
                             <section>
@@ -346,12 +346,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="198.0610820704162" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="198.0610820704162" y="0" width="108.1943385401061" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="306.2554206105223" y="0" width="49.17623614977537" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="355.4316567602977" y="0" width="41.88266279371907" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="397.3143195540167" y="0" width="36.01833292051523" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="433.332652474532" y="0" width="26.667347525468042" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="192.98729426264424" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="192.98729426264424" y="0" width="105.42269299512431" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="298.40998725776853" y="0" width="47.916474338920786" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="346.32646159668934" y="0" width="40.80974255306197" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="387.1362041497513" y="0" width="35.095640907939995" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="422.23184505769126" y="0" width="25.984202400105996" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.2160474577973" y="0" width="11.783952542202712" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -364,7 +365,7 @@
                             </div>
                             <small>
                                 <div>22.6 MB</div>
-                                <div>43.06%</div>
+                                <div>41.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -376,7 +377,7 @@
                             </div>
                             <small>
                                 <div>5.63 MB</div>
-                                <div>10.69%</div>
+                                <div>10.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -388,7 +389,19 @@
                             </div>
                             <small>
                                 <div>4.12 MB</div>
-                                <div>7.83%</div>
+                                <div>7.63%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                HTML
+                            </div>
+                            <small>
+                                <div>1.38 MB</div>
+                                <div>2.56%</div>
                             </small>
                         </div>
                     </section>
@@ -402,7 +415,7 @@
                             </div>
                             <small>
                                 <div>12.3 MB</div>
-                                <div>23.52%</div>
+                                <div>22.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -414,7 +427,7 @@
                             </div>
                             <small>
                                 <div>4.80 MB</div>
-                                <div>9.1%</div>
+                                <div>8.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -426,7 +439,7 @@
                             </div>
                             <small>
                                 <div>3.05 MB</div>
-                                <div>5.8%</div>
+                                <div>5.65%</div>
                             </small>
                         </div>
                     </section>
@@ -476,12 +489,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 79 commits)</small>
+                    <small class="h-details">(computed from last 87 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.5 characters per line of code written</li>
+                        <li>Has approximately 43.9 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -491,8 +504,8 @@
                 <h3>Commit activity per hour of day</h3>
                 <div class="chart-bars">
                     <div class="entry">
-                        <span class="value">7</span>
-                        <div class="bar" style="height: 14.000000000000002px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">15</span>
+                        <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         00
                     </div>
                     <div class="entry">
@@ -617,38 +630,38 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">21</span>
+                            <span class="value">29</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
                             <span class="value">15</span>
-                            <div class="bar" style="height: 35.714285714285715px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 25.862068965517242px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 10.344827586206897px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
                             <span class="value">9</span>
-                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 15.517241379310345px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 11.904761904761903px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.620689655172415px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Thu
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.172413793103448px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
                             <span class="value">20</span>
-                            <div class="bar" style="height: 47.61904761904761px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 34.48275862068966px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -657,19 +670,24 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 68.3394787431849%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">85%</span>
+                        </div>
+                        <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 72.96000000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">91%</span>
+                            <div class="bar" style="width: 10.634395386215374%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">13%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 3.9264864864864863%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 0.5723109892534115%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 3.1135135135135132%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
+                            <div class="bar" style="width: 0.4538148813463175%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
                         </div>
                     </div>
                 </section>
@@ -1913,7 +1931,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juharris/train-pytorch-in-js</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert a PyTorch model to train it in JavaScript using ONNX Runtime Web</div>
@@ -1974,14 +1992,72 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/bot_contents/chalk-5.0.1</span>
-                                        in
+                                        Made
                                         <span class="repo">ProFireDev/init-Linkbot-legacy</span>
+                                        public
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ProFireDev/Computer-Science-10</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#402e570</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ProFireDev/Computer-Science-10</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#04babc6</div>
+                                        <div class="message">Update SUBLIMETEXTcomputerscienceshare.html</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ProFireDev/Computer-Science-10</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8470ada</div>
+                                        <div class="message">Add files via upload</div>
                                     </div>
                                 </div>
                             </section>
@@ -1994,307 +2070,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">ProFireDev/init-Linkbot-legacy</span>
+                                        <span class="repo">ProFireDev/Computer-Science-10</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#99285de</div>
-                                        <div class="message">Merge pull request #1 from ProFireDev/dependabot/npm_and_yarn/bot_contents/chalk-5.0.1
-
-Bump chalk from 5.0.0 to 5.0.1 in /bot_contents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee2c9cf</div>
-                                        <div class="message">Bump chalk from 5.0.0 to 5.0.1 in /bot_contents
-
-Bumps [chalk](https://github.com/chalk/chalk) from 5.0.0 to 5.0.1.
-- [Release notes](https://github.com/chalk/chalk/releases)
-- [Commits](https://github.com/chalk/chalk/compare/v5.0.0...v5.0.1)
-
----
-updated-dependencies:
-- dependency-name: chalk
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ProFireDev/init-Linkbot-legacy</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dbef74f</div>
-                                        <div class="message">Merge pull request #2 from ProFireDev/dependabot/npm_and_yarn/bot_contents/axios-0.26.1
-
-Bump axios from 0.26.0 to 0.26.1 in /bot_contents</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6677876</div>
-                                        <div class="message">Bump axios from 0.26.0 to 0.26.1 in /bot_contents
-
-Bumps [axios](https://github.com/axios/axios) from 0.26.0 to 0.26.1.
-- [Release notes](https://github.com/axios/axios/releases)
-- [Changelog](https://github.com/axios/axios/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/axios/axios/compare/v0.26.0...v0.26.1)
-
----
-updated-dependencies:
-- dependency-name: axios
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 65 commits in
-                                        <span class="repo">ProFireDev/Ghost</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#773045c</div>
-                                        <div class="message">Update dependency @tryghost/url-utils to v2.0.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f08750e</div>
-                                        <div class="message">Update dependency cssnano to v5.1.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#da9f018</div>
-                                        <div class="message">
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
-                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
-                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
-                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
-                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
-                                            </svg>
-                                            Fixed theme activation with capitalized names
-
-closes https://github.com/TryGhost/Team/issues/1420
-refs https://github.com/naz/Ghost/commit/da0dee548c8322e5bb50c0005558ca1845f55037
-refs https://github.com/TryGhost/Toolbox/issues/169
-
-- After introducing non-versioned API urls the "isAPI" regex failed to pass the test as it was expecting a `canary/vX` in the API URL. This caused "uncapitalization" to stop working for API requests.
-- Regex visualizer for quick reference: https://jex.im/regulex/#!flags=&amp;re=%5E(.*%5C%2Fghost%5C%2Fapi(%5C%2F(v%5B%5Cd.%5D%2B%7Ccanary))%3F%5C%2F.*%3F%5C%2F)
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb42b04</div>
-                                        <div class="message">Update dependency @sentry/node to v6.18.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2110c65</div>
-                                        <div class="message">Removed notification on theme install failure during setup step
-
-refs https://github.com/TryGhost/Team/issues/1417
-
-- we no longer want to display a notification if theme install fails
-- the notification has been removed so we fail silently, but log the warning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6c9dad</div>
-                                        <div class="message">Fixed tiers test with correct visibility (#14280)
-
-refs https://github.com/TryGhost/Team/issues/1387</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c43191</div>
-                                        <div class="message">Fixed members endpoint not ignoring unknown includes
-
-refs https://github.com/TryGhost/Team/issues/1415
-
-Members browse endpoint was missing allowedIncludes validation, causing unknown includes to throw 500 on API request.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90ef822</div>
-                                        <div class="message">Updated test fixtures for tiers with new visibility property
-
-refs https://github.com/TryGhost/Team/issues/1387
-
-Test fixtures were missed while updating new visibility property for tiers.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bab443</div>
-                                        <div class="message">Updated Portal to handle new tier visibility property
-
-refs https://github.com/TryGhost/Team/issues/1387
-
-Bumps portal with changes to handle new tier visibility property instead of portal plans/products setting. Also adds new UI refinements for tiers GA.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32ff722</div>
-                                        <div class="message">Added tier visibility to portal tier data
-
-refs https://github.com/TryGhost/Team/issues/1387
-
-We are moving away from using portal products/plans settings to visibility property on the tier object.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bca0e4b</div>
-                                        <div class="message">Update dependency bookshelf-relations to v2.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2438a0</div>
-                                        <div class="message">Udpated powered by badge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cbef892</div>
-                                        <div class="message">Fixed default value for Tier visibility (#14274)
-
-refs https://github.com/TryGhost/Team/issues/1387
-
-This fixes the Tier visibility property in the members-api so we do not
-attempt to set it to a boolean.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1920eb</div>
-                                        <div class="message">Update dependency @tryghost/color-utils to v0.1.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b32f2c</div>
-                                        <div class="message">Update dependency @tryghost/helpers to v1.1.59</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa1165d</div>
-                                        <div class="message">Support tier visibility editing Allowed Tiers Admin API to set visibility
-
-refs https://github.com/TryGhost/Team/issues/1387
-
-This will allow us to move from the portal_products and portal_plans
-settings to using the visibility property on tiers to determine whether
-or not a tier should be visible in Portal.
-
-This also fixes a bug with the Tiers Admin API read method permissions.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a3aa69</div>
-                                        <div class="message">Re-throw error when attempting to create webhooks
-
-- we catch error arising from creating webhooks and check for specific codes
-- if our error does not match one of those codes, we don't propagate the
-  error up
-- this becomes a problem if saving a webhook fails for some other reason
-  because upstream code assumes we return an error or model
-- this commit re-throws the error and adds a test that would have caught
-  this</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a707459</div>
-                                        <div class="message">Configured CI to only calculate coverage for recommended Node version
-
-- we seem to be getting some odd numbers when running c8 on Node 12, and
-  it's causing our CI checks to fail
-- even when we're adding tests, the coverage value goes down
-- this is disrupting the team from shipping, so we need to change that
-- this commit alters the setup to run unit tests w/ c8 for Node 16 unit
-  tests, and without c8 for other versions
-- `yarn test:unit` is kept the same for everyday use</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cff033b</div>
-                                        <div class="message">Migrated visibility column from portal settings (#14253)
-
-https://github.com/TryGhost/Team/issues/1387
-
-This is split into two migrations, one for the portal_products setting
-and one for the portal_plans setting, as dealing with both of them in a
-single migration led to too many branches.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#390e1ca</div>
-                                        <div class="message">Update dependency postcss to v8.4.8</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">ProFireDev/Vukkybox</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5328141</div>
-                                        <div class="message">Merge pull request #147 from LITdevs/dependabot/npm_and_yarn/postcss-8.4.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15d5fcf</div>
-                                        <div class="message">Merge pull request #148 from LITdevs/dependabot/npm_and_yarn/mongoose-6.2.5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11bb54f</div>
-                                        <div class="message">Update app.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f96d34</div>
-                                        <div class="message">Bump mongoose from 6.2.4 to 6.2.5
-
-Bumps [mongoose](https://github.com/Automattic/mongoose) from 6.2.4 to 6.2.5.
-- [Release notes](https://github.com/Automattic/mongoose/releases)
-- [Changelog](https://github.com/Automattic/mongoose/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/Automattic/mongoose/compare/6.2.4...6.2.5)
-
----
-updated-dependencies:
-- dependency-name: mongoose
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08dd55d</div>
-                                        <div class="message">Bump postcss from 8.4.7 to 8.4.8
-
-Bumps [postcss](https://github.com/postcss/postcss) from 8.4.7 to 8.4.8.
-- [Release notes](https://github.com/postcss/postcss/releases)
-- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/postcss/postcss/compare/8.4.7...8.4.8)
-
----
-updated-dependencies:
-- dependency-name: postcss
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#af42d6d</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/ProFireDev/Computer-Science-10</div>
                                     </div>
                                 </div>
                             </section>
@@ -2315,7 +2098,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~4 coding hours recorded
+                            ~3 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2339,23 +2122,23 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Linkbot</span>
-                                <div class="bar" style="width: 65.768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">82%</span>
+                                <div class="bar" style="width: 57.248000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">72%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 7.176%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 11.464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Flippy</span>
-                                <div class="bar" style="width: 3.064%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 4.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PFD-blog</span>
-                                <div class="bar" style="width: 2.408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 3.848%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
@@ -2363,7 +2146,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2022, 00:07:43 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 13 Mar 2022, 01:09:14 (timezone America/Edmonton) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
