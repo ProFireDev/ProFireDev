@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3140" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.track .infos{flex-grow:1}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .left{flex-shrink:0;font-size:12px;color:#666;width:72px;padding-top:1px;text-align:center}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            761 Commits
+                            762 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,13 +346,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.31739135698407" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="189.31739135698407" y="0" width="103.67250046719782" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="292.9898918241819" y="0" width="51.007497477801294" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="343.99738930198316" y="0" width="44.56785906602744" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="388.5652483680106" y="0" width="34.33861155736765" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="422.9038599253783" y="0" width="25.542664548956534" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.4465244743348" y="0" width="11.553475525665188" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.2827013432363" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="189.2827013432363" y="0" width="102.87044509463331" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="292.1531464378696" y="0" width="51.4614557913384" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="343.61460222920806" y="0" width="45.48236589327773" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="389.09696812248575" y="0" width="34.07295318352813" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="423.1699213060139" y="0" width="25.36598585973273" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.5359071657466" y="0" width="11.464092834253359" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -364,8 +364,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>22.7 MB</div>
-                                <div>41.16%</div>
+                                <div>22.9 MB</div>
+                                <div>41.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -376,8 +376,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>6.13 MB</div>
-                                <div>11.09%</div>
+                                <div>6.23 MB</div>
+                                <div>11.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -389,7 +389,7 @@
                             </div>
                             <small>
                                 <div>4.13 MB</div>
-                                <div>7.46%</div>
+                                <div>7.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -401,7 +401,7 @@
                             </div>
                             <small>
                                 <div>1.39 MB</div>
-                                <div>2.51%</div>
+                                <div>2.49%</div>
                             </small>
                         </div>
                     </section>
@@ -415,7 +415,7 @@
                             </div>
                             <small>
                                 <div>12.4 MB</div>
-                                <div>22.54%</div>
+                                <div>22.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -426,8 +426,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>5.35 MB</div>
-                                <div>9.69%</div>
+                                <div>5.51 MB</div>
+                                <div>9.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -439,7 +439,7 @@
                             </div>
                             <small>
                                 <div>3.07 MB</div>
-                                <div>5.55%</div>
+                                <div>5.51%</div>
                             </small>
                         </div>
                     </section>
@@ -489,12 +489,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 27 commits)</small>
+                    <small class="h-details">(computed from last 34 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 54.7 characters per line of code written</li>
+                        <li>Has approximately 43.9 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -575,8 +575,8 @@
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 9.375px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -636,8 +636,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 15.217391304347828px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -1995,11 +1995,205 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Yubico/yubico-pam</span>
+                                        Pushed 65 commits in
+                                        <span class="repo">ProFireDev/Ghost</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb76b73</div>
+                                        <div class="message">Fixed newsletter schema column validation (#14456)
+
+refs https://github.com/TryGhost/Team/issues/1500
+
+- newsletter schema columns were using incorrect syntax for `isIn` validations
+- adds schema test to make sure schema `isIn` validations are in correct format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5172fa</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            Fixed false positive fatal error for {{tiers}}
+
+closes https://github.com/TryGhost/Ghost/issues/14452
+
+- When {{tiers}} helper was used with parameters in a Ghost theme, for example statement like this:  `{{tiers prefix="Access with:"}}`, the theme did not pass the gscan check and threw a false positive fatal error. {{tiers}} is fully valid and documented helper that should work in current version of Ghost
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1643796</div>
+                                        <div class="message">Update dependency grunt to v1.5.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e07160</div>
+                                        <div class="message">Update dependency nconf to v0.11.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#176a967</div>
+                                        <div class="message">Update dependency eslint to v8.13.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a9d539</div>
+                                        <div class="message">Update metascraper to v5.29.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95faf54</div>
+                                        <div class="message">Moved route-settings tests to their own folder
+
+- the route settings code was factored out into its own service, but the tests were not moved
+- this moves them so it's clearer what tests are for what service</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b835f5</div>
+                                        <div class="message">v4.43.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3df2158</div>
+                                        <div class="message">Updated Admin to v4.43.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57b6773</div>
+                                        <div class="message"><svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#D99E82" d="M18 3.143c-9.941 0-18 6.908-18 15.428 0 1.066.126 2.107.367 3.112C2.146 24.744 3.377 22.812 9 20c5.727-2.864 0 4-2 8-.615 1.23-.282 2.271.56 3.124C10.506 32.928 14.104 34 18 34c9.941 0 18-6.907 18-15.429 0-8.52-8.059-15.428-18-15.428zm2.849 24.447c-.395 1.346-2.46 1.924-4.613 1.291-2.153-.632-3.578-2.234-3.183-3.581.395-1.346 2.46-1.924 4.613-1.29 2.153.631 3.578 2.233 3.183 3.58z"/><circle fill="#5C913B" cx="10" cy="11" r="3"/><circle fill="#269" cx="20" cy="9" r="3"/><circle fill="#DD2E44" cx="29" cy="15" r="3"/><circle fill="#FFCC4D" cx="28" cy="24" r="3"/></svg> Updated Casper to v4.7.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ba72ed</div>
+                                        <div class="message">Added the emails-newsletters relation (#14434)
+
+refs https://github.com/TryGhost/Team/issues/1497
+
+- This enables us to keep track of which newsletter an email was sent to even if the related post is deleted.
+- Adds the `newsletter_id` property to the email API</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0df387</div>
+                                        <div class="message">Cleaned up newsletter schema migrations (#14441)
+
+refs https://github.com/TryGhost/Team/issues/1500
+
+The newsletter table schema has bunch of changes to go through for new and existing columns, this consolidates the schema changes into a single re-create table migration that drops and adds the newsletter table with correct schema. The table re-create migration needs to run before any of the tables using newsletter as foreign key. The changes include -
+
+- new columns for design related fields
+- new slug column for filtering
+- unique constraint to `name` column
+- remove `default` column (noops the existing default column migration)
+- `sender_reply_to` has a default of newsletter and a validation of ['newsletter', 'support']
+- updated default values for `subscribe_on_signup` and  `recipient_filter`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ff0247</div>
+                                        <div class="message">Added subscription_id to MRR events (#14445)
+
+* Added subscription_id to MRR events
+
+refs https://github.com/TryGhost/Team/issues/1453
+
+As part of 5.0 we want to have cancelled evetns affect MRR. We are going
+to backfill and begin populating cancelled events _before_ 5.0 however,
+adding a migration to set the MRR deltas as part of 5.0
+
+This migration will need to associate the cancelled events with a
+subscription, so we are adding the subscription_id now. This will allow
+us to guarantee that all cancelled events will have a subscription_id.
+
+The column is missing a NOT NULL and REFERENCES constraint because
+we have not populated the missing values. These will be added in the future
+once we have populated the column for all rows</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a26056d</div>
+                                        <div class="message">Updated all `@tryghost` packages
+
+- these packages have only had small dependency or non-code updates so
+  they can all be merged together</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#022c8c8</div>
+                                        <div class="message">Added support for 'FOR UPDATE' lock (#14433)
+
+refs https://github.com/TryGhost/Team/issues/1248
+
+This is the underlying cause of the problems we've seen whilst handling
+Stripe webhooks. A transaction ensures that the operations are atomic,
+but not that they can run concurrently.
+
+If you have some code which does this, concurrently:
+1. Starts a transaction
+2. Reads a value
+3. Changes the values
+4. Ends the transaction
+
+Without applying the `FOR UPDATE` lock - you will have both sequenes
+read the same value at step 2.
+
+With the `FOR UPDATE` lock - one of the sequences will hang at step 2,
+waiting for the other transaction to end, at which point it will resume
+and read the _changed_ value.
+
+Because the `edit` method explicitly does a read followed by a write, we
+have also add the `FOR UPDATE` lock to this by default, to avoid any race
+conditions. This does however require that `edit` is called within a
+transaction. An issue here https://github.com/TryGhost/Team/issues/1503
+considers running in a transaction by default.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eee8f36</div>
+                                        <div class="message">Added test coverage for Content APIs versioning support
+
+refs https://github.com/TryGhost/Toolbox/issues/280
+
+- Some additional coverage showcasing the versioning support is universal across APIs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#313ab2a</div>
+                                        <div class="message">Moved version test to shared folder
+
+refs https://github.com/TryGhost/Toolbox/issues/280
+
+- The Accept-Version/Content-Version header handling  is shared between all APIs and should not structurally belong to any of the admin/content/members folders</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4959dd8</div>
+                                        <div class="message">Added 406 errors when Accept-Version header is missmatched
+
+refs https://github.com/TryGhost/Toolbox/issues/280
+
+- This change covers two use cases:
+  -  The accept-version &gt; current version + the request cannot be served: ERROR CASE 1
+    - The accept-version &lt; current version + the request cannot be served: ERROR CASE 2
+- Along with 406 status there's additional information about the probable cause and action to be taken by the Ghost site owner or an integration talking to the Ghost API.
+- These errors is designed to allow introducing breaking API changes gradually and have meaningful information when the requests cannot be server any longer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76aa247</div>
+                                        <div class="message">Added 'content-version' header response
+
+refs https://github.com/TryGhost/Toolbox/issues/280
+
+- In response to 'Accept-Version' header in the request headers, Ghost will always respond with a content-version header indicating the version of the Ghost install that is responding. This should signal to the client the content version that is bein g served
+- This is a bare bones implementation and more logic with edge cases where `content-version` is served with a  version value of "best format API could respond with" will be added later.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#132726f</div>
+                                        <div class="message">Added MRR stats service and endpoint (#14427)
+
+refs https://github.com/TryGhost/Team/issues/1470
+
+Instead of counting the MRR by resolving all the deltas from the past until now, we should start with the current calculated MRR and resolve it until the first event. That would give a more accurate recent MRR (in exchange for a less accurate MRR for older data) and allows us to limit the amount of returned days in the future.
+
+- Includes MRR stats service that can fetch the current MRR per currency
+- The service can return a history of the MRR for every day and currency
+- New admin API endpoint /stats/mrr that returns the MRR history
+- Includes tests for these new service and endpoint</div>
                                     </div>
                                 </div>
                             </section>
@@ -2011,31 +2205,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">ProFireDev/Geyser</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#53315fe</div>
-                                        <div class="message">added #202 #203 and #204</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/npm_and_yarn/Spacexbot/vue-3.2.33</span>
-                                        in
-                                        <span class="repo">Flipping-Industries/SpaceXbot</span>
+                                        <div class="sha">#32aaa08</div>
+                                        <div class="message">Merge branch 'GeyserMC:master' into master</div>
                                     </div>
                                 </div>
                             </section>
@@ -2047,36 +2225,124 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Flipping-Industries/SpaceXbot</span>
+                                        Pushed 13 commits in
+                                        <span class="repo">ProFireDev/Vukkybox</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#792a36c</div>
-                                        <div class="message">Merge pull request #25 from Flipping-Industries/dependabot/npm_and_yarn/Spacexbot/vue-3.2.33
-
-Bump vue from 3.2.32 to 3.2.33 in /Spacexbot</div>
+                                        <div class="sha">#34e61a0</div>
+                                        <div class="message">Merge pull request #173 from LITdevs/dependabot/npm_and_yarn/mongoose-6.3.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3ffd77e</div>
-                                        <div class="message">Bump vue from 3.2.32 to 3.2.33 in /Spacexbot
+                                        <div class="sha">#d92bbd4</div>
+                                        <div class="message">Merge pull request #166 from LITdevs/dependabot/npm_and_yarn/tailwindcss-3.0.24</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c54259</div>
+                                        <div class="message">revert for now</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45bac8c</div>
+                                        <div class="message">i have no idea what this does</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d67eab9</div>
+                                        <div class="message">Bump tailwindcss from 3.0.23 to 3.0.24
 
-Bumps [vue](https://github.com/vuejs/core) from 3.2.32 to 3.2.33.
-- [Release notes](https://github.com/vuejs/core/releases)
-- [Changelog](https://github.com/vuejs/core/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/vuejs/core/compare/v3.2.32...v3.2.33)
+Bumps [tailwindcss](https://github.com/tailwindlabs/tailwindcss) from 3.0.23 to 3.0.24.
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/compare/v3.0.23...v3.0.24)
 
 ---
 updated-dependencies:
-- dependency-name: vue
+- dependency-name: tailwindcss
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b7339e</div>
+                                        <div class="message">Merge pull request #174 from LITdevs/dependabot/npm_and_yarn/ejs-3.1.6
+
+Bump ejs from 3.0.2 to 3.1.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6ffdcc</div>
+                                        <div class="message">Bump ejs from 3.0.2 to 3.1.6
+
+Bumps [ejs](https://github.com/mde/ejs) from 3.0.2 to 3.1.6.
+- [Release notes](https://github.com/mde/ejs/releases)
+- [Changelog](https://github.com/mde/ejs/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/mde/ejs/compare/v3.0.2...v3.1.6)
+
+---
+updated-dependencies:
+- dependency-name: ejs
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d2b401</div>
+                                        <div class="message">update ejs, update vukkies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b68c59e</div>
+                                        <div class="message">Update app.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ea7539</div>
+                                        <div class="message">Bump mongoose from 6.2.11 to 6.3.0
+
+Bumps [mongoose](https://github.com/Automattic/mongoose) from 6.2.11 to 6.3.0.
+- [Release notes](https://github.com/Automattic/mongoose/releases)
+- [Changelog](https://github.com/Automattic/mongoose/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/Automattic/mongoose/compare/6.2.11...6.3.0)
+
+---
+updated-dependencies:
+- dependency-name: mongoose
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b82a93f</div>
+                                        <div class="message">Merge pull request #167 from LITdevs/dependabot/npm_and_yarn/mongoose-6.2.11
+
+Bump mongoose from 6.2.9 to 6.2.11</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f020499</div>
+                                        <div class="message">Bump mongoose from 6.2.9 to 6.2.11
+
+Bumps [mongoose](https://github.com/Automattic/mongoose) from 6.2.9 to 6.2.11.
+- [Release notes](https://github.com/Automattic/mongoose/releases)
+- [Changelog](https://github.com/Automattic/mongoose/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/Automattic/mongoose/compare/6.2.9...6.2.11)
+
+---
+updated-dependencies:
+- dependency-name: mongoose
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
+                                    <div class="commit">
+                                        <div class="sha">#b528e39</div>
+                                        <div class="message">Add .deepsource.toml</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2087,35 +2353,696 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Flipping-Industries/SpaceXbot</span>
+                                        Pushed 12 commits in
+                                        <span class="repo">ProFireDev/Ryujinx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7126934</div>
+                                        <div class="message">Merge branch 'Ryujinx:master' into master</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c5df0d3</div>
-                                        <div class="message">Merge pull request #26 from Flipping-Industries/dependabot/npm_and_yarn/Spacexbot/vite-2.9.5
+                                        <div class="sha">#0d6c292</div>
+                                        <div class="message">Fix ETF screener #1704 (#1708)
 
-Bump vite from 2.9.4 to 2.9.5 in /Spacexbot</div>
+* fix ETF screener #1704
+
+* black lint</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#9d88559</div>
-                                        <div class="message">Bump vite from 2.9.4 to 2.9.5 in /Spacexbot
+                                        <div class="sha">#8a9d8fe</div>
+                                        <div class="message">Requests using style fix  (#1691)
 
-Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) from 2.9.4 to 2.9.5.
-- [Release notes](https://github.com/vitejs/vite/releases)
-- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite/commits/v2.9.5/packages/vite)
+* remove multiple json call
 
----
-updated-dependencies:
-- dependency-name: vite
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
+* limit error fix and code refactoring
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+Co-authored-by: 정민하 &lt;mhjeong@sharekim.com&gt;
+Co-authored-by: Jeroen Bouma &lt;jer.bouma@gmail.com&gt;
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d76de3e</div>
+                                        <div class="message">drop duplicates (#1705)
+
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0911fa</div>
+                                        <div class="message">Tests for Coinbase broker functions (#1696)
+
+* Added check for valid Coinbase product, including delisted checking (such as XRP)
+
+* Added check for valid Coinbase product, including delisted checking (such as XRP)
+
+* Pytests for coinbase broker functions
+
+* Pytests for coinbase broker functions
+
+* Pytests for coinbase broker functions
+
+* Update test_coinbase_model.py
+
+Co-authored-by: Jeroen Bouma &lt;jer.bouma@gmail.com&gt;
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd2839c</div>
+                                        <div class="message">Adding everything from Risk Metrics PR based on new main branch (#1666)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#07c053f</div>
+                                        <div class="message">Bots plots refactor.. 90% html size decrease! (#1686)
+
+* update
+
+* init
+
+* req
+
+* fix
+
+* req
+
+* meh
+
+* updates
+
+* syspath
+
+* update
+
+* local plotly, and scope logic
+
+* refactor
+
+* oops typo
+
+* plot dpi fixes
+
+* fix tests
+
+* fix
+
+* poetry update, reqs
+
+* some adjustments
+
+* added plot settings for scat/options
+
+Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73187d9</div>
+                                        <div class="message">Add cost to borrow of stocks. Data from IBKR (#1663)
+
+* add ctb to dps
+
+* add test for ctb
+
+* reformat using black
+
+* fix tests for ctb
+
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6535b1d</div>
+                                        <div class="message">Deeleeramone indices (#1687)
+
+* adds new features to Bot menu: dd/borrowed &amp; econ/repo
+
+created entries for new bot features: dd/borrowed &amp; econ/repo
+
+also added a fixed broken feature that had been left off - screener/historical
+
+* created path and file for /bots/discord/dd/borrowed/_index.md
+
+created path and file for /bots/discord/dd/borrowed/_index.md
+
+* created path and file for /bots/discord/econ/repo/_index.md
+
+created path and file for /bots/discord/econ/repo/_index.md
+
+* removed screener/historical - feature does not work
+
+removed because this feature does not work.
+
+* updated to include intraday option
+
+updated to include intraday option
+
+* updated to include intraday option
+
+updated to include intraday option
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* corrected
+
+* corrected
+
+* corrected
+
+* corrected
+
+* corrected
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* changed ta cg --&gt; ta-mom cg
+
+changed ta cg --&gt; ta-mom cg
+
+* changed ta donchian --&gt; ta-vlt donchian
+
+changed ta donchian --&gt; ta-vlt donchian
+
+* EMA is now under ta-ma options
+
+EMA is now under ta-ma options
+
+* ta sma is now under ta-ma options
+
+ta sma is now under ta-ma options
+
+* ta hma is now under ta-ma options
+
+ta hma is now under ta-ma options
+
+* ta wma is now under ta-ma options
+
+ta wma is now under ta-ma options
+
+* ta zlma is now under ta-ma options
+
+ta zlma is now under ta-ma options
+
+* consolidated moving averages into ta-ma
+
+consolidated moving averages into ta-ma
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* changed ta kc --&gt; ta-vlt kc
+
+changed ta kc --&gt; ta-vlt kc
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* Consolidated Discord Bot Moving Averages
+
+Consolidated Discord Bot Moving Averages
+
+* updated to include intraday option
+
+updated to include intraday option
+
+* updated to include intraday options
+
+updated to include intraday options
+
+* created path and file for /bots/discord/options/smile/_index.md
+
+created path and file for /bots/discord/options/smile/_index.md for /opt smile
+
+* added /bots/discord/options/smile
+
+added /bots/discord/options/smile
+
+* Adds Major Indices To Autocomplete
+
+add support for:
+
+```
+                                     Major Indices                                     
+┏━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
+┃ Argument          ┃ Name                                            ┃ Ticker        ┃
+┡━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
+│ sp500             │ S&amp;P 500 Index                                   │ ^GSPC         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ speup             │ S&amp;P Europe 350 Index                            │ ^SPEUP        │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp400             │ S&amp;P 400 Mid Cap Index                           │ ^SP400        │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp600             │ S&amp;P 600 Small Cap Index                         │ ^SP600        │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ny                │ NYSE US 100 Index                               │ ^NY           │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ nyse              │ NYSE Composite Index                            │ ^NYA          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ amex              │ NYSE-AMEX Composite Index                       │ ^XAX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ nasdaq            │ Nasdaq Composite Index                          │ ^IXIC         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ russell1000       │ Russell 1000 Index                              │ ^RUI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ russell2000       │ Russell 2000 Index                              │ ^RUT          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ russell3000       │ Russell 3000 Index                              │ ^RUA          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ russellvalue      │ Russell 2000 Value Index                        │ ^RUJ          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ russellgrowth     │ Russell 2000 Growth Index                       │ ^RUO          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ dja               │ Dow Jones Composite Average Index               │ ^DJA          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ dji               │ Dow Jones Industrial Average Index              │ ^DJI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ tsx               │ TSX Composite Index                             │ ^GSPTSE       │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ftse100           │ FTSE Global 100 Index                           │ ^FTSE         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ftse250           │ FTSE Global 250 Index                           │ ^FTMC         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ftse350           │ FTSE Global 350 Index                           │ ^FTLC         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ftai              │ FTSE AIM All-Share Global Index                 │ ^FTAI         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ fteu1             │ FTSE Eurotop 100 Index                          │ ^FTEU1        │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ftas              │ UK FTSE All-Share Index                         │ ^FTAS         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ spuk              │ S&amp;P United Kingdom (PDS)                        │ ^SPUK         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ uk100             │ CBOE UK 100 Index                               │ ^BUK100P      │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ switzerland       │ Zurich Stock Exchange ESTX 50 PR.EU             │ ^STOXX50E     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ germany           │ DAX Performance Index                           │ ^GDAXI        │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ paris             │ CAC Paris 40 Index                              │ ^FCHI         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ brussels          │ BEL 20 Brussels Exchange Index                  │ ^BFX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ bombay            │ S&amp;P Bombay Stock Exchange SENSEX                │ ^BSESN        │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ tel-aviv          │ Tel-Aviv 125 Index                              │ ^TA125.TA     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ russia            │ MOEX Russia Index                               │ IMOEX.ME      │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ asx200            │ S&amp;P/ASX 200 Index                               │ ^AXJO         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ australia         │ Australia All Ordinary Shares Index             │ ^AORD         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ nz50              │ S&amp;P New Zealand 50 Index                        │ ^nz50         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ kosbi             │ KOSPI Compsite Index                            │ ^KS11         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ nikkei            │ Nikkei 255 Index                                │ ^N225         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ shanghai          │ Shanghai Composite Index                        │ 000001.SS     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ shenzhen          │ Shenzhen Component Index                        │ 399001.SZ     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ taiwan            │ TSEC Weighted Index                             │ ^TWII         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ hang-seng         │ Hang Seng Index                                 │ ^HSI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ jakarta           │ Jakarta Composite Index                         │ ^JKSE         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ malaysia          │ FTSE Bursa Malaysia KLCI                        │ ^KLSE         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ singapore         │ STI Index - Singapore SGD                       │ ^STI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ mexico            │ IPC Mexico Index                                │ ^MXX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ brazil            │ IBOVESPA Sao Paulo Brazil Index                 │ ^BVSP         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ vix               │ CBOE Volatility Index                           │ ^VIX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ vin               │ CBOE Near-Term VIX Index                        │ ^VIN          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ vvix              │ CBOE VIX Volatility Index                       │ ^VVIX         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ shortvol          │ CBOE Short VIX Futures Index                    │ ^SHORTVOL     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ vxn               │ CBOE NASDAQ 100 Volatility Index                │ ^VXN          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ gvz               │ CBOE Gold Volatility Index                      │ ^GVZ          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ovx               │ CBOE Crude Oil Volatility Index                 │ ^OVX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ dx-y              │ US Dollar Index                                 │ DX-Y.NYB      │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ tnx               │ CBOE Interest Rate 10 Year T-Note               │ ^TNX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ tyx               │ CBOE 30 year Treasury Yields                    │ ^TYX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ irx               │ CBOE 13 Week Treasury Bill                      │ ^IRX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp500tr           │ S&amp;P 500 Total Return USD                        │ ^SP500TR      │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ xsp               │ S&amp;P 500 Mini SPX Options Index                  │ ^XSP          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-materials      │ S&amp;P 500 Materials Sector Index                  │ ^SP500-15     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-industrials    │ S&amp;P 500 Industrials Sector Index                │ ^SP500-20     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-discretionary  │ S&amp;P 500 Consumer Discretionary Index            │ ^SP500-25     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-staples        │ S&amp;P 500 Consumer Staples Sector Index           │ ^SP500-30     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-health         │ S&amp;P 500 Health Care Sector Index                │ ^SP500-35     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-financials     │ S&amp;P 500 Financials Sector Index                 │ ^SP500-40     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-it             │ S&amp;P 500 IT Sector Index                         │ ^SP500-45     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-communications │ S&amp;P 500 Communications Sector Index             │ ^SP500-50     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-utilities      │ S&amp;P 500 Utilities Sector Index                  │ ^SP500-55     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-real_estate    │ S&amp;P 500 Real Estate Sector Index                │ ^SP500-60     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-airlines       │ S&amp;P 500 Airlines Industry Index                 │ ^SP500-203020 │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sp-tech_hardware  │ S&amp;P 500 Technology Hardware Industry            │ ^SP500-452020 │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ djt               │ Dow Jones Transportation Average Index          │ ^DJT          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ dju               │ Dow Jones Utility Average Index                 │ ^DJU          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ixch              │ NASDAQ Health Care Index                        │ ^IXCH         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ixtc              │ NASDAQ Telecommunications Index                 │ ^IXTC         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ inds              │ NASDAQ Industrial Index                         │ ^INDS         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ixco              │ NASDAQ Computer Index                           │ ^INCO         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ bank              │ NASDAQ Bank Index                               │ ^BANK         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ tran              │ NASDAQ Transportation Index                     │ ^TRAN         │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ice-auto          │ ICE FactSet Global NextGen Auto Index           │ ^ICEFSNA      │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ice-comm          │ ICE FactSet Global NextGen Communications Index │ ^ICEFSNC      │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ nyl               │ NYSE World Leaders Index                        │ ^NYL          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ nyi               │ NYSE International 100 Index                    │ ^NYI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ nyy               │ NYSE TMT Index                                  │ ^NYY          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ xmi               │ NYSE ARCA Major Market Index                    │ ^XMI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ xoi               │ NYSE ARCA Oil and Gas Index                     │ ^XOI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ ixb               │ NYSE Materials Select Sector Index              │ ^IXB          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ pse               │ NYSE ARCA Tech 100 Index                        │ ^PSE          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ xci               │ NYSE ARCA Computer Tech Index                   │ ^XCI          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ xal               │ NYSE ARCA Airline Index                         │ ^XAL          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ xtc               │ NYSE ARCA North American Telecom Industry Index │ ^XTC          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ bxm               │ CBOE Buy-Write Monthly Index                    │ ^BXM          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ sox               │ PHLX Semiconductor Index                        │ ^SOX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ xau               │ PHLX Gold/Silver Index                          │ ^XAU          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ hgx               │ PHLX Housing Sector Index                       │ ^HGX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ osx               │ PHLX Oil Services Sector Index                  │ ^OSX          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ uty               │ PHLX Utility Sector Index                       │ ^UTY          │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ w5000             │ Wilshire 5000                                   │ ^W5000        │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ w5000flt          │ Wilshire 5000 Float Adjusted Index              │ ^W5000FLT     │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ wgreit            │ Wilshire Global REIT Index                      │ ^WGREIT       │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ wgresi            │ Wilshire Global Real Estate Sector Index        │ ^WGRESI       │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ wilreit           │ Wilshire US REIT Index                          │ ^WILREIT      │
+├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
+│ wilresi           │ Wilshire US Real Estate Security Index          │ ^WILRESI      │
+└───────────────────┴─────────────────────────────────────────────────┴───────────────┘
+```
+
+* add black formatting
+
+* codespell
+
+* changed shorthand names of a few items.
+
+germany --&gt; dax
+paris --&gt; cac
+brussels --&gt; bel
+kosbi --&gt; kospi (grammar error)
+
+* Added STOXX and STOXX50
+
+Other EU Indices that are already in the list are: S&amp;P Europe 350; FTSE Eurotop 100; FTSE 100 250 &amp; 350
+
+* removed capitalization from STOXX
+
+* adds Lisbon Stock Exchange to list ^BVLG
+
+adds Lisbon Stock Exchange to list ^BVLG
+
+* Adds Madrid IBEX 35, BSE Small &amp; Mid Cap Indices
+
+Three more added: Spain, Bombay small and mid caps.
+
+* black
+
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
+Co-authored-by: Jeroen Bouma &lt;jer.bouma@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a12e094</div>
+                                        <div class="message">Starts crypto tools menu (#1668)
+
+* started crypto tools menu
+
+* allow zero float
+
+* added obb script
+
+Co-authored-by: Chavithra &lt;chavithra@gmail.com&gt;
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
+Co-authored-by: minhhoang1023 &lt;40023817+minhhoang1023@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6704023</div>
+                                        <div class="message">Replaces coingecko deprecated commands  (#1650)
+
+* removes cgproducts and cgplatforms and replaces with cr
+
+* add ignore word
+
+* added .openbb script
+
+* reverted crypto change
+
+* doc
+
+* failing tests
+
+* trying chart and fixed minh issues
+
+* Create barh
+
+* Fix ticker labels
+
+* fix test
+
+* loanscan mock
+
+* defi test
+
+* defi test
+
+* Fix defi test
+
+Co-authored-by: Minh Hoang &lt;nminh.hoang1023@gmail.com&gt;
+Co-authored-by: minhhoang1023 &lt;40023817+minhhoang1023@users.noreply.github.com&gt;
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
+Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ccb0b6c</div>
+                                        <div class="message">Adding Necessary files to fix the windows installer splash screen (#1653)
+
+* Adding Necessary files to fix the windows installer splash screen
+
+* Bundle defaults json into project root location on mac
+
+* Bundle linearmodels and statsmodels with pyinstaller on mac
+
+* Tell dotenv to override defaults
+
+* Fix a typo and add a "todo" in comments
+
+* Explicitly silence bandit's false positives
+
+* Fix typo
+
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
+Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#617266a</div>
+                                        <div class="message">Closing in on 90% Bot Coverage (#1646)
+
+* Attempting more tests
+
+* fix bots module not found issue
+
+* try this syspath
+
+* black
+
+* fix except
+
+* fix import sys path errors
+
+* remove dual import
+
+* Basic tests
+
+* Sorry Juan
+
+* Seperate discord commands
+
+* fix path issues loading cmds folder
+
+* click dep fix
+
+* Fixed pylint
+
+* Expanded tests
+
+* Expanded tests
+
+* Improve imports
+
+* improve paths, clean up ext load, fixes
+
+* Update pyproject.toml
+
+* resolving windows test issues
+
+Co-authored-by: teh_coderer &lt;me@tehcoderer.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ea89465</div>
+                                        <div class="message">updated anchor command to display earnings (#1661)
+
+Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
+Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#78b724e</div>
+                                        <div class="message">Add a pytest.mark.linux to test_display_defi_tvl (#1665)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20b4630</div>
+                                        <div class="message">Incorrect Env Names (#1657)
+
+* Fixed naming
+
+* Fixed naming
+
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#427cc17</div>
+                                        <div class="message">Add pytest.mark.linux to test_plot_oi (#1662)
+
+Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bf4618</div>
+                                        <div class="message">Adds QA and Pred to forex (#1652)
+
+* added qa and pred to forex
+
+* updated test help
+
+* Add forex/qa notebooks api wrapper
+
+* Add forex/qa tests
+
+* Add all menu commands to the integration test script
+
+Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a8027a6</div>
+                                        <div class="message">Update similarity report (#1651)
+
+* Update similar analyis report
+
+* Fix font size in historic correlation heatmap
+
+Co-authored-by: piiq &lt;piiq@tinag.ru&gt;
+Co-authored-by: Chavithra &lt;chavithra@gmail.com&gt;
+Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#002d1a4</div>
+                                        <div class="message">Added fix for alphavantage key and fraud command (#1660)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2169,7 +3096,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2022, 14:09:21 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 15:07:30 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
