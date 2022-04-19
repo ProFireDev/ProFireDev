@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3140" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2746" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.track .infos{flex-grow:1}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .left{flex-shrink:0;font-size:12px;color:#666;width:72px;padding-top:1px;text-align:center}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.track .infos{flex-grow:1}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -37,13 +37,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -146,7 +146,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 118 repositories
+                            Starred 120 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -734,7 +734,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.38
+                            Average per day at ~3.36
                         </div>
                     </section>
                 </div>
@@ -1722,6 +1722,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1735,6 +1740,100 @@
                 </h2>
                 <div class="row">
                     <section class="largeable-flex-wrap">
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
+                                        <span>ThaTiemsz/Discord-Emoji-Downloader</span>
+                                        <span>starred 2 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">Get all emojis from a server in a ZIP file.</div>
+                                <div class="field infos">
+                                    <div class="language">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                        </svg>
+                                        JavaScript
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        207
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        45
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        16
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        16
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width largeable-width-half">
+                            <section class="repository">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="name">
+                                        <span>Discord-Datamining/Discord-Datamining</span>
+                                        <span>starred 2 hours ago</span>
+                                    </div>
+                                </div>
+                                <div class="field description">Datamining Discord changes from the JS files</div>
+                                <div class="field infos">
+                                    <div class="language">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                        </svg>
+                                        JavaScript
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        </svg>
+                                        1.25k
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
+                                        </svg>
+                                        57
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        </svg>
+                                        0
+                                    </div>
+                                    <div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                        </svg>
+                                        13
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width largeable-width-half">
                             <section class="repository">
                                 <div class="field">
@@ -1835,150 +1934,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>navidrome/navidrome</span>
-                                        <span>starred 6 days ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">
-                                    <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                        <path fill="#66757F" d="M18 0C9.716 0 3 6.716 3 15v9h3v-9C6 8 11.269 2.812 18 2.812 24.73 2.812 30 8 30 15v10l3-1v-9c0-8.284-6.716-15-15-15z"/>
-                                        <path fill="#31373D" d="M6 27c0 1.104-.896 2-2 2H2c-1.104 0-2-.896-2-2v-9c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v9zm30 0c0 1.104-.896 2-2 2h-2c-1.104 0-2-.896-2-2v-9c0-1.104.896-2 2-2h2c1.104 0 2 .896 2 2v9z"/>
-                                        <path fill="#55ACEE" d="M19.182 10.016l-6.364 1.313c-.45.093-.818.544-.818 1.004v16.185c-.638-.227-1.341-.36-2.087-.36-2.785 0-5.042 1.755-5.042 3.922 0 2.165 2.258 3.827 5.042 3.827C12.649 35.905 14.922 34 15 32V16.39l4.204-.872c.449-.093.796-.545.796-1.004v-3.832c0-.458-.368-.759-.818-.666zm8 3.151l-4.297.865c-.45.093-.885.544-.885 1.003V26.44c0-.152-.878-.24-1.4-.24-2.024 0-3.633 1.276-3.633 2.852 0 1.574 1.658 2.851 3.683 2.851s3.677-1.277 3.677-2.851l-.014-11.286 2.869-.598c.45-.093.818-.544.818-1.003v-2.33c0-.459-.368-.76-.818-.668z"/>
-                                    </svg>
-                                    <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                        <path fill="#CCD6DD" d="M27 8c-.701 0-1.377.106-2.015.298.005-.1.015-.197.015-.298 0-3.313-2.687-6-6-6-2.769 0-5.093 1.878-5.785 4.427C12.529 6.154 11.783 6 11 6c-3.314 0-6 2.686-6 6 0 3.312 2.686 6 6 6 2.769 0 5.093-1.878 5.785-4.428.686.273 1.432.428 2.215.428.375 0 .74-.039 1.096-.104-.058.36-.096.727-.096 1.104 0 3.865 3.135 7 7 7s7-3.135 7-7c0-3.866-3.135-7-7-7z"/>
-                                        <path fill="#E1E8ED" d="M31 22c-.467 0-.91.085-1.339.204.216-.526.339-1.1.339-1.704 0-2.485-2.015-4.5-4.5-4.5-1.019 0-1.947.351-2.701.921C22.093 14.096 19.544 12 16.5 12c-2.838 0-5.245 1.822-6.131 4.357C9.621 16.125 8.825 16 8 16c-4.418 0-8 3.582-8 8 0 4.419 3.582 8 8 8h23c2.762 0 5-2.238 5-5s-2.238-5-5-5z"/>
-                                    </svg>
-                                    Modern Music Server and Streamer compatible with Subsonic/Airsonic
-                                </div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        Go
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
-                                        </svg>
-                                        GNU GPLv3
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        2.87k
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        305
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        710
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        987
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width largeable-width-half">
-                            <section class="repository">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="name">
-                                        <span>alexandresanlim/Badges4-README.md-Profile</span>
-                                        <span>starred 24 days ago</span>
-                                    </div>
-                                </div>
-                                <div class="field description">
-                                    <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                        <path fill="#9266CC" d="M35 36v-7c0-3.315-3.685-5.5-7-5.5H16c-3.313 0-7 2.185-7 5.5v7h26z"/>
-                                        <path fill="#FFAC33" d="M21.944 1.569c4.106 0 10.948 2.053 10.948 10.948s0 10.948-2.053 10.948c-2.054 0-4.79-2.053-8.896-2.053-4.105 0-6.784 2.053-8.895 2.053-2.287 0-2.053-8.211-2.053-10.948.002-8.895 6.844-10.948 10.949-10.948"/>
-                                        <path fill="#FFDC5D" d="M18.328 23.52C18.328 25 20.5 25.5 22 25.5s3.66-.5 3.66-1.98v-3.205h-7.332v3.205z"/>
-                                        <path fill="#F9CA55" d="M18.321 21.679c1.023 1.155 2.291 1.468 3.669 1.468 1.379 0 2.647-.312 3.67-1.468v-2.936h-7.339v2.936z"/>
-                                        <path fill="#FFDC5D" d="M13.734 12.217c0-5.834 3.676-10.563 8.21-10.563 4.534 0 8.211 4.729 8.211 10.563 0 5.833-3.677 10.286-8.211 10.286-4.534 0-8.21-4.452-8.21-10.286"/>
-                                        <path fill="#DF1F32" d="M21.944 20.043c-1.605 0-2.446-.794-2.536-.885-.268-.267-.268-.7 0-.967.266-.265.692-.267.96-.007.035.032.553.491 1.576.491 1.039 0 1.557-.473 1.577-.492.273-.256.703-.248.963.02.26.269.26.691-.004.955-.089.091-.929.885-2.536.885"/>
-                                        <path fill="#FFAC33" d="M11.725 15.5c-.021-1-.044-.224-.044-.465 0-3.422 2.053.494 2.053-1.943 0-2.439 1.368-2.683 2.736-4.051.685-.685 2.053-2.026 2.053-2.026s3.421 2.067 6.158 2.067c2.736 0 5.474 1.375 5.474 4.112s2.053-1.584 2.053 1.837c0 .244-.022-.531-.04.469h.718c.007-2 .007-1.924.007-3.202C32.893 3.403 26.05.091 21.945.091S10.998 3.348 10.998 12.243c0 .793-.02 1.257.008 3.257h.719z"/>
-                                        <path fill="#662113" d="M18.608 14.386c-.465 0-.846-.381-.846-.846v-.845c0-.465.381-.846.846-.846s.847.381.847.846v.845c0 .465-.382.846-.847.846m6.765 0c-.465 0-.846-.381-.846-.846v-.845c0-.465.381-.846.846-.846.465 0 .846.381.846.846v.845c0 .465-.381.846-.846.846"/>
-                                        <path fill="#C1694F" d="M22.837 17h-1.691c-.233 0-.423-.19-.423-.423v-.153c0-.233.189-.424.423-.424h1.691c.232 0 .423.19.423.424v.153c0 .233-.191.423-.423.423"/>
-                                        <path fill="#FFDC5D" d="M15.444 13.436c0 1.448-.734 2.622-1.639 2.622s-1.639-1.174-1.639-2.622.734-2.623 1.639-2.623c.905-.001 1.639 1.174 1.639 2.623m16.389 0c0 1.448-.733 2.622-1.639 2.622-.905 0-1.639-1.174-1.639-2.622s.733-2.623 1.639-2.623c.906-.001 1.639 1.174 1.639 2.623"/>
-                                        <path fill="#E1E8ED" d="M33 35c0 .553-.447 1-1 1H22c-.553 0-1-.447-1-1 0-.553.447-1 1-1h10c.553 0 1 .447 1 1z"/>
-                                        <path fill="#E1E8ED" d="M20.24 22H3.759c-1.524 0-3.478.771-2.478 3.531l3.072 8.475C4.354 34.006 4.75 36 7 36h20l-4-11.24c-.438-1.322-1.235-2.76-2.76-2.76z"/>
-                                        <path fill="#99AAB5" d="M19.24 22H2.759c-1.524 0-3.478.771-2.478 3.531l3.072 8.475C3.354 34.006 3.75 36 6 36h20l-4-11.24c-.438-1.322-1.235-2.76-2.76-2.76z"/>
-                                        <path fill="#E1E8ED" d="M14.019 29.283c.524 1.572.1 3.13-.949 3.479-1.047.35-2.322-.641-2.846-2.213s-.099-3.13.949-3.479c1.048-.349 2.323.641 2.846 2.213zM19 24.75H3c-.414 0-.75-.336-.75-.75s.336-.75.75-.75h16c.414 0 .75.336.75.75s-.336.75-.75.75z"/>
-                                    </svg>
-                                    <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                        <path fill="#77B255" d="M35 36v-5c0-3.314-2.686-6-6-6H13c-3.313 0-6 2.686-6 6v5h28z"/>
-                                        <path fill="#FFDC5D" d="M16.64 25.106c0 .894 2.36 1.993 4.36 1.993s4.359-1.099 4.359-1.992V21.29h-8.72v3.816z"/>
-                                        <path fill="#F9CA55" d="M16.632 22.973c1.216 1.374 2.724 1.746 4.364 1.746 1.639 0 3.146-.373 4.363-1.746v-3.491h-8.728v3.491z"/>
-                                        <path fill="#FFDC5D" d="M14.444 12.936c0 1.448-.734 2.622-1.639 2.622s-1.639-1.174-1.639-2.622.734-2.623 1.639-2.623c.905-.001 1.639 1.174 1.639 2.623m16.389 0c0 1.448-.733 2.622-1.639 2.622-.905 0-1.639-1.174-1.639-2.622s.733-2.623 1.639-2.623c.906-.001 1.639 1.174 1.639 2.623"/>
-                                        <path fill="#FFDC5D" d="M12.477 13.96c0-5.589 3.816-10.121 8.523-10.121s8.522 4.532 8.522 10.121S25.707 24.081 21 24.081c-4.706-.001-8.523-4.532-8.523-10.121"/>
-                                        <path fill="#C1694F" d="M21 20.802c-2.754 0-3.6-.705-3.741-.848-.256-.256-.256-.671 0-.927.248-.248.646-.255.902-.023.052.037.721.487 2.839.487 2.2 0 2.836-.485 2.842-.49.256-.255.657-.243.913.015.256.256.242.683-.014.938-.141.143-.987.848-3.741.848"/>
-                                        <path fill="#FFAC33" d="M21 0c5.648 0 9.178 4.648 9.178 8.121 0 3.473-.706 4.863-1.412 3.473l-1.412-2.778s-4.235 0-5.647-1.39c0 0 2.118 4.168-2.118 0 0 0 .706 2.779-3.53-.694 0 0-2.118 1.389-2.824 4.862-.196.964-1.412 0-1.412-3.473C11.822 4.648 14.646 0 21 0"/>
-                                        <path fill="#662113" d="M17 14c-.55 0-1-.45-1-1v-1c0-.55.45-1 1-1s1 .45 1 1v1c0 .55-.45 1-1 1m8 0c-.55 0-1-.45-1-1v-1c0-.55.45-1 1-1s1 .45 1 1v1c0 .55-.45 1-1 1"/>
-                                        <path fill="#C1694F" d="M21.75 16.75h-1.5c-.413 0-.75-.337-.75-.75s.337-.75.75-.75h1.5c.413 0 .75.337.75.75s-.337.75-.75.75"/>
-                                        <path fill="#E1E8ED" d="M33 35c0 .553-.447 1-1 1H22c-.553 0-1-.447-1-1 0-.553.447-1 1-1h10c.553 0 1 .447 1 1z"/>
-                                        <path fill="#E1E8ED" d="M20.24 22H3.759c-1.524 0-3.478.771-2.478 3.531l3.072 8.475C4.354 34.006 4.75 36 7 36h20l-4-11.24c-.438-1.322-1.235-2.76-2.76-2.76z"/>
-                                        <path fill="#99AAB5" d="M19.24 22H2.759c-1.524 0-3.478.771-2.478 3.531l3.072 8.475C3.354 34.006 3.75 36 6 36h20l-4-11.24c-.438-1.322-1.235-2.76-2.76-2.76z"/>
-                                        <path fill="#E1E8ED" d="M14.019 29.283c.524 1.572.099 3.13-.949 3.479-1.048.35-2.322-.641-2.846-2.213s-.099-3.13.949-3.479c1.048-.349 2.323.641 2.846 2.213zM19 24.75H3c-.414 0-.75-.336-.75-.75s.336-.75.75-.75h16c.414 0 .75.336.75.75s-.336.75-.75.75z"/>
-                                    </svg>
-                                    Improve your README.md profile with these amazing badges.
-                                </div>
-                                <div class="field infos">
-                                    <div class="language">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill="#083fa1" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                        </svg>
-                                        Markdown
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                        </svg>
-                                        4.56k
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                        </svg>
-                                        971
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                            <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                        </svg>
-                                        66
-                                    </div>
-                                    <div>
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                        </svg>
-                                        328
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1991,6 +1946,32 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">ThaTiemsz/Discord-Emoji-Downloader</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">Discord-Datamining/Discord-Datamining</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2346,707 +2327,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">ProFireDev/Ryujinx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7126934</div>
-                                        <div class="message">Merge branch 'Ryujinx:master' into master</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 19 commits in
-                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0d6c292</div>
-                                        <div class="message">Fix ETF screener #1704 (#1708)
-
-* fix ETF screener #1704
-
-* black lint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a9d8fe</div>
-                                        <div class="message">Requests using style fix  (#1691)
-
-* remove multiple json call
-
-* limit error fix and code refactoring
-
-Co-authored-by: 정민하 &lt;mhjeong@sharekim.com&gt;
-Co-authored-by: Jeroen Bouma &lt;jer.bouma@gmail.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d76de3e</div>
-                                        <div class="message">drop duplicates (#1705)
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0911fa</div>
-                                        <div class="message">Tests for Coinbase broker functions (#1696)
-
-* Added check for valid Coinbase product, including delisted checking (such as XRP)
-
-* Added check for valid Coinbase product, including delisted checking (such as XRP)
-
-* Pytests for coinbase broker functions
-
-* Pytests for coinbase broker functions
-
-* Pytests for coinbase broker functions
-
-* Update test_coinbase_model.py
-
-Co-authored-by: Jeroen Bouma &lt;jer.bouma@gmail.com&gt;
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd2839c</div>
-                                        <div class="message">Adding everything from Risk Metrics PR based on new main branch (#1666)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#07c053f</div>
-                                        <div class="message">Bots plots refactor.. 90% html size decrease! (#1686)
-
-* update
-
-* init
-
-* req
-
-* fix
-
-* req
-
-* meh
-
-* updates
-
-* syspath
-
-* update
-
-* local plotly, and scope logic
-
-* refactor
-
-* oops typo
-
-* plot dpi fixes
-
-* fix tests
-
-* fix
-
-* poetry update, reqs
-
-* some adjustments
-
-* added plot settings for scat/options
-
-Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73187d9</div>
-                                        <div class="message">Add cost to borrow of stocks. Data from IBKR (#1663)
-
-* add ctb to dps
-
-* add test for ctb
-
-* reformat using black
-
-* fix tests for ctb
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6535b1d</div>
-                                        <div class="message">Deeleeramone indices (#1687)
-
-* adds new features to Bot menu: dd/borrowed &amp; econ/repo
-
-created entries for new bot features: dd/borrowed &amp; econ/repo
-
-also added a fixed broken feature that had been left off - screener/historical
-
-* created path and file for /bots/discord/dd/borrowed/_index.md
-
-created path and file for /bots/discord/dd/borrowed/_index.md
-
-* created path and file for /bots/discord/econ/repo/_index.md
-
-created path and file for /bots/discord/econ/repo/_index.md
-
-* removed screener/historical - feature does not work
-
-removed because this feature does not work.
-
-* updated to include intraday option
-
-updated to include intraday option
-
-* updated to include intraday option
-
-updated to include intraday option
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* corrected
-
-* corrected
-
-* corrected
-
-* corrected
-
-* corrected
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* changed ta cg --&gt; ta-mom cg
-
-changed ta cg --&gt; ta-mom cg
-
-* changed ta donchian --&gt; ta-vlt donchian
-
-changed ta donchian --&gt; ta-vlt donchian
-
-* EMA is now under ta-ma options
-
-EMA is now under ta-ma options
-
-* ta sma is now under ta-ma options
-
-ta sma is now under ta-ma options
-
-* ta hma is now under ta-ma options
-
-ta hma is now under ta-ma options
-
-* ta wma is now under ta-ma options
-
-ta wma is now under ta-ma options
-
-* ta zlma is now under ta-ma options
-
-ta zlma is now under ta-ma options
-
-* consolidated moving averages into ta-ma
-
-consolidated moving averages into ta-ma
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* changed ta kc --&gt; ta-vlt kc
-
-changed ta kc --&gt; ta-vlt kc
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* Consolidated Discord Bot Moving Averages
-
-Consolidated Discord Bot Moving Averages
-
-* updated to include intraday option
-
-updated to include intraday option
-
-* updated to include intraday options
-
-updated to include intraday options
-
-* created path and file for /bots/discord/options/smile/_index.md
-
-created path and file for /bots/discord/options/smile/_index.md for /opt smile
-
-* added /bots/discord/options/smile
-
-added /bots/discord/options/smile
-
-* Adds Major Indices To Autocomplete
-
-add support for:
-
-```
-                                     Major Indices                                     
-┏━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
-┃ Argument          ┃ Name                                            ┃ Ticker        ┃
-┡━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
-│ sp500             │ S&amp;P 500 Index                                   │ ^GSPC         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ speup             │ S&amp;P Europe 350 Index                            │ ^SPEUP        │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp400             │ S&amp;P 400 Mid Cap Index                           │ ^SP400        │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp600             │ S&amp;P 600 Small Cap Index                         │ ^SP600        │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ny                │ NYSE US 100 Index                               │ ^NY           │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ nyse              │ NYSE Composite Index                            │ ^NYA          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ amex              │ NYSE-AMEX Composite Index                       │ ^XAX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ nasdaq            │ Nasdaq Composite Index                          │ ^IXIC         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ russell1000       │ Russell 1000 Index                              │ ^RUI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ russell2000       │ Russell 2000 Index                              │ ^RUT          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ russell3000       │ Russell 3000 Index                              │ ^RUA          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ russellvalue      │ Russell 2000 Value Index                        │ ^RUJ          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ russellgrowth     │ Russell 2000 Growth Index                       │ ^RUO          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ dja               │ Dow Jones Composite Average Index               │ ^DJA          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ dji               │ Dow Jones Industrial Average Index              │ ^DJI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ tsx               │ TSX Composite Index                             │ ^GSPTSE       │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ftse100           │ FTSE Global 100 Index                           │ ^FTSE         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ftse250           │ FTSE Global 250 Index                           │ ^FTMC         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ftse350           │ FTSE Global 350 Index                           │ ^FTLC         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ftai              │ FTSE AIM All-Share Global Index                 │ ^FTAI         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ fteu1             │ FTSE Eurotop 100 Index                          │ ^FTEU1        │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ftas              │ UK FTSE All-Share Index                         │ ^FTAS         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ spuk              │ S&amp;P United Kingdom (PDS)                        │ ^SPUK         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ uk100             │ CBOE UK 100 Index                               │ ^BUK100P      │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ switzerland       │ Zurich Stock Exchange ESTX 50 PR.EU             │ ^STOXX50E     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ germany           │ DAX Performance Index                           │ ^GDAXI        │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ paris             │ CAC Paris 40 Index                              │ ^FCHI         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ brussels          │ BEL 20 Brussels Exchange Index                  │ ^BFX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ bombay            │ S&amp;P Bombay Stock Exchange SENSEX                │ ^BSESN        │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ tel-aviv          │ Tel-Aviv 125 Index                              │ ^TA125.TA     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ russia            │ MOEX Russia Index                               │ IMOEX.ME      │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ asx200            │ S&amp;P/ASX 200 Index                               │ ^AXJO         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ australia         │ Australia All Ordinary Shares Index             │ ^AORD         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ nz50              │ S&amp;P New Zealand 50 Index                        │ ^nz50         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ kosbi             │ KOSPI Compsite Index                            │ ^KS11         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ nikkei            │ Nikkei 255 Index                                │ ^N225         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ shanghai          │ Shanghai Composite Index                        │ 000001.SS     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ shenzhen          │ Shenzhen Component Index                        │ 399001.SZ     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ taiwan            │ TSEC Weighted Index                             │ ^TWII         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ hang-seng         │ Hang Seng Index                                 │ ^HSI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ jakarta           │ Jakarta Composite Index                         │ ^JKSE         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ malaysia          │ FTSE Bursa Malaysia KLCI                        │ ^KLSE         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ singapore         │ STI Index - Singapore SGD                       │ ^STI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ mexico            │ IPC Mexico Index                                │ ^MXX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ brazil            │ IBOVESPA Sao Paulo Brazil Index                 │ ^BVSP         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ vix               │ CBOE Volatility Index                           │ ^VIX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ vin               │ CBOE Near-Term VIX Index                        │ ^VIN          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ vvix              │ CBOE VIX Volatility Index                       │ ^VVIX         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ shortvol          │ CBOE Short VIX Futures Index                    │ ^SHORTVOL     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ vxn               │ CBOE NASDAQ 100 Volatility Index                │ ^VXN          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ gvz               │ CBOE Gold Volatility Index                      │ ^GVZ          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ovx               │ CBOE Crude Oil Volatility Index                 │ ^OVX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ dx-y              │ US Dollar Index                                 │ DX-Y.NYB      │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ tnx               │ CBOE Interest Rate 10 Year T-Note               │ ^TNX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ tyx               │ CBOE 30 year Treasury Yields                    │ ^TYX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ irx               │ CBOE 13 Week Treasury Bill                      │ ^IRX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp500tr           │ S&amp;P 500 Total Return USD                        │ ^SP500TR      │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ xsp               │ S&amp;P 500 Mini SPX Options Index                  │ ^XSP          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-materials      │ S&amp;P 500 Materials Sector Index                  │ ^SP500-15     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-industrials    │ S&amp;P 500 Industrials Sector Index                │ ^SP500-20     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-discretionary  │ S&amp;P 500 Consumer Discretionary Index            │ ^SP500-25     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-staples        │ S&amp;P 500 Consumer Staples Sector Index           │ ^SP500-30     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-health         │ S&amp;P 500 Health Care Sector Index                │ ^SP500-35     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-financials     │ S&amp;P 500 Financials Sector Index                 │ ^SP500-40     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-it             │ S&amp;P 500 IT Sector Index                         │ ^SP500-45     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-communications │ S&amp;P 500 Communications Sector Index             │ ^SP500-50     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-utilities      │ S&amp;P 500 Utilities Sector Index                  │ ^SP500-55     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-real_estate    │ S&amp;P 500 Real Estate Sector Index                │ ^SP500-60     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-airlines       │ S&amp;P 500 Airlines Industry Index                 │ ^SP500-203020 │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sp-tech_hardware  │ S&amp;P 500 Technology Hardware Industry            │ ^SP500-452020 │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ djt               │ Dow Jones Transportation Average Index          │ ^DJT          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ dju               │ Dow Jones Utility Average Index                 │ ^DJU          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ixch              │ NASDAQ Health Care Index                        │ ^IXCH         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ixtc              │ NASDAQ Telecommunications Index                 │ ^IXTC         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ inds              │ NASDAQ Industrial Index                         │ ^INDS         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ixco              │ NASDAQ Computer Index                           │ ^INCO         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ bank              │ NASDAQ Bank Index                               │ ^BANK         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ tran              │ NASDAQ Transportation Index                     │ ^TRAN         │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ice-auto          │ ICE FactSet Global NextGen Auto Index           │ ^ICEFSNA      │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ice-comm          │ ICE FactSet Global NextGen Communications Index │ ^ICEFSNC      │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ nyl               │ NYSE World Leaders Index                        │ ^NYL          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ nyi               │ NYSE International 100 Index                    │ ^NYI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ nyy               │ NYSE TMT Index                                  │ ^NYY          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ xmi               │ NYSE ARCA Major Market Index                    │ ^XMI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ xoi               │ NYSE ARCA Oil and Gas Index                     │ ^XOI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ ixb               │ NYSE Materials Select Sector Index              │ ^IXB          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ pse               │ NYSE ARCA Tech 100 Index                        │ ^PSE          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ xci               │ NYSE ARCA Computer Tech Index                   │ ^XCI          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ xal               │ NYSE ARCA Airline Index                         │ ^XAL          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ xtc               │ NYSE ARCA North American Telecom Industry Index │ ^XTC          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ bxm               │ CBOE Buy-Write Monthly Index                    │ ^BXM          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ sox               │ PHLX Semiconductor Index                        │ ^SOX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ xau               │ PHLX Gold/Silver Index                          │ ^XAU          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ hgx               │ PHLX Housing Sector Index                       │ ^HGX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ osx               │ PHLX Oil Services Sector Index                  │ ^OSX          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ uty               │ PHLX Utility Sector Index                       │ ^UTY          │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ w5000             │ Wilshire 5000                                   │ ^W5000        │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ w5000flt          │ Wilshire 5000 Float Adjusted Index              │ ^W5000FLT     │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ wgreit            │ Wilshire Global REIT Index                      │ ^WGREIT       │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ wgresi            │ Wilshire Global Real Estate Sector Index        │ ^WGRESI       │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ wilreit           │ Wilshire US REIT Index                          │ ^WILREIT      │
-├───────────────────┼─────────────────────────────────────────────────┼───────────────┤
-│ wilresi           │ Wilshire US Real Estate Security Index          │ ^WILRESI      │
-└───────────────────┴─────────────────────────────────────────────────┴───────────────┘
-```
-
-* add black formatting
-
-* codespell
-
-* changed shorthand names of a few items.
-
-germany --&gt; dax
-paris --&gt; cac
-brussels --&gt; bel
-kosbi --&gt; kospi (grammar error)
-
-* Added STOXX and STOXX50
-
-Other EU Indices that are already in the list are: S&amp;P Europe 350; FTSE Eurotop 100; FTSE 100 250 &amp; 350
-
-* removed capitalization from STOXX
-
-* adds Lisbon Stock Exchange to list ^BVLG
-
-adds Lisbon Stock Exchange to list ^BVLG
-
-* Adds Madrid IBEX 35, BSE Small &amp; Mid Cap Indices
-
-Three more added: Spain, Bombay small and mid caps.
-
-* black
-
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
-Co-authored-by: Jeroen Bouma &lt;jer.bouma@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a12e094</div>
-                                        <div class="message">Starts crypto tools menu (#1668)
-
-* started crypto tools menu
-
-* allow zero float
-
-* added obb script
-
-Co-authored-by: Chavithra &lt;chavithra@gmail.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
-Co-authored-by: minhhoang1023 &lt;40023817+minhhoang1023@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6704023</div>
-                                        <div class="message">Replaces coingecko deprecated commands  (#1650)
-
-* removes cgproducts and cgplatforms and replaces with cr
-
-* add ignore word
-
-* added .openbb script
-
-* reverted crypto change
-
-* doc
-
-* failing tests
-
-* trying chart and fixed minh issues
-
-* Create barh
-
-* Fix ticker labels
-
-* fix test
-
-* loanscan mock
-
-* defi test
-
-* defi test
-
-* Fix defi test
-
-Co-authored-by: Minh Hoang &lt;nminh.hoang1023@gmail.com&gt;
-Co-authored-by: minhhoang1023 &lt;40023817+minhhoang1023@users.noreply.github.com&gt;
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccb0b6c</div>
-                                        <div class="message">Adding Necessary files to fix the windows installer splash screen (#1653)
-
-* Adding Necessary files to fix the windows installer splash screen
-
-* Bundle defaults json into project root location on mac
-
-* Bundle linearmodels and statsmodels with pyinstaller on mac
-
-* Tell dotenv to override defaults
-
-* Fix a typo and add a "todo" in comments
-
-* Explicitly silence bandit's false positives
-
-* Fix typo
-
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#617266a</div>
-                                        <div class="message">Closing in on 90% Bot Coverage (#1646)
-
-* Attempting more tests
-
-* fix bots module not found issue
-
-* try this syspath
-
-* black
-
-* fix except
-
-* fix import sys path errors
-
-* remove dual import
-
-* Basic tests
-
-* Sorry Juan
-
-* Seperate discord commands
-
-* fix path issues loading cmds folder
-
-* click dep fix
-
-* Fixed pylint
-
-* Expanded tests
-
-* Expanded tests
-
-* Improve imports
-
-* improve paths, clean up ext load, fixes
-
-* Update pyproject.toml
-
-* resolving windows test issues
-
-Co-authored-by: teh_coderer &lt;me@tehcoderer.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea89465</div>
-                                        <div class="message">updated anchor command to display earnings (#1661)
-
-Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#78b724e</div>
-                                        <div class="message">Add a pytest.mark.linux to test_display_defi_tvl (#1665)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20b4630</div>
-                                        <div class="message">Incorrect Env Names (#1657)
-
-* Fixed naming
-
-* Fixed naming
-
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#427cc17</div>
-                                        <div class="message">Add pytest.mark.linux to test_plot_oi (#1662)
-
-Co-authored-by: Colin Delahunty &lt;72827203+colin99d@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bf4618</div>
-                                        <div class="message">Adds QA and Pred to forex (#1652)
-
-* added qa and pred to forex
-
-* updated test help
-
-* Add forex/qa notebooks api wrapper
-
-* Add forex/qa tests
-
-* Add all menu commands to the integration test script
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8027a6</div>
-                                        <div class="message">Update similarity report (#1651)
-
-* Update similar analyis report
-
-* Fix font size in historic correlation heatmap
-
-Co-authored-by: piiq &lt;piiq@tinag.ru&gt;
-Co-authored-by: Chavithra &lt;chavithra@gmail.com&gt;
-Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#002d1a4</div>
-                                        <div class="message">Added fix for alphavantage key and fraud command (#1660)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3096,7 +2376,7 @@ Co-authored-by: jmaslek &lt;jmaslek11@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2022, 17:06:43 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 18:36:08 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
