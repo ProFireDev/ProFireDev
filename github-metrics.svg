@@ -1758,7 +1758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lidarr/Lidarr</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Looks and smells like Sonarr but made for music.</div>
@@ -1811,7 +1811,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simple-icons/simple-icons</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SVG icons for popular brands</div>
@@ -1864,7 +1864,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FortAwesome/Font-Awesome</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The iconic SVG, font, and CSS toolkit</div>
@@ -2119,7 +2119,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2022, 18:39:06 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 20 Apr 2022, 20:55:00 (timezone America/Edmonton) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
