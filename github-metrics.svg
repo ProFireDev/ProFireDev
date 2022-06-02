@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2647" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2367" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.large .largeable-width-half{width:50%}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description,.post .infos .title{font-size:14px;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-height:38px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.post .infos .description{margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,8 +33,8 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -483,12 +483,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 24 commits)</small>
+                    <small class="h-details">(computed from last 25 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 55.7 characters per line of code written</li>
+                        <li>Has approximately 55.8 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -579,8 +579,8 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -640,8 +640,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4</span>
+                                <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -708,6 +708,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 20 days
@@ -728,7 +734,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.48
+                            Average per day at ~2.47
                         </div>
                     </section>
                 </div>
@@ -1726,6 +1732,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 8.823529411764707)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.176470588235294 0,1.1764705882352942 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1764705882352942 1.7,2.176470588235294 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1747,7 +1758,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CapnKitten/Spotify-Discord</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Combine Discord and Spotify into one</div>
@@ -1794,7 +1805,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Jisagi/Discord-guild-copy</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A script to copy a discord guild/server</div>
@@ -1945,6 +1956,45 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Flipping-Industries/Flippy</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#efa0526</div>
+                                        <div class="message">Merge pull request #2 from Flipping-Industries/dependabot/npm_and_yarn/Flippy_main/eventsource-1.1.1
+
+Bump eventsource from 1.1.0 to 1.1.1 in /Flippy_main</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8cc498</div>
+                                        <div class="message">Bump eventsource from 1.1.0 to 1.1.1 in /Flippy_main
+
+Bumps [eventsource](https://github.com/EventSource/eventsource) from 1.1.0 to 1.1.1.
+- [Release notes](https://github.com/EventSource/eventsource/releases)
+- [Changelog](https://github.com/EventSource/eventsource/blob/master/HISTORY.md)
+- [Commits](https://github.com/EventSource/eventsource/compare/v1.1.0...v1.1.1)
+
+---
+updated-dependencies:
+- dependency-name: eventsource
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2104,219 +2154,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 370 commits in
-                                        <span class="repo">ProFireDev/Ghost</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5f31f52</div>
-                                        <div class="message">Allow opt-in for existing members when creating a newsletter (#14567)
-
-- Added changes to opt-in existing members for new newsletters
-
-Co-authored-by: Hannah Wolfe &lt;github.erisds@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e92229</div>
-                                        <div class="message">Remapped `member.subscribed` value using newsletter subscriptions (#14563)
-
-refs https://github.com/TryGhost/Team/issues/1545
-
-- Remapped `member.subscribed` value based on newsletter subscriptions in API output
-- Enabled filtering by subscribed status for multiple newsletters
-
-Co-authored-by: Matt Hanley &lt;git@matthanley.co.uk&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8662252</div>
-                                        <div class="message">Updated default newsletter model sort order (#14571)
-
-refs https://github.com/TryGhost/Team/issues/1552
-
-- The API doesn't enforce a unique sort order but we infer the "default newsletter" based on ordering so we need to ensure a consistent and deterministic ordering behaviour</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9eff8a</div>
-                                        <div class="message">Updated admin route for newsletter settings (#14576)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05b5059</div>
-                                        <div class="message">Updated portal to manage single newsletter with existing UI (#14573)
-
-refs https://github.com/TryGhost/Team/issues/1554
-
-- bumps portal to manage single site newsletter with old subscribe UI
-- adds unit test for portal site endpoint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d36e58</div>
-                                        <div class="message">Simplified newsletter e2e tests
-
-- Many of these tests were using API calls to get IDs or check side effects
-- This makes snap files much harder to read, where keeping tests more minimal gives us the same test coverage
-- Also updated the tests to include members, so we have some real live counts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed29c7a</div>
-                                        <div class="message">Filtered member email recipients based on the newsletter subscriptions (#14489)
-
-refs https://github.com/TryGhost/Team/issues/1524
-
-- We need to fetch the post newsletter to grab the slug as it's needed for the member NQL filter.
-- We can then use the newsletter slug and append it in the existing member NQL filter.
-- Removed `subscribed:true` when an email is sent to a newsletter and replaced it with the newsletter id
-- Added `status:-free` when an email is sent to a newsletter with `visibility` set to `paid`
-- Added tests what happens when you publish without newsletter_id
-- Added tests what happens when you publish with newsletter_id
-
-Co-authored-by: Simon Backx &lt;simon@ghost.org&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9da57fa</div>
-                                        <div class="message">Updated test fixtures for multiple newsletters
-
-- Updated the member fixtures to have 6 subscribed and 2 unsubscribed members
-- Added an inactive newsletter
-- Updated newsletter-member relations to reflect the 6 subscribed and 2 unsubscribed, but with different cases:
-   - 3 subscribed to default
-   - 1 subscribed to secondary only
-   - 1 subscribed to default + secondary
-   - 1 subscribed to secondary + inactive
-   - 1 subscribed to inactive only (i.e. not subscribed)
-   - 1 not subscribed at all
-
-- With these changes, I needed to update the members snap as 2 members appear as subscribed:false in many tests
-- I also needed to update some posts regression tests, as 2 less members get emailed in 2 tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48799e1</div>
-                                        <div class="message">Added the newsletter API `?include=count.posts` and `?include=count.members` query options (#14525)
-
-refs https://github.com/TryGhost/Team/issues/1524
-
-- This enables admins in the ghost admin to have an overview of the total posts/members associated with a newsletter.
-- Follows the `?include=count.x` convention used by other resources</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4700e0</div>
-                                        <div class="message">Mapped subscribers to newsletter (#14518)
-
-Closes https://github.com/TryGhost/Team/issues/1508
-Refs https://github.com/TryGhost/Ghost/pull/14468
-
-- Maps existing subscribers to the default newsletter
-
-A note on performance:
-We loop over the rows in a potentially large table (members) but I've minimised the impact by limiting the columns we fetch. The alternative is a raw SQL query like the one below: the SQL version takes ~0.9s vs ~1.1s for the migration (my laptop, ~30k members). The disadvantage of the raw SQL implementation is the approximation of the ObjectID (instead of a legit bson ID) which isn't sequential and may impact index size/performance.
-
-```sql
-insert into members_newsletters (id, member_id, newsletter_id)
-    select
-        substr(replace(uuid(),'-',''),1,24),
-        id,
-        '62595dcbfad4e031d85d166f'
-    from members
-    where members.subscribed=true;
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a330165</div>
-                                        <div class="message">Handled email unsubscribe with multiple newsletters (#14560)
-
-refs https://github.com/TryGhost/Team/issues/1495
-
-- removes subscription from all newsletters for a member on click of unsubscribe link in email
-- allows the new multiple newsletter system to work with existing unsubscribe flow</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d27c9d</div>
-                                        <div class="message">Added a down() operation to newsletters
-
-- Without the down operation, the previous migration fails to re-add the
-created_at column after a rollback</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69f3107</div>
-                                        <div class="message">Updated default newsletter migration for created_at
-
-refs https://ghost.slack.com/archives/C02G9E68C/p1650632604790259?thread_ts=1650619639.619819&amp;cid=C02G9E68C
-
-The new column needs to be included in the migration explicitly, since there is no default in the database (and we don't use the model).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50ab1e0</div>
-                                        <div class="message">Added created_at/updated_at to newsletters (#14559)
-
-no issue
-
-Added the missing timestamps to the newsletters table</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c49d2d0</div>
-                                        <div class="message">Fixed the newsletter_id assignement in the post API (#14485)
-
-refs https://github.com/TryGhost/Team/issues/1502
-
-- Assigned posts to the default newsletter when sent as email</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c15cb1b</div>
-                                        <div class="message">Added `newsletter_id` column to subscribe events (#14553)
-
-refs https://github.com/TryGhost/Team/issues/1478
-
-The `newsletter_id` is nullable for now to remain compatible until we have a proper data migration + updated code to set it on inserts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c823006</div>
-                                        <div class="message">Added the default newsletter (#14468)
-
-refs https://github.com/TryGhost/Team/issues/1473
-
-- Added the default newsletter
-- We use the title to populate the newsletter same, slug and sender name
-- We use the description to populate the newsletter description
-- We use the global design settings to populate the corresponding newsletter design settings
-
-Co-authored-by: Matt Hanley &lt;git@matthanley.co.uk&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8687b3</div>
-                                        <div class="message">Added newsletter from address verification (#14491)
-
-refs https://github.com/TryGhost/Team/issues/1498
-refs https://github.com/TryGhost/Team/issues/584
-
-- Added newsletter `from` address verification
-
-Co-authored-by: Hannah Wolfe &lt;github.erisds@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#298599c</div>
-                                        <div class="message">Added `show_header_name` column to newsletters table
-
-refs https://github.com/TryGhost/Team/issues/1532
-
-- Added before the migration in https://github.com/TryGhost/Ghost/pull/14468 to populate the default newsletter
-- The fixture for the default newsletter has a different value than the model and schema default
-- This is because by default the newsletter name is the same as the site title, and the site title is already shown</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65c2958</div>
-                                        <div class="message">Update dependency express to v4.18.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2358,7 +2195,7 @@ refs https://github.com/TryGhost/Team/issues/1532
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2022, 17:08:41 (timezone America/Edmonton) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jun 2022, 18:47:17 (timezone America/Edmonton) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
