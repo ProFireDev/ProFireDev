@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3563" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2580" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -41,9 +41,9 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            807 Commits
+                            877 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            196 issue comments
+                            197 issue comments
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.83m added, 430k removed
+                                    2.66m added, 207k removed
                                 </div>
                             </section>
                             <section>
@@ -483,12 +483,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 20 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 66.0 characters per line of code written</li>
+                        <li>Has approximately 59.8 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -579,12 +579,12 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">12</span>
+                            <span class="value">14</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             17
                         </div>
@@ -655,8 +655,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -728,7 +728,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.52
+                            Average per day at ~1.88
                         </div>
                     </section>
                 </div>
@@ -1046,9 +1046,9 @@
                         </g>
                         <g transform="translate(13.6, 8)">
                             <g transform="translate(0, 5.379310344827586)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1088,9 +1088,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.379310344827586)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.793103448275862)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1119,35 +1119,35 @@
                             </g>
                         </g>
                         <g transform="translate(17, 10)">
-                            <g transform="translate(0, 5.379310344827586)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
+                            <g transform="translate(0, 3.9310344827586206)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.068965517241379 0,3.0689655172413794 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0689655172413794 1.7,4.068965517241379 z"/>
                             </g>
                             <g transform="translate(-1.7, 5.758620689655173)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2413793103448274 0,2.2413793103448274 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2413793103448274 1.7,3.2413793103448274 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2413793103448274 0,2.2413793103448274 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2413793103448274 1.7,3.2413793103448274 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.586206896551724)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
+                            <g transform="translate(-5.1, 8.172413793103448)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8275862068965516 0,1.8275862068965516 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8275862068965516 1.7,2.8275862068965516 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.379310344827587)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.379310344827587)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1156,25 +1156,25 @@
                             </g>
                         </g>
                         <g transform="translate(18.7, 11)">
-                            <g transform="translate(0, 3.724137931034483)">
+                            <g transform="translate(0, 3.517241379310345)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.275862068965517 0,3.275862068965517 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.275862068965517 1.7,4.275862068965517 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.482758620689655 0,3.4827586206896552 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.4827586206896552 1.7,4.482758620689655 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.793103448275862)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.172413793103448)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8275862068965516 0,1.8275862068965516 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8275862068965516 1.7,2.8275862068965516 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1218,10 +1218,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.793103448275861)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1241,24 +1241,24 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.586206896551724)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.793103448275861)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
+                            <g transform="translate(-6.8, 9.172413793103448)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8275862068965516 0,1.8275862068965516 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8275862068965516 1.7,2.8275862068965516 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.793103448275861)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1287,10 +1287,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.586206896551724)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
+                            <g transform="translate(-6.8, 8.96551724137931)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0344827586206895 0,2.0344827586206895 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0344827586206895 1.7,3.0344827586206895 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1304,10 +1304,10 @@
                             </g>
                         </g>
                         <g transform="translate(25.5, 15)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(0, 5.793103448275862)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1315,19 +1315,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.379310344827586)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.793103448275861)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1351,25 +1351,25 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.793103448275862)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
+                            <g transform="translate(-3.4, 7.586206896551724)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.586206896551724)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.793103448275861)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1383,20 +1383,20 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 6.793103448275862)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.793103448275861)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
+                            <g transform="translate(-5.1, 8.586206896551724)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1420,25 +1420,25 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 6.172413793103448)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8275862068965516 0,1.8275862068965516 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8275862068965516 1.7,2.8275862068965516 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.793103448275861)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.379310344827587)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1457,10 +1457,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 6.379310344827586)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1477,10 +1477,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.793103448275861)">
+                            <g transform="translate(-8.5, 9.96551724137931)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0344827586206895 0,2.0344827586206895 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0344827586206895 1.7,3.0344827586206895 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1504,20 +1504,20 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.793103448275861)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.379310344827587)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.793103448275861)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1531,10 +1531,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.379310344827586)">
+                            <g transform="translate(-1.7, 5.758620689655173)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2413793103448274 0,2.2413793103448274 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2413793103448274 1.7,3.2413793103448274 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1578,10 +1578,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.793103448275861)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.206896551724138 0,1.206896551724138 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.206896551724138 1.7,2.206896551724138 z"/>
+                            <g transform="translate(-5.1, 8.586206896551724)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.413793103448276 0,1.4137931034482758 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4137931034482758 1.7,2.413793103448276 z"/>
                             </g>
                             <g transform="translate(-6.8, 10)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1610,10 +1610,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.379310344827586)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1625,10 +1625,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 11)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-8.5, 10.379310344827587)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6206896551724137 0,1.6206896551724137 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6206896551724137 1.7,2.6206896551724137 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1694,10 +1694,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 8.96551724137931)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.0344827586206895 0,2.0344827586206895 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.0344827586206895 1.7,3.0344827586206895 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1930,155 +1930,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 304 commits in
-                                        <span class="repo">ProFireDev/openmw</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#92a64b0</div>
-                                        <div class="message">Fix typo in navmeshtool log message</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ee5e8f</div>
-                                        <div class="message">Correct CS typo described in #6704</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#499e688</div>
-                                        <div class="message">Merge branch 'fix_navigator_tests' into 'master'
-
-Increase precision error for navigator tests (#6770)
-
-Closes #6770
-
-See merge request OpenMW/openmw!1909</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7edd28c</div>
-                                        <div class="message">Merge branch 'addlockpickbinds' into 'master'
-
-Lua API for Lockpick and Probe records
-
-See merge request OpenMW/openmw!1892</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b37d5d</div>
-                                        <div class="message">Lua API for Lockpick and Probe records</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09757d0</div>
-                                        <div class="message">Merge branch 'noboost_essimporter' into 'master'
-
-Remove boost::filesystem from essimporter
-
-See merge request OpenMW/openmw!1913</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0299529</div>
-                                        <div class="message">Merge branch 'remove_boost_' into 'master'
-
-Remove dependency on boost::filesystem in bsatool and niftest CMakeLists.txt
-
-See merge request OpenMW/openmw!1915</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a737b05</div>
-                                        <div class="message">Merge branch 'faster_toLower' into 'master'
-
-Improve the speed of toLower
-
-See merge request OpenMW/openmw!1889</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14b9abb</div>
-                                        <div class="message">Merge branch 'no_resize' into 'master'
-
-[Postprocessing] Don't resize user defined samplers to power of 2
-
-See merge request OpenMW/openmw!1918</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c4ee1c</div>
-                                        <div class="message">Merge branch 'noboost_navmeshtool' into 'master'
-
-Remove boost::filesystem from navmashtool
-
-See merge request OpenMW/openmw!1916</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee6e600</div>
-                                        <div class="message">remove log spam on failures</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a987b01</div>
-                                        <div class="message">don't resize user defined samplers to power of 2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0554afe</div>
-                                        <div class="message">Remove boost::filesystem from navmashtool</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34ae6e8</div>
-                                        <div class="message">Remove dependency on boost::filesystem in bsatool and niftest CMakeLists.txt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a63bc0</div>
-                                        <div class="message">Remove boost::filesystem from essimporter</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f5025e</div>
-                                        <div class="message">Remove some unused includes from bulletobjecttool</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#998f1c9</div>
-                                        <div class="message">Improve the speed of toLower
-
-This significantly improves the speed of my fuzzer,
-by something like 15%.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87073e2</div>
-                                        <div class="message">Increase precision error for navigator tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6b21b8</div>
-                                        <div class="message">Update install-openmw.rst with instructions for installing via flatpak.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9649bfc</div>
-                                        <div class="message">When building Win32 (VS 2019), there are problems in line 45.
-This change solves the problem.
-
-Special thanks to AnyOldName3 for the hint :)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">ProFireDev/painfull</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">JCS-Computer-Science/project-module-1-project-flip</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3914348</div>
-                                        <div class="message">Update index.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39660f8</div>
-                                        <div class="message">Update index.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb4e692</div>
-                                        <div class="message">make entrypoints optional</div>
+                                        <div class="sha">#c264b3a</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2090,501 +1950,15 @@ Special thanks to AnyOldName3 for the hint :)</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 70 commits in
-                                        <span class="repo">ProFireDev/GamestonkTerminal</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ProFireDev/project-flip</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ffef8ab</div>
-                                        <div class="message">Add in Hugo docs for Trading Hours and Behavioural Analysis (#1868)
-
-* commit
-
-* commit
-
-* Corrected typo in the index list, and added Thailand, Philippines, Wilshire US Large Cap Growth and Value, MOVE Index
-
-* update to index list
-
-* commit
-
-* commit
-
-* Corrected typo in the index list, and added Thailand, Philippines, Wilshire US Large Cap Growth and Value, MOVE Index
-
-* guides: behavioural anaylsis &amp; trading hours
-
-* linter
-
-* Add in Hugo Docs for tradinghours and behavioural analysis
-
-* Move things around, fix some errors
-
-* Update _index.md
-
-* Update _index.md
-
-* Update _index.md
-
-* Small fix
-
-* Add in better Discord link
-
-* Adjust BA location
-
-Co-authored-by: Danglewood &lt;85772166+deeleeramone@users.noreply.github.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
-Co-authored-by: james &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49560ab</div>
-                                        <div class="message">Econometrics UX (#1878)
-
-* improve econometrics load, custom_reset
-
-* improve econometrics UX and remove options cmd
-
-* fix sector and industry analysis
-
-* improve econometrics and export data from main menu
-
-* improve toolbar vis to add helper -h
-
-* imporve type and desc
-
-* add logger
-
-* econometrics improve ols
-
-* improve root and norm commands
-
-* more cleanup
-
-* improve econometrics commands
-
-* api econometrics
-
-* tests econometrics
-
-* improve index command
-
-* change modify to add,delete,combine and rename
-
-* minor fix
-
-* update docs
-
-* update pylint
-
-* update pylint
-
-* tests
-
-* Update documentation
-
-* fix type command
-
-* index
-
-* improve more econometrics for Jer
-
-* improve docs
-
-* fix tests
-
-* fix test
-
-* remove help
-
-* Add in robustness for when you select two dependent variables
-
-* Update Website documentation
-
-Co-authored-by: JerBouma &lt;jer.bouma@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9e097e</div>
-                                        <div class="message">Bug/crypto defi vaults command broken #1822 (#1874)
-
-* Add separate view for finbrain for crypto curreny sentiment analysis
-
-* Move json with symbols to separate directory, little refactoring, update readme
-
-* Add screenshot of finbrain for PolkaDot
-
-* Fix defi coindix vaults. Risk param is disabled. Disable urllib3 warning bout not verified request url
-
-* update tests for coindix - cassetes, csvs, txts
-
-* update vaults docs
-
-* Update _index.md
-
-* run crypto tests with record_mode=rewrite
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e09598</div>
-                                        <div class="message">Fix CA tsne issue where dataframes werent merging when ticker not in sp500 (#1882)
-
-* Fix CA tsne issue where dataframes werent merging
-
-* Fix forex tests where date changed :/</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7f16b2</div>
-                                        <div class="message">Add in Portfolio Optimization, Dark Pools, Discovery and Comparison Guides (#1887)
-
-* commit
-
-* commit
-
-* Corrected typo in the index list, and added Thailand, Philippines, Wilshire US Large Cap Growth and Value, MOVE Index
-
-* update to index list
-
-* commit
-
-* commit
-
-* Corrected typo in the index list, and added Thailand, Philippines, Wilshire US Large Cap Growth and Value, MOVE Index
-
-* guides: behavioural anaylsis &amp; trading hours
-
-* linter
-
-* Add in Portfolio Optimization, Dark Pools, Discovery and Comparison Guides
-
-* Update _index.md
-
-* Update _index.md
-
-* Update _index.md
-
-* Remove images
-
-* Some small improvements
-
-* Update _index.md
-
-* Add GIF
-
-* ABC
-
-* Add files via upload
-
-* Fix small mistake
-
-* Remove installer explanation since it is better documented in Hugo
-
-* Small fix
-
-Co-authored-by: Danglewood &lt;85772166+deeleeramone@users.noreply.github.com&gt;
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
-Co-authored-by: james &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35ba7fd</div>
-                                        <div class="message">Fix tests and bump pandas version (#1888)
-
-* Fix forex polygon model tests
-
-* Release pandas version lock
-
-* Release pylint version lock on the CI
-
-* Alternative : covid - fix csv separator issue
-
-* FIx spacing change related to pandas upgrade
-
-Co-authored-by: Chavithra PARANA &lt;chavithra@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f0604a</div>
-                                        <div class="message">Update pred deps and instructions (#1885)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e451b4</div>
-                                        <div class="message">Oops this should be fixed (#1881)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd6f96c</div>
-                                        <div class="message">Get rid of qa interval warning (#1880)
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6aa487b</div>
-                                        <div class="message">allow for reports an easy exit when something fails and other fixes (#1876)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#71d99e8</div>
-                                        <div class="message">Fix economy/fred bug (#1875)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7db8fa0</div>
-                                        <div class="message">Clean up forex menu.  Add in polygon load (#1871)
-
-* Clean up forex menu.  Add in polygon load
-
-* Forex candle matches stock with --ma option
-
-* fxempire tests
-
-* forex controller tests
-
-* Test polygon model
-
-* Hugo
-
-* oops
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#385d128</div>
-                                        <div class="message">Add bottom toolbar hint feature flag - helps new users in getting started (#1873)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#75d0832</div>
-                                        <div class="message">Improved fraud function (#1855)
-
-* Improved fraud function
-
-* Updated docs
-
-* Didier fixes
-
-* Fixed test
-
-* Added help
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91ddafd</div>
-                                        <div class="message">This PR uploads Guides (.md and images) for Behavioural Analysis and Trading Hours (#1863)
-
-* commit
-
-* commit
-
-* Corrected typo in the index list, and added Thailand, Philippines, Wilshire US Large Cap Growth and Value, MOVE Index
-
-* update to index list
-
-* commit
-
-* commit
-
-* Corrected typo in the index list, and added Thailand, Philippines, Wilshire US Large Cap Growth and Value, MOVE Index
-
-* guides: behavioural anaylsis &amp; trading hours
-
-* linter
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
-Co-authored-by: james &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80b3c01</div>
-                                        <div class="message">Refactor main menu to have: Settings and Feature Flags menus (#1864)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46da0fc</div>
-                                        <div class="message">Fix scientific notation for zeros and options greeks (#1859)
-
-* Force greeks table to show many zeros
-
-* Disable scientific notation for zero
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f8eb43</div>
-                                        <div class="message">Time-series forecasting (Exponential Smoothing) with Darts Integration  (#1851)
-
-* Working exponential with bugs
-
-* utilizing business datatime + fillers
-
-* working figures
-
-* expo with more functionality
-
-* historical forcasting feat.
-
-* numeric values for forcasted days
-
-* print pretty predictions
-
-* formatting
-
-* code cleanup
-
-* doc strings fix
-
-* more docs
-
-* quick fix
-
-* refactoring
-
-* poetry updates
-
-* typo
-
-* test script update
-
-* update requirements.txt
-
-* refactoring and Hugo website
-
-* Update _index.md
-
-* reverting poetry and requirements for now.
-
-* minor mod and removal of space
-
-* Update readme for forecasting
-
-* removal of old TF version
-
-* reqs and poetry
-
-* linting
-
-* merge main.yml from main
-
-* supress warnings due to lib version change
-
-* reverting main.yml
-
-* retrying expo on main.yml
-
-* fixing fundamentalanalysis version
-
-* update poetry fundamentalanalysis
-
-* type casting arg parse
-
-* seasonal period default update
-
-* update en.yml
-
-Co-authored-by: didierlopes.eth &lt;dro.lopes@campus.fct.unl.pt&gt;
-Co-authored-by: James Maslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#707fd8f</div>
-                                        <div class="message">Terminal supporting controller with multiple languages (#1730)
-
-* initial implementation of terminal supporting multiple languages
-
-* improve quote command
-
-* stocks controller with english translation pattern
-
-* add language to settings
-
-* update reqs to have python-i18n
-
-* find languages automatically
-
-* add to documentation how to support another language
-
-* markdown
-
-* fix no member issue
-
-* fix test
-
-* refactor code with translations
-
-* translate for options and options/scr
-
-* solve translation for all submenus within options controller
-
-* fix stocks controller tests
-
-* translate disc and th
-
-* dps and sia menus
-
-* scr and ins
-
-* add gov controller
-
-* fix tests for new controllers
-
-* stocks/ba and stocks/ca menus
-
-* add stocks/fa
-
-* res controller
-
-* stocks/dd
-
-* stocks/bt
-
-* qa and pred
-
-* crypto and crypto/disc
-
-* overview and onchain menus
-
-* defi
-
-* nft and tools
-
-* crpyto/dd
-
-* stocks and crypto TA
-
-* finish crypto menu
-
-* finish ETF controller
-
-* finish economy menu
-
-* forex
-
-* alternative and mutual funds
-
-* refactor source for translated version
-
-* econometrics and portfolio and brokers
-
-* portfolio
-
-* fix tests
-
-* finish language implementation
-
-* refactor code for cmds
-
-* improve keys
-
-* refactor name funcs and add docstrings
-
-* fix minor stuff
-
-* fix tests
-
-Co-authored-by: Theodore Aptekarev &lt;aptekarev@gmail.com&gt;
-Co-authored-by: Chavithra &lt;chavithra@gmail.com&gt;
-Co-authored-by: James Maslek &lt;jmaslek11@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b992d17</div>
-                                        <div class="message">Update Hugo documentation by refractoring (#1860)
-
-* Update documentation
-
-* Update _index.md</div>
+                                        <div class="sha">#8f7a06d</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -2596,292 +1970,74 @@ Co-authored-by: James Maslek &lt;jmaslek11@gmail.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 22 commits in
-                                        <span class="repo">ProFireDev/Ryujinx</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f2a41b7</div>
-                                        <div class="message">Rewrite kernel memory allocator (#3316)
-
-* Rewrite kernel memory allocator
-
-* Remove unused using
-
-* Adjust private static field naming
-
-* Change UlongBitSize to UInt64BitSize
-
-* Fix unused argument, change argument order to be inline with official code and disable random allocation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c881cd2</div>
-                                        <div class="message">Fix doubling of detected gamepads on program start (#3398)
-
-* Fix doubling of detected gamepads (sometimes the connected event is fired when the app starts even though the pad was connected for some time now).
-
-The fix rejects the gamepad if one with the same ID is already present.
-
-* Fixed review findings</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#68f9091</div>
-                                        <div class="message">Account for res scale changes when updating bindings (#3403)
-
-Fixes a regression introduced by the texture bindings PR.
-
-Also renames TextureStatePerStage, as it's no longer per stage.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99ffc06</div>
-                                        <div class="message">Optimize Texture Binding and Shader Specialization Checks (#3399)
-
-* Changes 1
-
-* Changes 2
-
-* Better ModifiedSequence handling
-
-This should handle PreciseEvents properly, and simplifies a few things.
-
-* Minor changes, remove debug log
-
-* Handle stage.Info being null
-
-Hopefully fixes Catherine crash
-
-* Fix shader specialization fast texture lookup
-
-* Fix some things.
-
-* Address Feedback Part 1
-
-* Make method static.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d987cac</div>
-                                        <div class="message">Fix VIC out of bounds copy (#3386)
-
-* Fix VIC out of bounds copy
-
-* Update the assert</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#851f56b</div>
-                                        <div class="message">Support Array/3D depth-stencil render target, and single layer clears (#3400)
-
-* Support Array/3D depth-stencil render target, and single layer clears
-
-* Alignment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1bd6a5</div>
-                                        <div class="message">Less invasive fix for EventFd blocking operations (#3394)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70895bd</div>
-                                        <div class="message">Allow concurrent BSD EventFd read/write (#3385)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#830cbf9</div>
-                                        <div class="message">Ignore ClipControl on draw texture fallback (#3388)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a9349f</div>
-                                        <div class="message">Fix instanced indexed inline draw index count (#3389)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46cc7b5</div>
-                                        <div class="message">Fix instanced indexed inline draws (#3383)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd8f97a</div>
-                                        <div class="message">Remove freed memory range from tree on memory block disposal (#3347)
-
-* Remove freed memory range from tree on memory block disposal
-
-* PR feedback</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#633c5ec</div>
-                                        <div class="message">Extend uses count from ushort to uint on Operand Data structure (#3374)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3e7bb8</div>
-                                        <div class="message">Copy dependency for multisample and non-multisample textures (#3382)
-
-* Use copy dependency for textures that differs in multisample but are otherwise compatible
-
-* Remove allowMs flag as it's no longer required for correctness, it's just an optimization now
-
-* Dispose intermmediate pool</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2073ba2</div>
-                                        <div class="message">Fix a potential GPFIFO submission race (#3378)
-
-The syncpoint maximum value represents the maximum possible syncpt value at a given time, however due to PBs being submitted before max was incremented, for a brief moment of time this is not the case which could lead to invalid behaviour if a game waits on the fence at that specific time.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d03124a</div>
-                                        <div class="message">Fix 3D semaphore counter type 0 handling (#3380)
-
-Counter type 0 actually releases the semaphore payload rather than a constant zero as was previously thought. This is required by Skyrim.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59490d5</div>
-                                        <div class="message">infra: Switch to win10-x64 RID and fix PR comment for Avalonia and SDL2 artifact rename (#3375)
-
-* infra: Switch to win10-x64 RID and fix PR comment for Avalonia and SDL2 artifact rename
-
-* Address gdkchan's comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e546e59</div>
-                                        <div class="message">Rewrite SVC handler using source generators rather than IL emit (#3371)
-
-* Implement syscall handlers using a source generator
-
-* Copy FlushProcessDataCache implementation to Syscall since it was only implemented on Syscall32
-
-* Fix wrong argument order in some syscalls
-
-* Delete old Reflection.Emit based syscall handling code
-
-* Improvements to the code generation
-
-* ControlCodeMemory address and size is always 64-bit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c87bf9</div>
-                                        <div class="message">Refactor CPU interface to allow the implementation of other CPU emulators (#3362)
-
-* Refactor CPU interface
-
-* Use IExecutionContext interface on SVC handler, change how CPU interrupts invokes the handlers
-
-* Make CpuEngine take a ITickSource rather than returning one
-
-The previous implementation had the scenario where the CPU engine had to implement the tick source in mind, like for example, when we have a hypervisor and the game can read CNTPCT on the host directly. However given that we need to do conversion due to different frequencies anyway, it's not worth it. It's better to just let the user pass the tick source and redirect any reads to CNTPCT to the user tick source
-
-* XML docs for the public interfaces
-
-* PPTC invalidation due to NativeInterface function name changes
-
-* Fix build of the CPU tests
-
-* PR feedback</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9827dc3</div>
-                                        <div class="message">Allow loading NSPs without a NCA inside (#3364)
-
-* Allow loading NSPs without a NCA inside
-
-* Set isHomebrew as true</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 50 commits in
-                                        <span class="repo">ProFireDev/Vukkybox</span>
+                                        Pushed 110 commits in
+                                        <span class="repo">ProFireDev/project-flip</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3db41ea</div>
-                                        <div class="message">grr</div>
+                                        <div class="sha">#8f3f383</div>
+                                        <div class="message">fix for #186</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#bb73f12</div>
-                                        <div class="message">egg text v2</div>
+                                        <div class="sha">#17a649d</div>
+                                        <div class="message">fix conflicts</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d275dac</div>
-                                        <div class="message">fix</div>
+                                        <div class="sha">#c772e69</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/Flipping-Industries/Flipping-Site into pr/183</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5e12fcc</div>
-                                        <div class="message">l</div>
+                                        <div class="sha">#e0310c9</div>
+                                        <div class="message">update dep</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0a60e4e</div>
-                                        <div class="message">frustrating</div>
+                                        <div class="sha">#0de05e1</div>
+                                        <div class="message">push form valadation dependency update</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#2278193</div>
-                                        <div class="message">show eggtippy if alreayd hover</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9d91a1</div>
-                                        <div class="message">L</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4294481</div>
-                                        <div class="message">L</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e76d5f1</div>
-                                        <div class="message">bush</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2a8044</div>
-                                        <div class="message">Update store.ejs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#40bd62b</div>
-                                        <div class="message">w3m support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3eaf458</div>
-                                        <div class="message">v44</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1389c36</div>
-                                        <div class="message">fail</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51c1b25</div>
-                                        <div class="message">testing testing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#828e046</div>
-                                        <div class="message">Skelly moment, removes the thing that defines the variable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65060b1</div>
-                                        <div class="message">Update db.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d313cc</div>
-                                        <div class="message">Two characters, Skelly! Two characters!</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5803394</div>
-                                        <div class="message">Update db.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6ede5e7</div>
-                                        <div class="message">Update emailCode.html</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abb5427</div>
-                                        <div class="message">Bump postcss from 8.4.13 to 8.4.14
+                                        <div class="sha">#25f9f3c</div>
+                                        <div class="message">Merge pull request #7 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/vee-validate-4.5.10
 
-Bumps [postcss](https://github.com/postcss/postcss) from 8.4.13 to 8.4.14.
+Bump vee-validate from 4.5.9 to 4.5.10 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03b99a4</div>
+                                        <div class="message">Bump vee-validate from 4.5.9 to 4.5.10 in /Project_Flip-Vite
+
+Bumps [vee-validate](https://github.com/logaretm/vee-validate/tree/HEAD/packages/vee-validate) from 4.5.9 to 4.5.10.
+- [Release notes](https://github.com/logaretm/vee-validate/releases)
+- [Changelog](https://github.com/logaretm/vee-validate/blob/main/packages/vee-validate/CHANGELOG.md)
+- [Commits](https://github.com/logaretm/vee-validate/commits/v4.5.10/packages/vee-validate)
+
+---
+updated-dependencies:
+- dependency-name: vee-validate
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#490cd2d</div>
+                                        <div class="message">update package.json to fix any other missing stuff</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a4a0f9</div>
+                                        <div class="message">Merge pull request #6 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/postcss-8.4.8
+
+Bump postcss from 8.4.6 to 8.4.8 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e88ba5b</div>
+                                        <div class="message">Bump postcss from 8.4.6 to 8.4.8 in /Project_Flip-Vite
+
+Bumps [postcss](https://github.com/postcss/postcss) from 8.4.6 to 8.4.8.
 - [Release notes](https://github.com/postcss/postcss/releases)
 - [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/postcss/postcss/compare/8.4.13...8.4.14)
+- [Commits](https://github.com/postcss/postcss/compare/8.4.6...8.4.8)
 
 ---
 updated-dependencies:
@@ -2891,6 +2047,168 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b37e7b</div>
+                                        <div class="message">Merge pull request #2 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/postcss-8.4.7
+
+Bump postcss from 8.4.6 to 8.4.7 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eea89bc</div>
+                                        <div class="message">Merge pull request #1 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/vite-2.8.6
+
+Bump vite from 2.7.13 to 2.8.6 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#835dd93</div>
+                                        <div class="message">Merge pull request #3 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/eslint-config-prettier-8.5.0
+
+Bump eslint-config-prettier from 8.3.0 to 8.5.0 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73d76db</div>
+                                        <div class="message">Merge pull request #4 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/vitejs/plugin-vue-2.2.4
+
+Bump @vitejs/plugin-vue from 2.1.0 to 2.2.4 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#518e86c</div>
+                                        <div class="message">Merge pull request #5 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/vee-validate-4.5.9
+
+Bump vee-validate from 4.5.8 to 4.5.9 in /Project_Flip-Vite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ed4a21b</div>
+                                        <div class="message">Bump vee-validate from 4.5.8 to 4.5.9 in /Project_Flip-Vite
+
+Bumps [vee-validate](https://github.com/logaretm/vee-validate/tree/HEAD/packages/vee-validate) from 4.5.8 to 4.5.9.
+- [Release notes](https://github.com/logaretm/vee-validate/releases)
+- [Changelog](https://github.com/logaretm/vee-validate/blob/main/packages/vee-validate/CHANGELOG.md)
+- [Commits](https://github.com/logaretm/vee-validate/commits/v4.5.9/packages/vee-validate)
+
+---
+updated-dependencies:
+- dependency-name: vee-validate
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7074e87</div>
+                                        <div class="message">Bump @vitejs/plugin-vue from 2.1.0 to 2.2.4 in /Project_Flip-Vite
+
+Bumps [@vitejs/plugin-vue](https://github.com/vitejs/vite/tree/HEAD/packages/plugin-vue) from 2.1.0 to 2.2.4.
+- [Release notes](https://github.com/vitejs/vite/releases)
+- [Changelog](https://github.com/vitejs/vite/blob/main/packages/plugin-vue/CHANGELOG.md)
+- [Commits](https://github.com/vitejs/vite/commits/v2.2.4/packages/plugin-vue)
+
+---
+updated-dependencies:
+- dependency-name: "@vitejs/plugin-vue"
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7566636</div>
+                                        <div class="message">Bump eslint-config-prettier from 8.3.0 to 8.5.0 in /Project_Flip-Vite
+
+Bumps [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) from 8.3.0 to 8.5.0.
+- [Release notes](https://github.com/prettier/eslint-config-prettier/releases)
+- [Changelog](https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/eslint-config-prettier/compare/v8.3.0...v8.5.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint-config-prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93ac3db</div>
+                                        <div class="message">Bump postcss from 8.4.6 to 8.4.7 in /Project_Flip-Vite
+
+Bumps [postcss](https://github.com/postcss/postcss) from 8.4.6 to 8.4.7.
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.4.6...8.4.7)
+
+---
+updated-dependencies:
+- dependency-name: postcss
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c3070d</div>
+                                        <div class="message">Bump vite from 2.7.13 to 2.8.6 in /Project_Flip-Vite
+
+Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) from 2.7.13 to 2.8.6.
+- [Release notes](https://github.com/vitejs/vite/releases)
+- [Changelog](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+- [Commits](https://github.com/vitejs/vite/commits/v2.8.6/packages/vite)
+
+---
+updated-dependencies:
+- dependency-name: vite
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3da8d0e</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b756e1</div>
+                                        <div class="message">Merge pull request #183 from Flipping-Industries/main
+
+Dependency update PR - Main</div>
                                     </div>
                                 </div>
                             </section>
@@ -2936,7 +2254,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2022, 16:08:07 (timezone America/Edmonton) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jun 2022, 17:07:27 (timezone America/Edmonton) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
