@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2381" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3563" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.horizontal{justify-content:space-around}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit,.contributors .contributions{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.contributors .contributions{font-size:.7rem;margin-left:6px;margin-right:-10px;background-color:#58a6ff10;padding:0 7px;border-top-right-radius:32px;border-bottom-right-radius:32px}.contributors .contributions svg{fill:#0366d6;margin-left:4px;width:.8rem;height:.8rem}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            918 Commits
+                            919 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -128,7 +128,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 19 users
+                            Following 24 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    238k added, 145k removed
+                                    2.78m added, 377k removed
                                 </div>
                             </section>
                             <section>
@@ -340,13 +340,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.77680383706164" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="188.77680383706164" y="0" width="104.79726853050532" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="293.57407236756694" y="0" width="50.042338422613135" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="343.61641079018005" y="0" width="47.025501659408974" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="390.64191244958903" y="0" width="33.281884072434565" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="423.9237965220236" y="0" width="24.878094100280283" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.8018906223039" y="0" width="11.198109377696117" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.8000278325078" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="195.8000278325078" y="0" width="104.0815311659436" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="299.88155899845134" y="0" width="47.0129854444991" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="346.8945444429505" y="0" width="45.65045488477741" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.5449993277279" y="0" width="32.3694071815717" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="424.9144065092996" y="0" width="24.19602075654133" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="449.11042726584094" y="0" width="10.889572734159055" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -358,8 +358,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>23.4 MB</div>
-                                <div>41.04%</div>
+                                <div>24.9 MB</div>
+                                <div>42.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -370,8 +370,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>6.20 MB</div>
-                                <div>10.88%</div>
+                                <div>5.99 MB</div>
+                                <div>10.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -383,7 +383,7 @@
                             </div>
                             <small>
                                 <div>4.13 MB</div>
-                                <div>7.24%</div>
+                                <div>7.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -395,7 +395,7 @@
                             </div>
                             <small>
                                 <div>1.39 MB</div>
-                                <div>2.43%</div>
+                                <div>2.37%</div>
                             </small>
                         </div>
                     </section>
@@ -408,8 +408,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>12.9 MB</div>
-                                <div>22.78%</div>
+                                <div>13.2 MB</div>
+                                <div>22.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -420,8 +420,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>5.83 MB</div>
-                                <div>10.22%</div>
+                                <div>5.82 MB</div>
+                                <div>9.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -433,7 +433,7 @@
                             </div>
                             <small>
                                 <div>3.08 MB</div>
-                                <div>5.41%</div>
+                                <div>5.26%</div>
                             </small>
                         </div>
                     </section>
@@ -483,12 +483,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 10 commits)</small>
+                    <small class="h-details">(computed from last 17 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 67.5 characters per line of code written</li>
+                        <li>Has approximately 65.9 characters per line of code written</li>
                         <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -564,8 +564,8 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -645,8 +645,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -1969,194 +1969,758 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
+                                        Pushed 56 commits in
+                                        <span class="repo">ProFireDev/navidrome</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f9c9bf</div>
-                                        <div class="message">Merge pull request #92 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/autoprefixer-10.4.12
-
-Bump autoprefixer from 10.4.8 to 10.4.12 in /Project_Flip-Vite</div>
+                                        <div class="sha">#a2d9aae</div>
+                                        <div class="message">Fix Quality translation in Spanish</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e6cbc47</div>
-                                        <div class="message">Bump autoprefixer from 10.4.8 to 10.4.12 in /Project_Flip-Vite
+                                        <div class="sha">#49392e0</div>
+                                        <div class="message">Update caniuse-lite</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#181cb8a</div>
+                                        <div class="message">Remove `interfacer` linter, as it does not work with Go 1.18 and will not be updated (it is deprecated)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#31882ab</div>
+                                        <div class="message">Upgrade Ginkgo to V2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d8eaa2</div>
+                                        <div class="message">Remove experimental version of `context` package</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4bffb1</div>
+                                        <div class="message">Update @djherbis's packages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f218473</div>
+                                        <div class="message">Remove hardcoded github.com/dhowden/tag branch. Fix #1764</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c3b14c</div>
+                                        <div class="message">Return 501 for "not implemented". Fixes #1785</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cd405d</div>
+                                        <div class="message">Add IP to Subsonic API's invalid login log messages. Closes #1814</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35bec14</div>
+                                        <div class="message">Add missing test case for #1778</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#321b3c5</div>
+                                        <div class="message">Fix fscache key mapping. Closes #1778</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7e50f7</div>
+                                        <div class="message">Fix docker build in pipeline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2e9c81c</div>
+                                        <div class="message">Bump github.com/mileusna/useragent from 1.0.2 to 1.1.0 (#1819)
 
-Bumps [autoprefixer](https://github.com/postcss/autoprefixer) from 10.4.8 to 10.4.12.
-- [Release notes](https://github.com/postcss/autoprefixer/releases)
-- [Changelog](https://github.com/postcss/autoprefixer/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/postcss/autoprefixer/compare/10.4.8...10.4.12)
+Bumps [github.com/mileusna/useragent](https://github.com/mileusna/useragent) from 1.0.2 to 1.1.0.
+- [Release notes](https://github.com/mileusna/useragent/releases)
+- [Commits](https://github.com/mileusna/useragent/compare/v1.0.2...v1.1.0)
 
 ---
 updated-dependencies:
-- dependency-name: autoprefixer
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
+- dependency-name: github.com/mileusna/useragent
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
 ...
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ab0a0d7</div>
-                                        <div class="message">Merge pull request #91 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/vee-validate-4.6.9
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
-Bump vee-validate from 4.6.7 to 4.6.9 in /Project_Flip-Vite</div>
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0679b99</div>
-                                        <div class="message">Bump vee-validate from 4.6.7 to 4.6.9 in /Project_Flip-Vite
+                                        <div class="sha">#4964742</div>
+                                        <div class="message">Bump github.com/sirupsen/logrus from 1.8.1 to 1.9.0 (#1821)
 
-Bumps [vee-validate](https://github.com/logaretm/vee-validate/tree/HEAD/packages/vee-validate) from 4.6.7 to 4.6.9.
-- [Release notes](https://github.com/logaretm/vee-validate/releases)
-- [Changelog](https://github.com/logaretm/vee-validate/blob/main/packages/vee-validate/CHANGELOG.md)
-- [Commits](https://github.com/logaretm/vee-validate/commits/v4.6.9/packages/vee-validate)
+Bumps [github.com/sirupsen/logrus](https://github.com/sirupsen/logrus) from 1.8.1 to 1.9.0.
+- [Release notes](https://github.com/sirupsen/logrus/releases)
+- [Changelog](https://github.com/sirupsen/logrus/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sirupsen/logrus/compare/v1.8.1...v1.9.0)
 
 ---
 updated-dependencies:
-- dependency-name: vee-validate
+- dependency-name: github.com/sirupsen/logrus
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f62533</div>
+                                        <div class="message">Bump github.com/go-chi/cors from 1.2.0 to 1.2.1 (#1822)
+
+Bumps [github.com/go-chi/cors](https://github.com/go-chi/cors) from 1.2.0 to 1.2.1.
+- [Release notes](https://github.com/go-chi/cors/releases)
+- [Commits](https://github.com/go-chi/cors/compare/v1.2.0...v1.2.1)
+
+---
+updated-dependencies:
+- dependency-name: github.com/go-chi/cors
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
 
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#83cb805</div>
-                                        <div class="message">Merge pull request #89 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/eslint-plugin-vue-9.5.1
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 
-Bump eslint-plugin-vue from 9.4.0 to 9.5.1 in /Project_Flip-Vite</div>
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#843fa58</div>
-                                        <div class="message">Bump eslint-plugin-vue from 9.4.0 to 9.5.1 in /Project_Flip-Vite
+                                        <div class="sha">#7d58f44</div>
+                                        <div class="message">Bump github.com/lestrrat-go/jwx from 1.2.17 to 1.2.25 (#1742)
 
-Bumps [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) from 9.4.0 to 9.5.1.
-- [Release notes](https://github.com/vuejs/eslint-plugin-vue/releases)
-- [Commits](https://github.com/vuejs/eslint-plugin-vue/compare/v9.4.0...v9.5.1)
+Bumps [github.com/lestrrat-go/jwx](https://github.com/lestrrat-go/jwx) from 1.2.17 to 1.2.25.
+- [Release notes](https://github.com/lestrrat-go/jwx/releases)
+- [Changelog](https://github.com/lestrrat-go/jwx/blob/v1.2.25/Changes)
+- [Commits](https://github.com/lestrrat-go/jwx/compare/v1.2.17...v1.2.25)
 
 ---
 updated-dependencies:
-- dependency-name: eslint-plugin-vue
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5bca394</div>
-                                        <div class="message">Merge pull request #93 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/eslint-8.24.0
-
-Bump eslint from 8.23.0 to 8.24.0 in /Project_Flip-Vite</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6f5e20</div>
-                                        <div class="message">Bump eslint from 8.23.0 to 8.24.0 in /Project_Flip-Vite
-
-Bumps [eslint](https://github.com/eslint/eslint) from 8.23.0 to 8.24.0.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v8.23.0...v8.24.0)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Flipping-Industries/Flipping-Site</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#523ffc4</div>
-                                        <div class="message">Merge pull request #94 from Flipping-Industries/dependabot/npm_and_yarn/Project_Flip-Vite/vue-3.2.40
-
-Bump vue from 3.2.39 to 3.2.40 in /Project_Flip-Vite</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0110f4c</div>
-                                        <div class="message">Bump vue from 3.2.39 to 3.2.40 in /Project_Flip-Vite
-
-Bumps [vue](https://github.com/vuejs/core) from 3.2.39 to 3.2.40.
-- [Release notes](https://github.com/vuejs/core/releases)
-- [Changelog](https://github.com/vuejs/core/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/vuejs/core/compare/v3.2.39...v3.2.40)
-
----
-updated-dependencies:
-- dependency-name: vue
+- dependency-name: github.com/lestrrat-go/jwx
   dependency-type: direct:production
   update-type: version-update:semver-patch
 ...
 
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#974816f</div>
+                                        <div class="message">Bump github.com/onsi/gomega from 1.18.1 to 1.20.0 (#1817)
+
+Bumps [github.com/onsi/gomega](https://github.com/onsi/gomega) from 1.18.1 to 1.20.0.
+- [Release notes](https://github.com/onsi/gomega/releases)
+- [Changelog](https://github.com/onsi/gomega/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/onsi/gomega/compare/v1.18.1...v1.20.0)
+
+---
+updated-dependencies:
+- dependency-name: github.com/onsi/gomega
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7665478</div>
+                                        <div class="message">Upgrade golangci-lint and fix new lint error</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bde5be3</div>
+                                        <div class="message">Build with GoLang 1.18.4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aae79b4</div>
+                                        <div class="message">Upgrade to GoLang 1.18</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ProFireDev/painfull</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6d2996c</div>
+                                        <div class="message">shit fix for stupid bug</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">ProFireDev/openmw</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c09648c</div>
+                                        <div class="message">Add a missing 0 in fog.glsl</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9264de</div>
+                                        <div class="message">Merge branch 'warnfix' into 'master'
+
+Suppress a GCC 11's format-overflow warning
+
+See merge request OpenMW/openmw!2080</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc34216</div>
+                                        <div class="message">Merge branch 'light' into 'master'
+
+Fix emissive in character preview
+
+See merge request OpenMW/openmw!2088</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9da8448</div>
+                                        <div class="message">Merge branch 'misc_ui' into 'master'
+
+Improved settings window
+
+Closes #6780
+
+See merge request OpenMW/openmw!2087</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e56ac9</div>
+                                        <div class="message">Merge branch 'sizable' into 'master'
+
+Movable and resizable log window
+
+See merge request OpenMW/openmw!2086</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a0e9ac</div>
+                                        <div class="message">fix emissives in character preview</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#63d9fa5</div>
+                                        <div class="message">settings window cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6a07ab</div>
+                                        <div class="message">Merge branch 'fix_image_button_scale' into 'master'
+
+Use float based scale factor for ImageButton texture (#6849)
+
+Closes #6849
+
+See merge request OpenMW/openmw!2076</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a16c55c</div>
+                                        <div class="message">Use float based scale factor for ImageButton texture</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bbcc122</div>
+                                        <div class="message">Merge branch 'fix_icu_from_utf8_debug_crash' into 'master'
+
+Avoid constructing icu::StringPiece from std::string directly (#6782)
+
+Closes #6782
+
+See merge request OpenMW/openmw!2073</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#498a835</div>
+                                        <div class="message">Merge branch 'coverity' into 'master'
+
+Fix some Coverity issues
+
+See merge request OpenMW/openmw!2082</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f649ce</div>
+                                        <div class="message">Merge branch 'fix-appstream-images' into 'master'
+
+Fix the screenshot URLs in the appstream XML
+
+See merge request OpenMW/openmw!2081</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fcab4fe</div>
+                                        <div class="message">make debug window a movable and resizable window</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41a976b</div>
+                                        <div class="message">Suppress a GCC 11's format-overflow warning</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3dfb5d</div>
+                                        <div class="message">Merge branch 'const_casts' into 'master'
+
+Don't cast away const when we can avoid it
+
+See merge request OpenMW/openmw!2085</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cae7bc9</div>
+                                        <div class="message">Merge branch 'locale_ru' into 'master'
+
+Add a Russian localization for built-in Lua content
+
+See merge request OpenMW/openmw!2079</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#132031c</div>
+                                        <div class="message">Merge branch 'project_warp_speed' into 'master'
+
+[Lua] Set simulation time scale
+
+See merge request OpenMW/openmw!2053</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#051832d</div>
+                                        <div class="message">[Lua] Set simulation time scale</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe785ea</div>
+                                        <div class="message">Don't cast away const when we can avoid it</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14b5674</div>
+                                        <div class="message">Init missing data members</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 137 commits in
+                                        <span class="repo">ProFireDev/Ryujinx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#70ec5de</div>
+                                        <div class="message">BSD: Allow use of DontWait flag in Receive (#3462)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7853faa</div>
+                                        <div class="message">Ava/MainWindow: Do not show Show Console menu item on non-Windows (#3461)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7fb474</div>
+                                        <div class="message">Handle the case where byte optionValues are sent to BSD (#3405)
+
+Some games and the Mario Odyssey Multiplayer mod do this.
+
+The SMO multiplayer mod also needs you to revert #3394 as it uses a blocking socket to receive (otherwise it hangs), and it doesn't seem to like being forced as non-blocking.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2fa6413</div>
+                                        <div class="message">Avalonia - Add border to Flyouts (#3341)
+
+* add borders to menus
+
+* apply to dropdowns
+
+* darken the border for dark theme
+
+* fix duplicate keys</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4523a73</div>
+                                        <div class="message">Propagate Shader phi nodes with the same source value from all blocks (#3457)
+
+* Propagate Shader phi nodes with the same source value from all incoming blocks
+
+* Shader cache version bump</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4c47f3</div>
+                                        <div class="message">Avalonia - Make tooltips more useful and descriptive, update Spanish localization (#3453)
+
+* expand English tooltips and clean up
+
+* small oversight
+
+* update Spanish locale
+
+* wording
+
+* Internet
+
+* address feedback
+
+* update localization accordingly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d9a5fe</div>
+                                        <div class="message">Avalonia - Couple fixes and improvements (#3451)
+
+* fix updater check crash
+
+* remove line
+
+* reduce cheat window sizes
+
+* enable tiered compilation and r2r
+
+* remove warning on LaunchState
+
+* remove warnings related to tasks
+
+* addressed review
+
+* undo csproj indentation
+
+* fix tabs in axaml file
+
+* remove double line
+
+* remove R2R</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14ae4e2</div>
+                                        <div class="message">Avalonia - Further Optimize Chinese Translation (#3452)
+
+* Optimize Chinese Translation
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* test
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Update zh_CN.json
+
+* Delete zh_CN.json
+
+* Add files via upload
+
+* Update zh_CN.json
+
+* Update zh_CN.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3af42d6</div>
+                                        <div class="message">UI - Avalonia Part 3 (#3441)
+
+* Add all other windows
+
+* addreesed review
+
+* Prevent "No Update" option from being deleted
+
+* Select no update is the current update is removed from the title update window
+
+* fix amiibo crash</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bccf5e8</div>
+                                        <div class="message">Avalonia - Use loaded config when assigning controller input (#3447)
+
+* Use loaded config when assigning controller input
+
+* Fix crash when switch player in controller window</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d86a116</div>
+                                        <div class="message">ensure mouse cursor is only hidden when mouse is in renderer (#3448)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c2ab88</div>
+                                        <div class="message">misc: Relicense Ryujinx.Audio under the terms of the MIT license (#3449)
+
+* Ryujinx.Audio: Remove BOM from files
+
+* misc: Relicense Ryujinx.Audio under the terms of the MIT license
+
+With the approvals of all the Ryujinx.Audio contributors, this commit
+changes Ryujinx.Audio license from LGPLv3 to MIT.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc5bb44</div>
+                                        <div class="message">Fix deadlock in mouse input on Avalonia (#3444)
+
+* fix deadlock in mouse input
+
+* apply @AcK77 changes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55e9795</div>
+                                        <div class="message">Fix Vi managed and stray layers open/close/destroy (#3438)
+
+* Fix Vi managed and stray layers open/close/destroy
+
+* OpenLayer should set the state to ManagedOpened</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7ef636</div>
+                                        <div class="message">Implement CPU FCVT Half &lt;-&gt; Double conversion variants (#3439)
+
+* Half &lt;-&gt; Double conversion support
+
+* Add tests, fast path and deduplicate SoftFloat code
+
+* PPTC version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b46b63e</div>
+                                        <div class="message">Add support for alpha to coverage dithering (#3069)
+
+* Add support for alpha to coverage dithering
+
+* Shader cache version bump
+
+* Fix wrong alpha register
+
+* Ensure support buffer is cleared
+
+* New shader specialization based approach</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#594246e</div>
+                                        <div class="message">UI - Avalonia Part 2 (#3351)
+
+* add settings windows and children views
+
+* Expose hotkeys configuration on the UI
+
+* Remove double spacing from locale JSON
+
+* simplify button assigner
+
+* add cemuhook buttons and title to locale
+
+* move common button assigner to own class
+
+* cancel button assigner when window is closed
+
+* remove unused setting
+
+* address review. fix controller profile not loading default when switching devices
+
+* fix updater file name
+
+* Input cleanup (#37)
+
+* addressed review
+
+* add device type to controller device checks
+
+* change accessibility modifier of public classes to internal
+
+* Update Ryujinx.Ava/Ui/ViewModels/ControllerSettingsViewModel.cs
+
+Co-authored-by: gdkchan &lt;gab.dark.100@gmail.com&gt;
+
+* Update de_DE.json
+
+* Update de_DE.json
+
+* Update tr_TR.json
+
+Translated newly added lines
+
+* Update it_IT.json
+
+* fix rebase
+
+* update avalonia
+
+* fix wrong key used for button text
+
+* Align settings window elements
+
+* Tabs to spaces
+
+* Update brazilian portuguese translation
+
+* Minor improvement on brazilian portuguese translation
+
+* fix turkish translation
+
+* remove unused text
+
+* change view related classes to public
+
+* unsubscribe from deferred event if dialog is closed
+
+* Load the default language before loading any other when switching languages
+
+* Make controller settings more compact
+
+* increase default width of settings window, reduce profile buttons width
+
+Co-authored-by: gdk &lt;gab.dark.100@gmail.com&gt;
+Co-authored-by: MutantAura &lt;44103205+MutantAura@users.noreply.github.com&gt;
+Co-authored-by: Niwu34 &lt;67392333+Niwu34@users.noreply.github.com&gt;
+Co-authored-by: aegiff &lt;99728970+aegiff@users.noreply.github.com&gt;
+Co-authored-by: Antonio Brugnolo &lt;36473846+AntoSkate@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d21b403</div>
+                                        <div class="message">Stub GetTemperature (#3429)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5afd521</div>
+                                        <div class="message">Bindless elimination for constant sampler handle (#3424)
+
+* Bindless elimination for constant sampler handle
+
+* Shader cache version bump
+
+* Update TextureHandle.ReadPackedId for new bindless elimination</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0c66d71</div>
+                                        <div class="message">ui: Fix timezone abbreviation since #3361 (#3430)
+
+As title say</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 98 commits in
+                                        <span class="repo">ProFireDev/Vukkybox</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#75b98cc</div>
+                                        <div class="message">Bump postcss-cli from 9.1.0 to 10.0.0
+
+Bumps [postcss-cli](https://github.com/postcss/postcss-cli) from 9.1.0 to 10.0.0.
+- [Release notes](https://github.com/postcss/postcss-cli/releases)
+- [Changelog](https://github.com/postcss/postcss-cli/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss-cli/compare/9.1.0...10.0.0)
+
+---
+updated-dependencies:
+- dependency-name: postcss-cli
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e09150</div>
+                                        <div class="message">Update balance.ejs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74fa665</div>
+                                        <div class="message">Update navbar.ejs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afcaab0</div>
+                                        <div class="message">Revert "test"
+
+This reverts commit 94f47c7c05039990a7d4977cdeaed06981b3ff75.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94f47c7</div>
+                                        <div class="message">test</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#25d7aa6</div>
+                                        <div class="message">change to bg endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a111545</div>
+                                        <div class="message">OOPS</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b30c1f</div>
+                                        <div class="message">Update navbar.ejs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67bce5d</div>
+                                        <div class="message">bye bye gravatar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a82a1b4</div>
+                                        <div class="message">litauth avatars!</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5b0188</div>
+                                        <div class="message">Update app.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09c29df</div>
+                                        <div class="message">Update loginPopup.ejs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3520f43</div>
+                                        <div class="message">links are blue</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a792dd4</div>
+                                        <div class="message">login updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbe5437</div>
+                                        <div class="message">Update app.js</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76b8d12</div>
+                                        <div class="message">fixes and cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3014ed4</div>
+                                        <div class="message">clean up links</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#facd445</div>
+                                        <div class="message">fix dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad2ab09</div>
+                                        <div class="message">some amount of clean up</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa60f7b</div>
+                                        <div class="message">begin</div>
                                     </div>
                                 </div>
                             </section>
@@ -2202,7 +2766,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2022, 12:15:52 (timezone America/Edmonton) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 29 Sept 2022, 13:14:00 (timezone America/Edmonton) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
