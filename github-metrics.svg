@@ -1585,7 +1585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apple/pkl</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A configuration as code language with rich validation and tooling.</div>
@@ -1802,7 +1802,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Feb 2024, 23:10:30 (timezone America/Edmonton) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2024, 00:07:21 (timezone America/Edmonton) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
