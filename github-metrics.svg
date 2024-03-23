@@ -1537,7 +1537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getumbrel/umbrel</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.</div>
@@ -1814,7 +1814,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2024, 10:07:49 (timezone America/Edmonton) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2024, 11:07:15 (timezone America/Edmonton) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
