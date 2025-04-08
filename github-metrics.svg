@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kopia/kopia</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</div>
@@ -1842,7 +1842,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2025, 10:13:31 (timezone America/Edmonton) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Apr 2025, 11:10:09 (timezone America/Edmonton) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
